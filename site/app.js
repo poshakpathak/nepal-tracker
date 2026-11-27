@@ -603,12 +603,34 @@ function about() {
     <p>The code and data are open on <a href="https://github.com/poshakpathak/nepal-tracker" target="_blank" rel="noopener">GitHub</a>.</p></div>`;
 }
 
+const PSTATUS = {
+  passed: ["Passed", "पारित"], bill: ["Bill in Parliament", "संसदमा विधेयक"], lapsed: ["Ordinance lapsed", "अध्यादेश निष्क्रिय"],
+  deadline: ["Deadline passed", "समयसीमा नाघ्यो"], none: ["Nothing yet", "अहिलेसम्म केही छैन"],
+};
+async function promisesPage() {
+  const d = await load("pledges");
+  const order = ["passed", "bill", "lapsed", "deadline", "none"];
+  const ps = (id) => d.pledges.filter((p) => p.party === id);
+  const host = (u) => { try { return new URL(u).hostname.replace(/^www\.|^english\.|^en\./, ""); } catch { return ""; } };
+  const card = (p) => `<li class="pl ps-${p.status}"><span class="pst">${L(...PSTATUS[p.status])}</span>
+      <div><p class="plt">${esc(L(p.en, p.ne))}</p><p class="small muted">${esc(L(p.note, p.note_ne))}</p>
+      <p class="small">${p.bill ? `<a href="#/bill/${p.bill}">${esc(L(p.bill_title || p.bill_title_ne, p.bill_title_ne || p.bill_title))}</a> · ` : ""}<a href="${esc(p.source)}" target="_blank" rel="noopener" class="muted">${L("Source", "स्रोत")}: ${esc(host(p.source))}</a></p></div></li>`;
+  app.innerHTML = `<p class="kicker">${L("Manifestos of March 2026", "फागुन २०८२ का घोषणापत्र")}</p><h1>${L("Promises", "वाचा")}</h1>
+    <p class="lede">${L("What the parties promised that needs Parliament to act, and what the record shows so far. A pledge tied to a bill moves to <b>Passed</b> on its own when that bill completes. Everything else is checked by hand", "संसदले काम गर्नुपर्ने गरी दलहरूले गरेका वाचा, र अहिलेसम्मको अभिलेख। विधेयकसँग जोडिएको वाचा त्यो विधेयक पारित हुनासाथ आफैँ <b>पारित</b> मा सर्छ। बाँकी हातैले जाँचिन्छ")}, ${L("last on", "पछिल्लो पटक")} ${day(d.checked)}.</p>
+    <div class="plkey">${order.map((k) => `<span class="ps-${k}"><i></i>${L(...PSTATUS[k])}</span>`).join("")}</div>
+    ${d.parties.map((pt) => { const list = ps(pt.id).sort((a, b) => order.indexOf(a.status) - order.indexOf(b.status)); return `
+    <section class="sec"><div class="plhead"><div><h2>${esc(L(pt.name, pt.ne))}</h2><p class="small muted">${esc(L(pt.role, pt.role_ne))}</p></div>
+      <div class="plstrip" aria-label="${list.length}">${list.map((p) => `<i class="ps-${p.status}" title="${esc(L(...PSTATUS[p.status]))}"></i>`).join("")}</div></div>
+      <ol class="pls">${list.map(card).join("")}</ol></section>`; }).join("")}
+    <p class="small muted" style="max-width:720px">${esc(L(d.targets.en, d.targets.ne))} ${L("Pledge wording is paraphrased from news coverage of each manifesto. Opposition parties rarely pass bills, so their pledges mostly show <b>Nothing yet</b>; they're here so the record is complete.", "वाचाका शब्द घोषणापत्रबारेका समाचारबाट लिइएका हुन्। विपक्षी दलले विरलै विधेयक पारित गर्छन्, त्यसैले तिनका वाचा प्रायः <b>अहिलेसम्म केही छैन</b> मा छन्; अभिलेख पूरा होस् भनेर राखिएका हुन्।")}</p>`;
+}
+
 /* ------------------------------------------------------------ router */
 
 const routes = [
   [/^#?\/?$/, overview], [/^#\/members(?:\?q=(.*))?$/, (q) => membersPage(q && decodeURIComponent(q))], [/^#\/member\/([\w-]+)$/, memberPage],
   [/^#\/attendance$/, attendance], [/^#\/bills$/, billsPage], [/^#\/bill\/([\w-]+)$/, billPage],
-  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/map(?:\/(.+))?$/, mapPage], [/^#\/topics$/, topicsPage], [/^#\/topic\/([\w-]+)$/, topicPage], [/^#\/about$/, about],
+  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/map(?:\/(.+))?$/, mapPage], [/^#\/topics$/, topicsPage], [/^#\/topic\/([\w-]+)$/, topicPage], [/^#\/promises$/, promisesPage], [/^#\/about$/, about],
 ];
 async function route() {
   if (!Object.keys(TOPIC).length) TOPIC = Object.fromEntries(((await tryLoad("topics")) || []).map((t) => [t.id, t]));
