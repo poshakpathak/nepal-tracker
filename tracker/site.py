@@ -10,7 +10,22 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-from .translate import english
+from .topics import LABELS, tag
+from .translate import DEV, english
+
+# Statement "kinds" that name a slot in the order of business, not a subject.
+GENERIC_KINDS = {"Emergency Time", "Special Hour", "Others", "Other", "Zero Hour", "Bill Discussion", "अन्य"}
+
+
+def statement(st, tr):
+    """A floor statement with English versions and topics attached."""
+    kind_en = english(st.get("kind"), tr)
+    out = {**st, "text_en": english(st.get("text"), tr), "kind_en": kind_en}
+    subj = None if st.get("kind") in GENERIC_KINDS else st.get("kind")
+    subj_en = kind_en or (subj if subj and not DEV.search(subj) else None)
+    out["topics"] = tag([subj_en, out["text_en"] or (st.get("text") if st.get("text") and not DEV.search(st["text"]) else None)],
+                        [subj, st.get("text")])
+    return out
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -154,6 +169,7 @@ def build(out=ROOT / "dist"):
     sittings = {}  # plenary sitting id -> {date, title, chamber, in, out}
     tr = read(DATA / "translations.json", {})  # Nepali sentence -> machine English
     members = [m for m in members if m.get("chamber")]  # drop stray listing pages
+    talk = defaultdict(lambda: defaultdict(int))  # topic -> member -> statements
     for m in members:
         full = read(DATA / "members" / f"{m['slug']}.json", {})
         rows.append({
@@ -178,6 +194,12 @@ def build(out=ROOT / "dist"):
                 s["out"] += 1
             elif r["status"] == "partial":
                 s["part"] += 1
+        stmts = [statement(st, tr) for st in full.get("statements", [])]
+        mine = defaultdict(int)
+        for st in stmts:
+            for t in st["topics"]:
+                mine[t] += 1
+                talk[t][m["slug"]] += 1
         house_rows = [r for r in full.get("meetings", []) if r["scope"] == "house" and r["status"] in ("present", "absent", "partial")]
         rows[-1].update(streaks(house_rows))
         # The member file the browser loads: profile plus compact attendance rows.
@@ -186,7 +208,8 @@ def build(out=ROOT / "dist"):
             "start": full.get("term_start"),
             "att": [[r["meeting"], r["date"], r["status"][:1] if r["status"] else "", r["scope"][0], r["title"]]
                     for r in full.get("meetings", [])],
-            "statements": [{**st, "text_en": english(st.get("text"), tr), "kind_en": english(st.get("kind"), tr)} for st in full.get("statements", [])],
+            "statements": stmts,
+            "topics": sorted(mine.items(), key=lambda kv: -kv[1]),
             "bio_en": {k: english(v, tr) for k, v in (full.get("bio") or {}).items() if isinstance(v, str) and english(v, tr)},
             "months": monthly(house_rows),
         })
@@ -217,6 +240,7 @@ def build(out=ROOT / "dist"):
     for b in bills:
         if not b.get("title") and english(b.get("title_ne"), tr):
             b["title_mt"] = english(b["title_ne"], tr)
+        b["topics"] = tag(b.get("title") or b.get("title_mt"), b.get("title_ne"))
     write(d / "bills.json", bills)
     for b in bills:
         src = DATA / "bills" / f"{b['id']}.json"
@@ -224,12 +248,23 @@ def build(out=ROOT / "dist"):
             write(d / "b" / f"{b['id']}.json", {**read(src), "title_mt": b.get("title_mt")})
     for mt in meetings:
         mt["agenda_en"] = english(mt.get("agenda"), tr)
+        ag = mt.get("agenda") or ""
+        mt["topics"] = tag(mt["agenda_en"] or (ag if ag and not DEV.search(ag) else None), ag)
+    # Topic index: what each topic covers and who speaks on it most.
+    topics = []
+    for slug, label in LABELS.items():
+        tb = [b["id"] for b in bills if slug in b["topics"]]
+        tm = sorted((m for m in meetings if slug in m["topics"]), key=lambda m: m.get("date") or "", reverse=True)
+        speakers = sorted(talk[slug].items(), key=lambda kv: -kv[1])
+        topics.append({"id": slug, "label": label, "bills": tb, "meetings": len(tm), "recent": [m["id"] for m in tm[:25]],
+                       "statements": sum(talk[slug].values()), "speakers": speakers[:15], "speakers_n": len(speakers)})
+    write(d / "topics.json", topics)
     write(d / "meetings.json", meetings)
     for mt in meetings:
         src = DATA / "meetings" / f"{mt['id']}.json"
         if src.exists():
             g = read(src)
-            write(d / "g" / f"{mt['id']}.json", {**g, "agenda_en": english(g.get("agenda"), tr), "minutes_en": english(g.get("minutes"), tr)})
+            write(d / "g" / f"{mt['id']}.json", {**g, "agenda_en": english(g.get("agenda"), tr), "minutes_en": english(g.get("minutes"), tr), "topics": mt["topics"]})
     write(d / "meta.json", meta)
     print(f"site: {len(rows)} members, {len(sittings)} sittings, {len(bills)} bills, {len(meetings)} meetings -> {out}")
 
