@@ -79,6 +79,9 @@ def texts():
     members = [read(p, {}) for p in sorted((DATA / "members").glob("*.json"))]
     out += [s.get(k) for m in members for s in m.get("statements") or [] for k in ("kind", "text")]
     out += [v for m in members for v in (m.get("bio") or {}).values() if isinstance(v, str)]
+    for r in read(DATA / "election.json", []):
+        for c in r["candidates"]:
+            out += [c.get("party_ne"), c.get("experience"), c.get("qualification")]
     for m in meetings:
         full = read(DATA / "meetings" / f"{m['id']}.json", {})
         out.append(full.get("minutes"))

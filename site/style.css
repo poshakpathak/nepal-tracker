@@ -22,6 +22,13 @@ a:hover { background: var(--pop); color: var(--pop-ink); text-decoration: none; 
 .top { background: #000; color: #fff; }
 .home { max-width: 1200px; margin: 0 auto; padding: 8px 20px 0; display: flex; justify-content: space-between; gap: 12px; font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #bbb; }
 .home a { color: #bbb; text-decoration: none; }
+.home > span { display: flex; gap: 14px; align-items: center; }
+#lang { background: none; border: 1.5px solid #bbb; color: #fff; padding: 1px 8px; font: 700 12px var(--deva); letter-spacing: 0; text-transform: none; }
+#lang:hover { background: #fff; color: #000; }
+/* Nepali mode: Devanagari type throughout, a touch more line height. */
+html[lang=ne] body { font-family: var(--deva); line-height: 1.6; }
+html[lang=ne] h1, html[lang=ne] h2, html[lang=ne] .brand, html[lang=ne] nav a, html[lang=ne] .tile b { font-family: var(--deva); letter-spacing: 0; }
+html[lang=ne] h1 { font-weight: 800; line-height: 1.2; }
 .mast { max-width: 1200px; margin: 0 auto; padding: 14px 20px 14px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 24px; }
 .brand { font: 900 30px/1 var(--sans); font-stretch: 125%; text-transform: uppercase; letter-spacing: -0.01em; color: #fff; text-decoration: none; }
 .brand span { color: #ff3b4f; }
@@ -64,7 +71,7 @@ h3 { font-size: 12px; font-weight: 800; letter-spacing: .09em; text-transform: u
 .tag.line { background: none; color: var(--text); box-shadow: inset 0 0 0 1.5px var(--ink); }
 
 .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; align-items: center; }
-input[type=search], select, button { font: 600 14px var(--sans); padding: 7px 10px; border: 2px solid var(--ink); border-radius: 0; background: var(--bg); color: var(--text); }
+input[type=search], input[type=email], select, button { font: 600 14px var(--sans); padding: 7px 10px; border: 2px solid var(--ink); border-radius: 0; background: var(--bg); color: var(--text); }
 main input[type=search] { min-width: 240px; flex: 1 1 240px; max-width: 420px; }
 button { font-size: 12px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; cursor: pointer; }
 button:hover:not(:disabled), button.on { background: var(--ink); color: var(--bg); }
@@ -102,6 +109,7 @@ td > a:first-child { font-weight: 700; }
 .rank { list-style: none; margin: 0; padding: 0; counter-reset: r; }
 .rank li { counter-increment: r; display: grid; grid-template-columns: 34px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--ink); }
 .rank li::before { content: counter(r); font: 900 22px/1 var(--sans); font-stretch: 115%; }
+html[lang=ne] .rank li::before { content: counter(r, devanagari); font-family: var(--deva); }
 .rank .v { font: 900 20px/1 var(--sans); font-variant-numeric: tabular-nums; }
 .rank .sub { display: block; font-size: 12.5px; color: var(--muted); }
 
@@ -136,6 +144,13 @@ td > a:first-child { font-weight: 700; }
 details.orig { margin-top: 8px; }
 details.orig summary { cursor: pointer; font-size: 12px; font-weight: 700; color: var(--muted); }
 details.orig .ne { margin-top: 6px; }
+
+/* Election race */
+.cand { padding: 8px 0 10px; border-bottom: 1px solid var(--soft); }
+.cand .bar { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.cand .bar i { display: block; height: 12px; background: var(--none); }
+.cand.won .bar i { background: var(--deep); }
+.cand .bar span { font-size: 12.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
 
 /* Topics */
 .chips { display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; }

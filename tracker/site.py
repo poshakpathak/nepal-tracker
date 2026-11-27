@@ -10,11 +10,50 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-from .topics import LABELS, tag
+from . import election
+from .topics import LABELS, LABELS_NE, tag
 from .translate import DEV, english
 
 # Statement "kinds" that name a slot in the order of business, not a subject.
 GENERIC_KINDS = {"Emergency Time", "Special Hour", "Others", "Other", "Zero Hour", "Bill Discussion", "अन्य"}
+
+
+# The Commission's spellings of party names the portal writes differently, plus
+# the larger parties that won no seats.
+EC_PARTIES = {
+    "स्वतन्त्र": "Independent",
+    "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)": "Communist Party of Nepal (UML)",
+    "जनता समाजवादी पार्टी, नेपाल": "Janata Samajwadi Party Nepal",
+    "नेपाल कम्युनिस्ट पार्टी (माओवादी)": "Communist Party of Nepal (Maoist)",
+    "नेपाल मजदुर किसान पार्टी": "Nepal Majdur Kisan Party",
+    "मंगोल नेशनल अर्गनाइजेसन": "Mongol National Organisation",
+    "उज्यालो नेपाल पार्टी": "Ujyaalo Nepal Party",
+    "आम जनता पार्टी(एकल चुनाव चिन्ह)": "Aam Janata Party",
+    "प्रगतिशील लोकतान्त्रिक पार्टी": "Pragatishil Loktantrik Party",
+    "राष्ट्रिय जनमोर्चा": "Rastriya Janamorcha",
+}
+
+QUALIFICATIONS = {"स्नातक": "Bachelor's", "स्\u200dनातक": "Bachelor's", "स्नातकोत्तर": "Master's", "स्नाकोत्तर": "Master's", "एम.ए.": "Master's (MA)",
+                  "+2": "Higher secondary (+2)", "प्रमाणपत्र तह": "Higher secondary (+2)", "एस.एल.सी.": "SLC", "विद्यावारिधी": "PhD", "विद्यावारिधि": "PhD", "बिध्यावारिधी": "PhD"}
+
+
+def race_summary(r, party_en, tr):
+    """What the member page shows about how a member won their seat."""
+    cands = r["candidates"]
+    win = next(c for c in cands if c["elected"])
+    second = next((c for c in cands if not c["elected"]), None)
+    lead = win["votes"] - (second["votes"] if second else 0)
+    q = win.get("qualification")
+    return {
+        "total": r["total"], "votes": win["votes"], "n": len(cands),
+        "share": round(100 * win["votes"] / r["total"], 1) if r["total"] else None,
+        "margin": lead, "margin_pct": round(100 * lead / r["total"], 1) if r["total"] else None,
+        "field": [[c["name_ne"], party_en.get(c["party_ne"]) or english(c["party_ne"], tr) or c["party_ne"], c["votes"], c["elected"], c["party_ne"]]
+                  for c in cands[:6]],
+        "age": win.get("age"), "born_bs": win.get("born_bs"),
+        "qualification": QUALIFICATIONS.get(q, english(q, tr) or q) if q else None, "qualification_ne": q, "institution": win.get("institution"),
+        "experience": win.get("experience"), "experience_en": english(win.get("experience"), tr),
+    }
 
 
 def statement(st, tr):
@@ -50,6 +89,22 @@ DISTRICT_FIX = {
     "Nawalparasi (Bardaghat Susta Paschim)": "Nawalparasi West", "Nawalparasi (Bardaghat Susta Purva)": "Nawalparasi East",
 }
 PROVINCES = {"Koshi": 1, "Madhesh": 2, "Bagmati": 3, "Gandaki": 4, "Lumbini": 5, "Karnali": 6, "Sudurpaschim": 7}
+
+
+PROVINCES_NE = {1: "कोशी प्रदेश", 2: "मधेश प्रदेश", 3: "बागमती प्रदेश", 4: "गण्डकी प्रदेश", 5: "लुम्बिनी प्रदेश", 6: "कर्णाली प्रदेश", 7: "सुदूरपश्चिम प्रदेश"}
+
+
+def seat_ne(m, dist_ne):
+    """The seat in Nepali: "दोलखा-1", a proportional member's home district, or a province."""
+    seat = (m.get("seat") or "").strip()
+    prov = re.match(r"(\w+) Province$", seat)
+    if prov:
+        return PROVINCES_NE.get(PROVINCES.get(prov.group(1)))
+    hit = re.match(r"(.+)-(\d+)$", seat)
+    if m.get("election") == "direct" and hit:
+        return f"{dist_ne[hit.group(1)]}-{hit.group(2)}" if hit.group(1) in dist_ne else None
+    home = (m.get("district") or seat).strip()
+    return dist_ne.get(home)
 
 
 def place(m):
@@ -170,13 +225,20 @@ def build(out=ROOT / "dist"):
     tr = read(DATA / "translations.json", {})  # Nepali sentence -> machine English
     members = [m for m in members if m.get("chamber")]  # drop stray listing pages
     talk = defaultdict(lambda: defaultdict(int))  # topic -> member -> statements
+    # 2082 election results, matched to directly elected members.
+    party_en = {m.get("party_ne"): m.get("party") for m in members if m.get("party_ne") and m.get("party")}
+    party_en.update(EC_PARTIES)
+    matched, dist_ne = election.match(members, read(DATA / "election.json", []))
+    races = {k: race_summary(v, party_en, tr) for k, v in matched.items()}
     for m in members:
         full = read(DATA / "members" / f"{m['slug']}.json", {})
         rows.append({
-            "id": m["slug"], "name": m["name"], "ne": m.get("name_ne"), "ch": m.get("chamber"),
+            "id": m["slug"], "name": m["name"], "ne": election.clean_name_ne(m.get("name_ne")), "ch": m.get("chamber"),
             "party": m.get("party") or "No party", "seat": m.get("seat"), "el": m.get("election"), "g": m.get("gender"),
             "role": m.get("role"), "office": m.get("office"), "photo": m.get("photo"),
             "dist": place(m)[0], "prov": place(m)[1],
+            "pne": m.get("party_ne"), "seat_ne": seat_ne(m, dist_ne),
+            "won": {k: races[m["slug"]][k] for k in ("share", "margin", "margin_pct")} if m["slug"] in races else None,
             "house": short_att(m["attendance"].get("house")),
             "cmte": short_att(m["attendance"].get("committee")),
             "cm": [c["name"] for c in m.get("committees", [])],
@@ -209,6 +271,7 @@ def build(out=ROOT / "dist"):
             "att": [[r["meeting"], r["date"], r["status"][:1] if r["status"] else "", r["scope"][0], r["title"]]
                     for r in full.get("meetings", [])],
             "statements": stmts,
+            "race": races.get(m["slug"]),
             "topics": sorted(mine.items(), key=lambda kv: -kv[1]),
             "bio_en": {k: english(v, tr) for k, v in (full.get("bio") or {}).items() if isinstance(v, str) and english(v, tr)},
             "months": monthly(house_rows),
@@ -256,9 +319,10 @@ def build(out=ROOT / "dist"):
         tb = [b["id"] for b in bills if slug in b["topics"]]
         tm = sorted((m for m in meetings if slug in m["topics"]), key=lambda m: m.get("date") or "", reverse=True)
         speakers = sorted(talk[slug].items(), key=lambda kv: -kv[1])
-        topics.append({"id": slug, "label": label, "bills": tb, "meetings": len(tm), "recent": [m["id"] for m in tm[:25]],
+        topics.append({"id": slug, "label": label, "ne": LABELS_NE[slug], "bills": tb, "meetings": len(tm), "recent": [m["id"] for m in tm[:25]],
                        "statements": sum(talk[slug].values()), "speakers": speakers[:15], "speakers_n": len(speakers)})
     write(d / "topics.json", topics)
+    write(d / "places.json", {DISTRICT_FIX.get(k, k): v for k, v in dist_ne.items()})
     write(d / "meetings.json", meetings)
     for mt in meetings:
         src = DATA / "meetings" / f"{mt['id']}.json"
