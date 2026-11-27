@@ -189,6 +189,22 @@ async function membersPage(q) {
   apply();
 }
 
+/* How a directly elected member won their seat, from the Election Commission. */
+function raceHtml(m) {
+  const r = m.race;
+  if (!r) return "";
+  const max = r.field[0]?.[2] || 1;
+  const bg = [["Age at the election", r.age], ["Education", r.qualification], ["Studied at", r.institution]].filter(([, v]) => v);
+  return `<section class="sec"><h2>The 2026 election</h2>
+    <p class="lede" style="margin-bottom:18px">Won ${esc(m.seat)} with <b>${num(r.votes)}</b> votes, ${r.share}% of the ${num(r.total)} cast for ${r.n} candidates, ${r.margin_pct < 3 ? "a narrow" : r.margin_pct > 20 ? "a wide" : "a"} lead of <b>${num(r.margin)}</b> over the runner-up.</p>
+    <div class="grid"><div>${r.field.map(([name, party, votes, won]) => `<div class="cand${won ? " won" : ""}"><div>${won ? `<b>${esc(m.name)}</b>` : `<span class="ne">${esc(name)}</span>`}<span class="small muted"> · ${esc(party)}</span></div>
+        <div class="bar"><i style="width:${(100 * votes) / max}%"></i><span>${num(votes)}</span></div></div>`).join("")}
+      ${r.n > r.field.length ? `<p class="small muted">and ${r.n - r.field.length} more candidates.</p>` : ""}</div>
+      <div>${bg.length || r.experience ? `<h3>What they told the Election Commission</h3><dl class="facts">${bg.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}
+        ${r.experience ? `<dt>Experience</dt><dd>${bilingual(r.experience_en, r.experience)}</dd>` : ""}</dl>` : ""}</div></div>
+    <p class="small muted">Source: <a href="https://result.election.gov.np/ElectionResultCentral2082.aspx" target="_blank" rel="noopener">Election Commission, Nepal</a>. Background details are as each candidate filed them.</p></section>`;
+}
+
 async function memberPage(id) {
   const m = await tryLoad(`m/${id}`);
   if (!m) { app.innerHTML = `<h1>Not found</h1><p>No member with that id.</p>`; return; }
@@ -224,6 +240,7 @@ async function memberPage(id) {
         ${(m.terms || []).length > 1 ? `<h3>Earlier terms</h3><p class="small">${m.terms.slice(1).map((t) => `${esc(t.years)}: ${esc(t.org)}`).join("<br>")}</p>` : ""}
       </section>
     </div>
+    ${raceHtml(m)}
     <section class="sec"><h2>Floor statements</h2>${m.topics?.length ? `<p class="small"><b>Spoke on:</b> ${m.topics.map(([t, n]) => `<a class="chip" href="#/topic/${t}">${esc(TOPIC[t] || t)} <b>${n}</b></a>`).join("")}</p>` : ""}
       ${m.statements.length ? `<div class="tablewrap"><table><thead><tr><th>Occasion</th><th>When</th><th></th></tr></thead><tbody>${m.statements.map((s) =>
         `<tr><td>${s.kind_en ? `${esc(s.kind_en)} <span class="mt" data-tip="${MT_TIP}">MT</span>` : `<span class="${/[\u0900-\u097f]/.test(s.kind || "") ? "ne" : ""}">${esc(s.kind)}</span>`}${s.text ? (s.text_en ? `<div class="small">${esc(clip(s.text_en, 400))} ${mtTag}</div><details class="orig small"><summary>Nepali original</summary><div class="ne">${nl(s.text)}</div></details>` : `<div class="small ne">${esc(clip(s.text, 400))}</div>`) : ""}</td><td>${esc(s.context)}</td><td class="nw">${s.video ? `<a href="${esc(s.video)}" target="_blank" rel="noopener">Watch</a>` : ""}</td></tr>`).join("")}</tbody></table></div>`
@@ -422,7 +439,9 @@ async function mapPage(sel) {
   if (!sel || !by[sel]) {
     const ranked = Object.values(by).filter((d) => d.pct != null).sort((a, b) => a.pct - b.pct);
     const row = (d) => `<li><span><a href="#/map/${encodeURIComponent(d.name)}">${esc(d.name)}</a><span class="sub">${PROV[d.province]} · ${d.fptp.length} seat${d.fptp.length === 1 ? "" : "s"}</span></span><span class="v">${d.pct}%</span></li>`;
-    host.innerHTML = `<div class="grid"><section class="sec"><h2>Lowest districts</h2><ol class="rank">${ranked.slice(0, 10).map(row).join("")}</ol></section>
+    const close = members.filter((m) => m.won).sort((a, b) => a.won.margin - b.won.margin).slice(0, 10);
+    const tight = `<section class="sec"><h2>Closest races of 2026</h2><p class="small muted">Seats won by the smallest number of votes.</p><ol class="rank">${close.map((m) => `<li><span>${mlink(m)}<span class="sub">${esc(m.seat)} · ${esc(short(m.party))}</span></span><span class="v">${num(m.won.margin)}</span></li>`).join("")}</ol></section>`;
+    host.innerHTML = `${tight}<div class="grid"><section class="sec"><h2>Lowest districts</h2><ol class="rank">${ranked.slice(0, 10).map(row).join("")}</ol></section>
       <section class="sec"><h2>Highest districts</h2><ol class="rank">${[...ranked].reverse().slice(0, 10).map(row).join("")}</ol></section></div>`;
     return;
   }
@@ -472,6 +491,7 @@ function about() {
     <p><b>No votes.</b> Nepal's parliament decides almost everything by voice vote. When a division is called, only the totals are published, never the names. So unlike trackers for other legislatures, this one can't show how each member voted.</p>
     <p><b>Ministers.</b> At least one minister must be present for House business, so ministers usually attend only when their portfolio is on the agenda. Their attendance is lower for that reason.</p>
     <p><b>Language.</b> Names, parties and bill summaries are in English where the portal provides them. Agendas, minutes, floor statements, member biographies and a few bill titles are only published in Nepali. Those are machine-translated with Meta's open <a href="https://ai.meta.com/research/no-language-left-behind/" target="_blank" rel="noopener">NLLB-200</a> model (CC BY-NC 4.0) and marked <span class="mt">Machine translation</span>. The Nepali original is always one click away, and it is the authoritative text.</p>
+    <p><b>Election results.</b> Vote counts and each winner's stated age, education and experience come from the Election Commission's <a href="https://result.election.gov.np/ElectionResultCentral2082.aspx" target="_blank" rel="noopener">2082 results</a>, matched to members by constituency. The Commission does not publish candidates' asset declarations, so this site can't show them.</p>
     <p><b>Map.</b> District boundaries come from <a href="https://github.com/mesaugat/geoJSON-Nepal" target="_blank" rel="noopener">geoJSON-Nepal</a> by Saugat Acharya (MIT licence), simplified for the web. A district's shade is the combined attendance of its directly elected House members. Proportional members are listed under their home district, and National Assembly members under their province.</p>
     <p>The code and data are open on <a href="https://github.com/poshakpathak/nepal-tracker" target="_blank" rel="noopener">GitHub</a>.</p></div>`;
 }

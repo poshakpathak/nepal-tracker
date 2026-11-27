@@ -137,6 +137,13 @@ details.orig { margin-top: 8px; }
 details.orig summary { cursor: pointer; font-size: 12px; font-weight: 700; color: var(--muted); }
 details.orig .ne { margin-top: 6px; }
 
+/* Election race */
+.cand { padding: 8px 0 10px; border-bottom: 1px solid var(--soft); }
+.cand .bar { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.cand .bar i { display: block; height: 12px; background: var(--none); }
+.cand.won .bar i { background: var(--deep); }
+.cand .bar span { font-size: 12.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
+
 /* Topics */
 .chips { display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; }
 .chip { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; text-decoration: none; border: 1.5px solid var(--deep); color: var(--deep); padding: 1px 7px; margin: 0 6px 6px 0; }
