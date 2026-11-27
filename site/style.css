@@ -131,6 +131,12 @@ td > a:first-child { font-weight: 700; }
 
 #tip { position: fixed; z-index: 20; pointer-events: none; background: var(--ink); color: var(--bg); font: 700 12px var(--sans); padding: 5px 8px; max-width: 300px; }
 
+/* Machine translation marker and the Nepali original behind it */
+.mt { display: inline-block; font-size: 10.5px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; border: 1.5px solid currentColor; padding: 0 5px; color: var(--muted); vertical-align: 1px; white-space: nowrap; }
+details.orig { margin-top: 8px; }
+details.orig summary { cursor: pointer; font-size: 12px; font-weight: 700; color: var(--muted); }
+details.orig .ne { margin-top: 6px; }
+
 /* District map */
 .mapwrap { margin: 8px 0 10px; }
 .map { width: 100%; height: auto; display: block; }

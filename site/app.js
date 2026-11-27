@@ -25,6 +25,15 @@ const PARTY_SHORT = {
 const short = (p) => PARTY_SHORT[p] || p || "";
 const LOW = 60; // attendance below this is flagged
 
+/* Machine translation: English first, the Nepali original one click away. */
+const MT_TIP = "Machine translation from the Nepali original. Names and figures can come out wrong.";
+const mtTag = `<span class="mt" data-tip="${MT_TIP}">Machine translation</span>`;
+const nl = (t) => esc(t).replace(/\n/g, "<br>");
+const bilingual = (en, ne, cls = "") => (en
+  ? `<div class="${cls}">${nl(en)}</div><details class="orig"><summary>${mtTag} · Nepali original</summary><div class="ne">${nl(ne)}</div></details>`
+  : `<div class="ne ${cls}">${nl(ne)}</div>`);
+const clip = (t, n) => (t.length > n ? `${t.slice(0, n)}…` : t);
+
 const meter = (a) => (a && a.n ? `<span class="meter${a.pct < LOW ? " low" : ""}"><i style="width:${a.pct}%"></i></span>${a.pct}%` : `<span class="muted">no sittings</span>`);
 const mlink = (m) => `<a href="#/member/${m.id}">${esc(m.name)}</a>`;
 const seatOf = (m) => (m.el === "proportional" ? `PR list${m.seat ? ` · ${esc(m.seat)}` : ""}` : esc(m.seat || ""));
@@ -85,7 +94,7 @@ const billProgress = (b) => {
   if (!n) return "";
   return `<span class="progress" data-tip="${d} of ${n} stages done">${Array.from({ length: n }, (_, i) => `<i class="${i < d ? "d" : i === d ? "c" : ""}"></i>`).join("")}</span>`;
 };
-const billName = (b) => (b.title ? esc(b.title) : `<span class="ne">${esc(b.title_ne)}</span>`);
+const billName = (b) => (b.title ? esc(b.title) : b.title_mt ? `${esc(b.title_mt)} <span class="mt" data-tip="${MT_TIP}">MT</span>` : `<span class="ne">${esc(b.title_ne)}</span>`);
 
 function monthBars(months) {
   if (!months?.length) return "";
@@ -185,7 +194,7 @@ async function memberPage(id) {
     <div class="profile">${m.photo ? `<img src="${esc(m.photo)}" alt="" onerror="this.remove()">` : ""}
       <div><p class="kicker">${m.office ? `${esc(m.office)} · ` : ""}${esc(CH[m.ch] || "")}</p>
       <h1 class="long">${esc(m.name)}<span class="ne">${esc(m.ne || "")}</span></h1>
-      <p><span class="tag">${esc(m.party || "")}</span> <span class="tag line">${m.el === "proportional" ? "Proportional list" : "Elected directly"}</span></p></div>
+      <p><span class="tag">${esc(m.party || "")}</span> <span class="tag line">${m.el === "proportional" ? "Proportional list" : m.el === "direct" ? "Elected directly" : m.prov ? "Elected by the province" : "Nominated"}</span></p></div>
     </div>
     <div class="tiles">
       <div class="tile${m.house?.pct < LOW ? " hot" : ""}"><b>${m.house?.n ? `${m.house.pct}%` : "–"}</b><span>Sittings attended</span><small>${m.house ? `${m.house.in} of ${m.house.n}` : ""}</small></div>
@@ -205,14 +214,14 @@ async function memberPage(id) {
           ${m.edu ? `<dt>Education</dt><dd>${esc(m.edu)}</dd>` : ""}
           ${m.start ? `<dt>Sworn in</dt><dd>${day(m.start)}</dd>` : ""}
           ${m.cm.length ? `<dt>Committees</dt><dd>${m.cm.map(esc).join("<br>")}</dd>` : ""}
-          ${bio.map(([k, v]) => `<dt>${esc(k)}</dt><dd class="ne">${esc(v).replace(/\n/g, "<br>")}</dd>`).join("")}
+          ${bio.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${bilingual(m.bio_en?.[k], v)}</dd>`).join("")}
         </dl>
         ${(m.terms || []).length > 1 ? `<h3>Earlier terms</h3><p class="small">${m.terms.slice(1).map((t) => `${esc(t.years)}: ${esc(t.org)}`).join("<br>")}</p>` : ""}
       </section>
     </div>
     <section class="sec"><h2>Floor statements</h2>
       ${m.statements.length ? `<div class="tablewrap"><table><thead><tr><th>Occasion</th><th>When</th><th></th></tr></thead><tbody>${m.statements.map((s) =>
-        `<tr><td>${esc(s.kind)}${s.text ? `<div class="small ne">${esc(s.text.slice(0, 400))}${s.text.length > 400 ? "…" : ""}</div>` : ""}</td><td>${esc(s.context)}</td><td class="nw">${s.video ? `<a href="${esc(s.video)}" target="_blank" rel="noopener">Watch</a>` : ""}</td></tr>`).join("")}</tbody></table></div>`
+        `<tr><td>${s.kind_en ? `${esc(s.kind_en)} <span class="mt" data-tip="${MT_TIP}">MT</span>` : `<span class="${/[\u0900-\u097f]/.test(s.kind || "") ? "ne" : ""}">${esc(s.kind)}</span>`}${s.text ? (s.text_en ? `<div class="small">${esc(clip(s.text_en, 400))} ${mtTag}</div><details class="orig small"><summary>Nepali original</summary><div class="ne">${nl(s.text)}</div></details>` : `<div class="small ne">${esc(clip(s.text, 400))}</div>`) : ""}</td><td>${esc(s.context)}</td><td class="nw">${s.video ? `<a href="${esc(s.video)}" target="_blank" rel="noopener">Watch</a>` : ""}</td></tr>`).join("")}</tbody></table></div>`
         : `<p class="muted">None recorded yet.</p>`}
     </section>
     <p class="small muted">Source: <a href="https://digital.parliament.gov.np/members/${esc(m.id)}" target="_blank" rel="noopener">this member's page on the parliament portal</a>.</p>`;
@@ -256,7 +265,7 @@ async function billsPage() {
   ], { sort: 5, dir: -1 });
   document.getElementById("q").addEventListener("input", (e) => {
     const s = e.target.value.trim().toLowerCase();
-    t.set(bills.filter((b) => !s || `${b.title} ${b.title_ne} ${b.presented_by} ${b.ministry_ne}`.toLowerCase().includes(s)));
+    t.set(bills.filter((b) => !s || `${b.title} ${b.title_mt} ${b.title_ne} ${b.presented_by} ${b.ministry_ne}`.toLowerCase().includes(s)));
   });
 }
 
@@ -276,7 +285,7 @@ async function billPage(id) {
     return `${head}<li class="${esc(s.state)}"><span>${esc(s.step)}${s.docs.map((d) => ` <a class="small" href="${esc(d)}" target="_blank" rel="noopener">PDF</a>`).join("")}</span><span class="nw">${s.date ? day(s.date) : ""}</span></li>`;
   }).join("");
   app.innerHTML = `<p class="kicker">Bill no. ${num(b.number)} · ${esc(b.origin || "")}</p>
-    <h1 class="long">${b.title ? esc(b.title) : ""}<span class="ne">${esc(b.title_ne)}</span></h1>
+    <h1 class="long">${b.title ? esc(b.title) : b.title_mt ? esc(b.title_mt) : ""}<span class="ne">${esc(b.title_ne)}</span></h1>${!b.title && b.title_mt ? `<p>${mtTag}</p>` : ""}
     <p>${[b.status, ...(b.tags || [])].map((t, i) => `<span class="tag${i ? " line" : " red"}">${esc(t)}</span>`).join(" ")}</p>
     <div class="grid" style="margin-top:24px">
       <section class="sec"><h2>Where it stands</h2>
@@ -297,13 +306,13 @@ async function meetingsPage() {
     <select id="b"><option value="">All bodies</option>${bodies.map((b) => `<option>${esc(b)}</option>`).join("")}</select></div><div id="t"></div>`;
   const t = table(document.getElementById("t"), meetings, [
     { h: "Date", v: (m) => day(m.date), s: (m) => m.date, nw: true },
-    { h: "Meeting", v: (m) => `<a href="#/meeting/${m.id}">${esc(m.title)}</a>${m.agenda ? `<div class="small ne">${esc(m.agenda.slice(0, 160))}${m.agenda.length > 160 ? "…" : ""}</div>` : ""}`, s: (m) => m.title },
+    { h: "Meeting", v: (m) => `<a href="#/meeting/${m.id}">${esc(m.title)}</a>${m.agenda_en ? `<div class="small">${esc(clip(m.agenda_en, 160))}</div>` : m.agenda ? `<div class="small ne">${esc(clip(m.agenda, 160))}</div>` : ""}`, s: (m) => m.title },
     { h: "Length", v: (m) => esc(m.duration || ""), nw: true },
     { h: "Present", v: (m) => (m.members ? `${m.present} of ${m.members}` : ""), s: (m) => (m.members ? m.present / m.members : null), num: true, nw: true },
   ], { sort: 0, dir: -1 });
   const apply = () => {
     const s = document.getElementById("q").value.trim().toLowerCase(), b = document.getElementById("b").value;
-    t.set(meetings.filter((m) => (!b || m.body === b) && (!s || `${m.title} ${m.agenda} ${m.chair}`.toLowerCase().includes(s))));
+    t.set(meetings.filter((m) => (!b || m.body === b) && (!s || `${m.title} ${m.agenda} ${m.agenda_en} ${m.chair}`.toLowerCase().includes(s))));
   };
   ["q", "b"].forEach((x) => document.getElementById(x).addEventListener("input", apply));
 }
@@ -318,8 +327,8 @@ async function meetingPage(id) {
     <div class="tiles"><div class="tile"><b>${g.members ? Math.round((100 * g.present) / g.members) : "–"}%</b><span>Present</span><small>${num(g.present)} of ${num(g.members)}</small></div>
     <div class="tile${absent.length ? " hot" : ""}"><b>${num(absent.length)}</b><span>Absent</span></div>
     <div class="tile"><b>${esc(g.duration || "–")}</b><span>Length</span><small>${esc(g.start || "")}${g.end ? ` to ${esc(g.end)}` : ""}</small></div></div>
-    ${g.agenda ? `<section class="sec"><h2>Agenda</h2><p class="quote ne">${esc(g.agenda)}</p>${g.chair ? `<p class="small">Chaired by ${esc(g.chair)}</p>` : ""}</section>` : ""}
-    ${g.minutes ? `<section class="sec"><h2>Minutes</h2><p class="ne">${esc(g.minutes)}</p></section>` : ""}
+    ${g.agenda ? `<section class="sec"><h2>Agenda</h2><div class="quote">${bilingual(g.agenda_en, g.agenda)}</div>${g.chair ? `<p class="small">Chaired by ${esc(g.chair)}</p>` : ""}</section>` : ""}
+    ${g.minutes ? `<section class="sec"><h2>Minutes</h2>${bilingual(g.minutes_en, g.minutes, "prose")}</section>` : ""}
     <section class="sec"><h2>Absent</h2><div class="people">${absent.map(person).join("") || `<span class="muted">Nobody.</span>`}</div></section>
     <section class="sec"><h2>Present</h2><div class="people">${g.attendance.filter((a) => a.status === "present").map(person).join("")}</div></section>
     <p class="small muted"><a href="https://digital.parliament.gov.np/baithak-detail/${esc(id)}" target="_blank" rel="noopener">This meeting on the parliament portal</a>${g.recording ? ` · <a href="${esc(g.recording)}" target="_blank" rel="noopener">Recording</a>` : ""}</p>`;
@@ -427,7 +436,7 @@ function about() {
     <p>All data comes from the Federal Parliament's public portal, <a href="https://digital.parliament.gov.np" target="_blank" rel="noopener">digital.parliament.gov.np</a>, and is refreshed every evening, Nepal time. The portal records attendance from members' digital log-ins. A partial attendance counts as half, the same way the portal calculates it.</p>
     <p><b>No votes.</b> Nepal's parliament decides almost everything by voice vote. When a division is called, only the totals are published, never the names. So unlike trackers for other legislatures, this one can't show how each member voted.</p>
     <p><b>Ministers.</b> At least one minister must be present for House business, so ministers usually attend only when their portfolio is on the agenda. Their attendance is lower for that reason.</p>
-    <p><b>Language.</b> Names, parties and summaries are in English where the portal provides them. Agendas, minutes and some bill titles are only published in Nepali, and are shown as published.</p>
+    <p><b>Language.</b> Names, parties and bill summaries are in English where the portal provides them. Agendas, minutes, floor statements, member biographies and a few bill titles are only published in Nepali. Those are machine-translated with Meta's open <a href="https://ai.meta.com/research/no-language-left-behind/" target="_blank" rel="noopener">NLLB-200</a> model (CC BY-NC 4.0) and marked <span class="mt">Machine translation</span>. The Nepali original is always one click away, and it is the authoritative text.</p>
     <p><b>Map.</b> District boundaries come from <a href="https://github.com/mesaugat/geoJSON-Nepal" target="_blank" rel="noopener">geoJSON-Nepal</a> by Saugat Acharya (MIT licence), simplified for the web. A district's shade is the combined attendance of its directly elected House members. Proportional members are listed under their home district, and National Assembly members under their province.</p>
     <p>The code and data are open on <a href="https://github.com/poshakpathak/nepal-tracker" target="_blank" rel="noopener">GitHub</a>.</p></div>`;
 }
