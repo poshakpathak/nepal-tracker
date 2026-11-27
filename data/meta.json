@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T04:57:58+00:00",
+ "updated": "2026-11-27T22:08:08+00:00",
  "term": "2082",
  "source": "https://digital.parliament.gov.np",
  "counts": {
-  "members": 334,
+  "members": 332,
   "bills": 44,
-  "meetings": 475
+  "meetings": 476
  },
- "requests": 385
+ "requests": 384
 }

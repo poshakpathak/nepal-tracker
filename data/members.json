@@ -998,6 +998,10 @@
   "term_start": "2026-03-26",
   "committees": [
    {
+    "id": "630b9d01-a673-4309-9fa2-a49f65592524",
+    "name": "Sub-committee for the Study and Recommendation on Gender-Discriminatory and Derogatory Terminologies"
+   },
+   {
     "id": "83969655-eb47-434a-92a3-f3145e1c6b7d",
     "name": "Women and Social Affairs Committee"
    }
@@ -4186,6 +4190,10 @@
     "name": "Committee Consultation and Facilitation Sub-committee"
    },
    {
+    "id": "630b9d01-a673-4309-9fa2-a49f65592524",
+    "name": "Sub-committee for the Study and Recommendation on Gender-Discriminatory and Derogatory Terminologies"
+   },
+   {
     "id": "83969655-eb47-434a-92a3-f3145e1c6b7d",
     "name": "Women and Social Affairs Committee"
    }
@@ -4422,28 +4430,6 @@
   },
   "statements": 23,
   "listed": true
- },
- {
-  "slug": "hor",
-  "name": "Members of Parliament",
-  "name_ne": null,
-  "chamber": null,
-  "party": null,
-  "party_ne": null,
-  "party_id": null,
-  "seat": null,
-  "district": null,
-  "election": null,
-  "gender": null,
-  "role": null,
-  "office": null,
-  "education": null,
-  "photo": null,
-  "term_start": null,
-  "committees": [],
-  "attendance": {},
-  "statements": 0,
-  "listed": false
  },
  {
   "slug": "indira-rana",
@@ -5658,6 +5644,10 @@
   "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/5BT14fAWNmFkxUMd6Wv8S3boE0UEXKokkq1qto7i-web_medium.webp",
   "term_start": "2026-03-26",
   "committees": [
+   {
+    "id": "630b9d01-a673-4309-9fa2-a49f65592524",
+    "name": "Sub-committee for the Study and Recommendation on Gender-Discriminatory and Derogatory Terminologies"
+   },
    {
     "id": "83969655-eb47-434a-92a3-f3145e1c6b7d",
     "name": "Women and Social Affairs Committee"
@@ -7652,28 +7642,6 @@
   "listed": true
  },
  {
-  "slug": "na",
-  "name": "Members of Parliament",
-  "name_ne": null,
-  "chamber": null,
-  "party": null,
-  "party_ne": null,
-  "party_id": null,
-  "seat": null,
-  "district": null,
-  "election": null,
-  "gender": null,
-  "role": null,
-  "office": null,
-  "education": null,
-  "photo": null,
-  "term_start": null,
-  "committees": [],
-  "attendance": {},
-  "statements": 0,
-  "listed": false
- },
- {
   "slug": "nar-bahadur-bista",
   "name": "Nar Bahadur Bista",
   "name_ne": "नर बहादुर विष्ट",
@@ -8525,6 +8493,10 @@
    {
     "id": "d9c3edc1-b3da-401a-ade1-d50ccd902941",
     "name": "Committee Consultation and Facilitation Sub-committee"
+   },
+   {
+    "id": "630b9d01-a673-4309-9fa2-a49f65592524",
+    "name": "Sub-committee for the Study and Recommendation on Gender-Discriminatory and Derogatory Terminologies"
    },
    {
     "id": "83969655-eb47-434a-92a3-f3145e1c6b7d",
@@ -12017,6 +11989,10 @@
   "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/91VeMtXScmxmxat4wEt60P1EViLwfmrxp0acGS0r-web_medium.webp",
   "term_start": "2026-03-26",
   "committees": [
+   {
+    "id": "630b9d01-a673-4309-9fa2-a49f65592524",
+    "name": "Sub-committee for the Study and Recommendation on Gender-Discriminatory and Derogatory Terminologies"
+   },
    {
     "id": "83969655-eb47-434a-92a3-f3145e1c6b7d",
     "name": "Women and Social Affairs Committee"
