@@ -24,3 +24,7 @@ python -m pytest -q
 python -m tracker.update --limit 5   # quick run
 python -m tracker.update             # full refresh, about 20 minutes
 ```
+
+## Website
+
+`python -m tracker.site` builds the static site into `dist/` (pages from `site/`, browser data under `dist/d/`). On Cloudflare Pages use build command `pip install -r requirements.txt && python -m tracker.site` and output directory `dist`.
