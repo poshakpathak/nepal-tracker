@@ -1,0 +1,60 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "15 13 * * *" # 19:00 Nepal time, after the day's sittings
+  workflow_dispatch:
+    inputs:
+      refetch_meetings:
+        description: "Refetch every meeting page"
+        type: boolean
+        default: false
+  pull_request:
+    paths:
+      - "tracker/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/update-data.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - name: Tests
+        run: python -m pytest -q
+      - name: Fetch portal and rebuild data
+        run: python -m tracker.update ${{ inputs.refetch_meetings && '--refetch-meetings' || '' }}
+      - name: Summary
+        run: |
+          python - <<'PY'
+          import json
+          m = json.load(open("data/meta.json"))
+          print(json.dumps(m, indent=1))
+          mem = json.load(open("data/members.json"))
+          low = sorted((x for x in mem if x["attendance"].get("house")), key=lambda x: x["attendance"]["house"]["percent"])[:5]
+          for x in low:
+              print("low attendance:", x["name"], x["party"], x["attendance"]["house"])
+          print(json.load(open("data/bills.json"))[0])
+          PY
+      - name: Commit data
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update data ($(date -u +%F))" || echo "no changes"
+          git push
