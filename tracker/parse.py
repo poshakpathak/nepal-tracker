@@ -37,7 +37,8 @@ def sitemap_urls(xml):
     for u in urls:
         path = u.replace(BASE, "")
         if re.fullmatch(r"/members/[^/]+", path):
-            out["members"].append(_slug(u))
+            if _slug(u) not in ("hor", "na"):  # chamber listing pages, not members
+                out["members"].append(_slug(u))
         elif m := re.fullmatch(rf"/baithak-detail/({UUID})", path):
             out["meetings"].append(m.group(1))
         elif re.fullmatch(r"/committees/[^/]+", path):

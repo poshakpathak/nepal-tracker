@@ -369,6 +369,58 @@ async function weekPage(wk) {
     <p class="small muted">Follow every week with the <a href="feed.xml">RSS feed</a>.</p>`;
 }
 
+/* District map: colour each district by its directly elected MPs' attendance. */
+const PROV = ["", "Koshi", "Madhesh", "Bagmati", "Gandaki", "Lumbini", "Karnali", "Sudurpaschim"];
+const bin = (pct) => (pct == null ? 0 : pct < LOW ? 1 : pct < 75 ? 2 : pct < 90 ? 3 : 4);
+let geo;
+async function mapPage(sel) {
+  const [members] = await Promise.all([load("members")]);
+  geo ||= await fetch("districts.json").then((r) => r.json());
+  sel = sel && decodeURIComponent(sel);
+  const by = {};
+  for (const d of geo.districts) by[d.name] = { ...d, fptp: [], pr: [] };
+  for (const m of members) {
+    if (!m.dist || !by[m.dist]) continue;
+    by[m.dist][m.el === "direct" ? "fptp" : "pr"].push(m);
+  }
+  for (const d of Object.values(by)) {
+    const att = d.fptp.filter((m) => m.house?.n);
+    const n = att.reduce((a, m) => a + m.house.n, 0), p = att.reduce((a, m) => a + (m.house.pct * m.house.n) / 100, 0);
+    d.pct = n ? Math.round((100 * p) / n) : null;
+    d.fptp.sort((a, b) => (a.seat || "").localeCompare(b.seat || "", "en", { numeric: true }));
+  }
+  const names = Object.keys(by).sort();
+  app.innerHTML = `<p class="kicker">Find your MP</p><h1>Map</h1>
+    <p class="lede">Each district is shaded by how often its directly elected House members attend sittings, all of its constituencies taken together. Pick a district to see who represents it.</p>
+    <div class="filters"><select id="dsel"><option value="">Choose a district</option>${names.map((n) => `<option${n === sel ? " selected" : ""}>${esc(n)}</option>`).join("")}</select></div>
+    <div class="mapwrap"><svg viewBox="0 0 ${geo.w} ${geo.h}" class="map" role="img" aria-label="Map of Nepal's 77 districts">
+      ${geo.districts.map((d) => {
+        const x = by[d.name];
+        return `<a href="#/map/${encodeURIComponent(d.name)}" aria-label="${esc(d.name)}"><path d="${d.d}" class="b${bin(x.pct)}${d.name === sel ? " sel" : ""}" data-tip="${esc(`${d.name}: ${x.pct == null ? "no record yet" : `${x.pct}% attendance`} · ${x.fptp.length} seat${x.fptp.length === 1 ? "" : "s"}`)}"/></a>`;
+      }).join("")}
+      ${sel && by[sel] ? `<path d="${by[sel].d}" class="selo"/>` : ""}
+    </svg>
+    <div class="legend maplegend"><span><i class="b1"></i>Under ${LOW}%</span><span><i class="b2"></i>${LOW} to 74%</span><span><i class="b3"></i>75 to 89%</span><span><i class="b4"></i>90% and up</span><span><i class="b0"></i>No record</span></div></div>
+    <div id="dist"></div>`;
+  document.getElementById("dsel").addEventListener("change", (e) => { location.hash = e.target.value ? `#/map/${encodeURIComponent(e.target.value)}` : "#/map"; });
+  const host = document.getElementById("dist");
+  const li = (m, sub) => `<li><span>${mlink(m)}<span class="sub">${m.office ? `<b>${esc(m.office)}</b> · ` : ""}${sub}</span></span><span class="v">${m.house?.n ? `${m.house.pct}%` : "–"}</span></li>`;
+  if (!sel || !by[sel]) {
+    const ranked = Object.values(by).filter((d) => d.pct != null).sort((a, b) => a.pct - b.pct);
+    const row = (d) => `<li><span><a href="#/map/${encodeURIComponent(d.name)}">${esc(d.name)}</a><span class="sub">${PROV[d.province]} · ${d.fptp.length} seat${d.fptp.length === 1 ? "" : "s"}</span></span><span class="v">${d.pct}%</span></li>`;
+    host.innerHTML = `<div class="grid"><section class="sec"><h2>Lowest districts</h2><ol class="rank">${ranked.slice(0, 10).map(row).join("")}</ol></section>
+      <section class="sec"><h2>Highest districts</h2><ol class="rank">${[...ranked].reverse().slice(0, 10).map(row).join("")}</ol></section></div>`;
+    return;
+  }
+  const d = by[sel];
+  const na = members.filter((m) => m.ch === "na" && m.prov === d.province);
+  host.innerHTML = `<section class="sec"><p class="kicker">${esc(PROV[d.province])} Province</p><h2 class="big">${esc(sel)}</h2>
+    <p>${d.pct == null ? "No attendance recorded yet." : `Its ${d.fptp.length === 1 ? "MP was" : `${d.fptp.length} MPs were`} present at <b>${d.pct}%</b> of House sittings.`}${d.fptp.some((m) => m.office) ? ` Ministers and the Speaker are counted too, and ministers only need to attend when their portfolio is up.` : ""}</p></section>
+    <div class="grid"><section class="sec"><h2>Constituency MPs</h2><ol class="rank">${d.fptp.map((m) => li(m, `${esc(m.seat)} · ${esc(short(m.party))}`)).join("") || `<li class="muted">None listed.</li>`}</ol></section>
+    <section class="sec"><h2>From the party lists</h2><p class="small muted">Proportional members whose home district is ${esc(sel)}. They represent the whole country.</p><ol class="rank">${d.pr.map((m) => li(m, esc(short(m.party)))).join("") || `<li class="muted">None.</li>`}</ol></section></div>
+    <section class="sec"><h2>National Assembly, ${esc(PROV[d.province])}</h2><p class="small muted">Elected by the province as a whole.</p><ol class="rank">${na.map((m) => li(m, esc(short(m.party)))).join("") || `<li class="muted">None listed.</li>`}</ol></section>`;
+}
+
 function about() {
   app.innerHTML = `<p class="kicker">Method</p><h1>About this tracker</h1><div class="prose">
     <p>This site follows what members of Nepal's Federal Parliament do: whether they attend sittings and committee meetings, what they say on the floor, and how bills move through both houses.</p>
@@ -376,6 +428,7 @@ function about() {
     <p><b>No votes.</b> Nepal's parliament decides almost everything by voice vote. When a division is called, only the totals are published, never the names. So unlike trackers for other legislatures, this one can't show how each member voted.</p>
     <p><b>Ministers.</b> At least one minister must be present for House business, so ministers usually attend only when their portfolio is on the agenda. Their attendance is lower for that reason.</p>
     <p><b>Language.</b> Names, parties and summaries are in English where the portal provides them. Agendas, minutes and some bill titles are only published in Nepali, and are shown as published.</p>
+    <p><b>Map.</b> District boundaries come from <a href="https://github.com/mesaugat/geoJSON-Nepal" target="_blank" rel="noopener">geoJSON-Nepal</a> by Saugat Acharya (MIT licence), simplified for the web. A district's shade is the combined attendance of its directly elected House members. Proportional members are listed under their home district, and National Assembly members under their province.</p>
     <p>The code and data are open on <a href="https://github.com/poshakpathak/nepal-tracker" target="_blank" rel="noopener">GitHub</a>.</p></div>`;
 }
 
@@ -384,7 +437,7 @@ function about() {
 const routes = [
   [/^#?\/?$/, overview], [/^#\/members(?:\?q=(.*))?$/, (q) => membersPage(q && decodeURIComponent(q))], [/^#\/member\/([\w-]+)$/, memberPage],
   [/^#\/attendance$/, attendance], [/^#\/bills$/, billsPage], [/^#\/bill\/([\w-]+)$/, billPage],
-  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/about$/, about],
+  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/map(?:\/(.+))?$/, mapPage], [/^#\/about$/, about],
 ];
 async function route() {
   const h = location.hash || "#/";
