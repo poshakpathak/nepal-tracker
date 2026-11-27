@@ -197,7 +197,26 @@ def digests(rows, sittings, bills, meetings, bill_steps):
     return out
 
 
-def feed(weeks, site_url="https://nepaltracker.poshakpathak.com/"):
+def pledges(bills):
+    """Manifesto pledges with their linked bill's current stage. A pledge tied to a bill
+    is "passed" once that bill completes, so statuses follow the nightly data."""
+    src = DATA / "pledges.json"
+    if not src.exists():
+        return None
+    pl = read(src)
+    by_id = {b["id"]: b for b in bills}
+    for p in pl["pledges"]:
+        b = by_id.get(p.get("bill"))
+        if p.get("bill") and not b:
+            p["status"], p["bill"] = "none", None
+        elif b:
+            p["status"] = "passed" if b.get("status") == "Completed" else "bill"
+            p["bill_title"], p["bill_title_ne"] = b.get("title") or b.get("title_mt"), b.get("title_ne")
+            p["bill_steps"] = [b.get("steps_done"), b.get("steps_total")]
+    return pl
+
+
+def feed(weeks, site_url="https://sansadwatch.poshakpathak.com/"):
     from xml.sax.saxutils import escape
     items = []
     for w in weeks[:20]:
@@ -323,6 +342,7 @@ def build(out=ROOT / "dist"):
                        "statements": sum(talk[slug].values()), "speakers": speakers[:15], "speakers_n": len(speakers)})
     write(d / "topics.json", topics)
     write(d / "places.json", {DISTRICT_FIX.get(k, k): v for k, v in dist_ne.items()})
+    write(d / "pledges.json", pledges(bills))
     write(d / "meetings.json", meetings)
     for mt in meetings:
         src = DATA / "meetings" / f"{mt['id']}.json"

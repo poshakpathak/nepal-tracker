@@ -198,3 +198,19 @@ h2.big { font-size: clamp(28px, 4vw, 44px); }
   .facts dd { margin-bottom: 8px; }
 }
 details summary { cursor: pointer; font-size: 12px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; margin: 4px 0 12px; }
+
+/* promises */
+.ps-passed { --ps: var(--deep); } .ps-bill { --ps: var(--part); } .ps-lapsed, .ps-deadline { --ps: var(--pop); } .ps-none { --ps: var(--none); }
+.plkey { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 12px; font-weight: 700; margin: -8px 0 32px; }
+.plkey i, .plstrip i { display: inline-block; width: 14px; height: 14px; background: var(--ps); margin-right: 6px; vertical-align: -2px; }
+.plhead { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px 24px; flex-wrap: wrap; margin-bottom: 8px; }
+.plhead h2 { margin-bottom: 2px; }
+.plstrip { display: flex; gap: 3px; flex-wrap: wrap; }
+.plstrip i { width: 22px; height: 22px; margin: 0; }
+.pls { list-style: none; margin: 0; padding: 0; }
+.pl { display: grid; grid-template-columns: 170px 1fr; gap: 6px 20px; padding: 14px 0; border-bottom: 1px solid var(--ink); }
+.pst { align-self: start; font-size: 11px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; padding: 4px 8px; border-left: 8px solid var(--ps); background: color-mix(in srgb, var(--ps) 14%, transparent); }
+.plt { font-size: 18px; font-weight: 700; line-height: 1.35; margin: 0 0 6px; }
+.pl p.small { margin: 0 0 4px; max-width: 760px; }
+html[lang=ne] .pst { letter-spacing: 0; text-transform: none; font-size: 12.5px; }
+@media (max-width: 640px) { .pl { grid-template-columns: 1fr; } .pst { justify-self: start; } .plt { font-size: 16.5px; } }
