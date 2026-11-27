@@ -87,6 +87,15 @@ const billProgress = (b) => {
 };
 const billName = (b) => (b.title ? esc(b.title) : `<span class="ne">${esc(b.title_ne)}</span>`);
 
+function monthBars(months) {
+  if (!months?.length) return "";
+  return `<div style="display:flex;align-items:flex-end;gap:6px;height:120px;border-bottom:3px solid var(--ink);margin-top:8px">${months.map(([k, n, p]) => {
+    const share = n ? p / n : 0;
+    return `<div style="flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%;align-items:center"><b class="small">${Math.round(share * 100)}%</b><i data-tip="${esc(`${k}: ${p} of ${n} sittings`)}" style="display:block;width:100%;max-width:46px;height:${Math.round(share * 100)}%;background:${share < LOW / 100 ? "var(--out)" : "var(--in)"}"></i></div>`;
+  }).join("")}</div><div style="display:flex;gap:6px;margin-top:6px">${months.map(([k]) => `<span class="small" style="flex:1;text-align:center;font-weight:700">${MONTHS[+k.slice(5) - 1]}</span>`).join("")}</div>`;
+}
+const streakText = (m) => (m.streak >= 2 ? `Has missed the last <b>${m.streak}</b> sittings in a row, since ${day(m.streak_from)}.` : "");
+
 /* ------------------------------------------------------------ pages */
 
 async function overview() {
@@ -185,8 +194,9 @@ async function memberPage(id) {
       <div class="tile"><b>${num(m.cm.length)}</b><span>Committees</span></div>
     </div>
     <div class="grid">
-      <section class="sec"><h2>Every sitting</h2>${sit.length ? strip(sit) + legend : `<p class="muted">No sittings recorded.</p>`}
+      <section class="sec"><h2>Every sitting</h2>${streakText(m) ? `<p class="quote">${streakText(m)}</p>` : ""}${m.longest >= 3 ? `<p class="small">Longest run of missed sittings: <b>${m.longest}</b>, starting ${day(m.longest_from)}.</p>` : ""}${sit.length ? strip(sit) + legend : `<p class="muted">No sittings recorded.</p>`}
         ${missed.length ? `<h3 style="margin-top:18px">Missed (${missed.length})</h3><p class="small">${missed.map((r) => `<a href="#/meeting/${r[0]}">${day(r[1])}</a>`).join(" · ")}</p>` : ""}
+        ${m.months?.length ? `<h2 style="margin-top:28px">Month by month</h2>${monthBars(m.months)}` : ""}
         ${cm.length ? `<h2 style="margin-top:28px">Committee meetings</h2>${strip(cm)}` : ""}
       </section>
       <section class="sec"><h2>Profile</h2>
@@ -215,6 +225,7 @@ async function attendance() {
     <div class="filters"><button data-ch="hor" class="on">House</button><button data-ch="na">National Assembly</button></div>
     <div class="grid"><section class="sec"><h2>Lowest</h2><ol class="rank" id="lo"></ol></section>
     <section class="sec"><h2>Highest</h2><ol class="rank" id="hi"></ol></section></div>
+    <section class="sec"><h2>Absent right now</h2><p class="small muted">Members who have missed three or more sittings in a row, up to the latest one.</p><ol class="rank" id="st"></ol></section>
     <section class="sec"><h2>Turnout by sitting</h2><div id="tu"></div></section>`;
   const draw = (ch) => {
     const rows = members.filter((m) => m.ch === ch && m.house?.n).sort((a, b) => a.house.pct - b.house.pct || a.house.in - b.house.in);
@@ -222,6 +233,8 @@ async function attendance() {
     document.getElementById("lo").innerHTML = rows.slice(0, 15).map(li).join("");
     document.getElementById("hi").innerHTML = [...rows].reverse().slice(0, 15).map(li).join("");
     document.getElementById("tu").innerHTML = turnout(sittings.filter((s) => s.ch === ch));
+    const st = members.filter((m) => m.ch === ch && m.streak >= 3).sort((a, b) => b.streak - a.streak);
+    document.getElementById("st").innerHTML = st.map((m) => `<li><span>${mlink(m)}<span class="sub">${m.office ? `<b>${esc(m.office)}</b> · ` : ""}${esc(short(m.party))} · since ${day(m.streak_from)}</span></span><span class="v">${m.streak}</span></li>`).join("") || `<li class="muted">Nobody.</li>`;
     app.querySelectorAll("button[data-ch]").forEach((b) => b.classList.toggle("on", b.dataset.ch === ch));
   };
   app.querySelectorAll("button[data-ch]").forEach((b) => b.addEventListener("click", () => draw(b.dataset.ch)));
@@ -326,6 +339,36 @@ async function partiesPage() {
   app.innerHTML = `<p class="kicker">By party</p><h1>Parties</h1><p class="lede">How each party's members show up, counted across every member and every sitting.</p><div class="grid">${sec("hor")}${sec("na")}</div>`;
 }
 
+async function weekPage(wk) {
+  const [weeks, members, bills] = await Promise.all([load("weeks"), load("members"), load("bills")]);
+  if (!weeks.length) { app.innerHTML = `<h1>No weeks yet</h1>`; return; }
+  const i = wk ? weeks.findIndex((w) => w.week === wk) : 0;
+  const w = weeks[Math.max(0, i)];
+  const by = Object.fromEntries(members.map((m) => [m.id, m]));
+  const bb = Object.fromEntries(bills.map((b) => [b.id, b]));
+  const end = new Date(`${w.week}T00:00:00Z`); end.setUTCDate(end.getUTCDate() + 6);
+  const prev = weeks[i + 1], next = weeks[i - 1];
+  const steps = {};
+  w.steps.forEach(([id, step, date]) => (steps[id] ||= []).push([step, date]));
+  const missed = w.missed_all.map((id) => by[id]).filter(Boolean);
+  const headline = w.sittings.length
+    ? `${w.sittings.length} sitting${w.sittings.length > 1 ? "s" : ""}, ${w.turnout}% turnout${missed.length ? `, ${missed.length} MPs absent all week` : ""}.`
+    : w.committee ? `No sittings. ${w.committee} committee meetings.` : "A quiet week.";
+  app.innerHTML = `<p class="kicker">The week · ${day(w.week, false)} to ${day(end.toISOString())}</p><h1>${headline}</h1>
+    <div class="filters">${prev ? `<a href="#/week/${prev.week}">← Week of ${day(prev.week)}</a>` : ""}<span style="flex:1"></span>${next ? `<a href="#/week/${next.week}">Week of ${day(next.week)} →</a>` : ""}</div>
+    <div class="tiles"><div class="tile"><b>${w.sittings.length}</b><span>Sittings</span></div>
+      <div class="tile"><b>${w.turnout ?? "–"}${w.turnout != null ? "%" : ""}</b><span>Turnout</span></div>
+      <div class="tile"><b>${w.committee}</b><span>Committee meetings</span></div>
+      <div class="tile"><b>${Object.keys(steps).length}</b><span>Bills that moved</span></div>
+      <div class="tile${missed.length ? " hot" : ""}"><b>${missed.length}</b><span>Absent all week</span></div></div>
+    <div class="grid">
+      <section class="sec"><h2>Sittings</h2>${w.sittings.length ? `<ul class="journey">${w.sittings.map((s) => `<li class="completed"><a href="#/meeting/${s.id}">${esc(s.title)}</a><span>${s.in} of ${s.n}</span></li>`).join("")}</ul>` : `<p class="muted">None this week.</p>`}</section>
+      <section class="sec"><h2>Bills that moved</h2>${Object.keys(steps).length ? `<ul class="journey">${Object.entries(steps).map(([id, st]) => `<li class="current"><span><a href="#/bill/${id}">${bb[id] ? billName(bb[id]) : esc(id)}</a><span class="small muted" style="display:block">${st.map((x) => esc(x[0])).join(" · ")}</span></span><span></span></li>`).join("")}</ul>` : `<p class="muted">No bill changed stage.</p>`}</section>
+    </div>
+    ${missed.length ? `<section class="sec"><h2>Missed every sitting this week</h2><div class="people">${missed.map((m) => `<span class="a">${mlink(m)} <span class="muted small">${esc(short(m.party))}${m.office ? ` · ${esc(m.office)}` : ""}</span></span>`).join("")}</div></section>` : ""}
+    <p class="small muted">Follow every week with the <a href="feed.xml">RSS feed</a>.</p>`;
+}
+
 function about() {
   app.innerHTML = `<p class="kicker">Method</p><h1>About this tracker</h1><div class="prose">
     <p>This site follows what members of Nepal's Federal Parliament do: whether they attend sittings and committee meetings, what they say on the floor, and how bills move through both houses.</p>
@@ -341,7 +384,7 @@ function about() {
 const routes = [
   [/^#?\/?$/, overview], [/^#\/members(?:\?q=(.*))?$/, (q) => membersPage(q && decodeURIComponent(q))], [/^#\/member\/([\w-]+)$/, memberPage],
   [/^#\/attendance$/, attendance], [/^#\/bills$/, billsPage], [/^#\/bill\/([\w-]+)$/, billPage],
-  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/about$/, about],
+  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/about$/, about],
 ];
 async function route() {
   const h = location.hash || "#/";
