@@ -1,0 +1,78 @@
+name: Translate
+
+# Machine-translates new Nepali text after each data update. Each sentence is
+# translated once and kept in data/translations.json.
+on:
+  workflow_run:
+    workflows: ["Update data"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "Time budget for translating, in minutes"
+        default: "45"
+  pull_request:
+    paths:
+      - "tracker/translate.py"
+      - ".github/workflows/translate.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  HF_HOME: /tmp/hf
+
+jobs:
+  translate:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || '' }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt ctranslate2==4.9.1 "transformers>=4.44,<5" sentencepiece
+      - name: Model cache
+        id: model
+        uses: actions/cache@v4
+        with:
+          path: models/nllb
+          key: nllb-200-distilled-1.3B-int8-v1
+      - name: Convert the model (first run only)
+        if: steps.model.outputs.cache-hit != 'true'
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          ct2-transformers-converter --model facebook/nllb-200-distilled-1.3B --quantization int8 --output_dir models/nllb
+          rm -rf /tmp/hf/hub/models--facebook--nllb-200-distilled-1.3B/blobs
+          du -sh models/nllb
+      - name: Translate
+        run: python -m tracker.translate --model models/nllb --minutes ${{ github.event_name == 'pull_request' && '3' || inputs.minutes || '45' }}
+      - name: Samples
+        run: |
+          python - <<'PY'
+          import json, random
+          t = json.load(open("data/translations.json", encoding="utf-8"))
+          print(len(t), "sentences translated")
+          for k in random.Random(1).sample(sorted(t), min(25, len(t))):
+              print("NE:", k)
+              print("EN:", t[k])
+              print()
+          PY
+      - name: Commit translations
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/translations.json
+          git commit -m "Update translations ($(date -u +%F))" || exit 0
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1

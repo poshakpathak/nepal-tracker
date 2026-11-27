@@ -10,6 +10,8 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
+from .translate import english
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 
@@ -150,6 +152,7 @@ def build(out=ROOT / "dist"):
 
     rows = []
     sittings = {}  # plenary sitting id -> {date, title, chamber, in, out}
+    tr = read(DATA / "translations.json", {})  # Nepali sentence -> machine English
     members = [m for m in members if m.get("chamber")]  # drop stray listing pages
     for m in members:
         full = read(DATA / "members" / f"{m['slug']}.json", {})
@@ -183,7 +186,8 @@ def build(out=ROOT / "dist"):
             "start": full.get("term_start"),
             "att": [[r["meeting"], r["date"], r["status"][:1] if r["status"] else "", r["scope"][0], r["title"]]
                     for r in full.get("meetings", [])],
-            "statements": full.get("statements", []),
+            "statements": [{**st, "text_en": english(st.get("text"), tr), "kind_en": english(st.get("kind"), tr)} for st in full.get("statements", [])],
+            "bio_en": {k: english(v, tr) for k, v in (full.get("bio") or {}).items() if isinstance(v, str) and english(v, tr)},
             "months": monthly(house_rows),
         })
     bill_steps = {b["id"]: (read(DATA / "bills" / f"{b['id']}.json", {}) or {}).get("steps", []) for b in bills}
@@ -209,16 +213,23 @@ def build(out=ROOT / "dist"):
     write(d / "parties.json", [{"ch": ch, "party": party, **v} for (ch, party), v in parties.items()])
     write(d / "sittings.json", sorted(sittings.values(), key=lambda s: (s["date"], s["title"]), reverse=True))
 
+    # Bills without an English title get a machine-translated one, flagged as such.
+    for b in bills:
+        if not b.get("title") and english(b.get("title_ne"), tr):
+            b["title_mt"] = english(b["title_ne"], tr)
     write(d / "bills.json", bills)
     for b in bills:
         src = DATA / "bills" / f"{b['id']}.json"
         if src.exists():
-            write(d / "b" / f"{b['id']}.json", read(src))
+            write(d / "b" / f"{b['id']}.json", {**read(src), "title_mt": b.get("title_mt")})
+    for mt in meetings:
+        mt["agenda_en"] = english(mt.get("agenda"), tr)
     write(d / "meetings.json", meetings)
     for mt in meetings:
         src = DATA / "meetings" / f"{mt['id']}.json"
         if src.exists():
-            write(d / "g" / f"{mt['id']}.json", read(src))
+            g = read(src)
+            write(d / "g" / f"{mt['id']}.json", {**g, "agenda_en": english(g.get("agenda"), tr), "minutes_en": english(g.get("minutes"), tr)})
     write(d / "meta.json", meta)
     print(f"site: {len(rows)} members, {len(sittings)} sittings, {len(bills)} bills, {len(meetings)} meetings -> {out}")
 
