@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nepal Parliament Tracker</title>
+<meta name="description" content="Who shows up, what they say, and which bills are moving in Nepal's Federal Parliament.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;800&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="home"><a href="https://poshakpathak.com/">← poshakpathak.com</a><span>A project by Poshak Pathak</span></div>
+  <div class="mast">
+    <a class="brand" href="#/">Nepal Parliament <span>Tracker</span></a>
+    <span class="dateline" id="dateline"></span>
+    <input type="search" id="find" placeholder="Find an MP" aria-label="Find a member of parliament">
+  </div>
+  <nav id="nav">
+    <a href="#/">Overview</a>
+    <a href="#/members">Members</a>
+    <a href="#/attendance">Attendance</a>
+    <a href="#/bills">Bills</a>
+    <a href="#/meetings">Meetings</a>
+    <a href="#/parties">Parties</a>
+    <a href="#/about">About</a>
+  </nav>
+</header>
+<main id="app"><p class="muted">Loading…</p></main>
+<footer class="foot">
+  <span id="updated"></span>
+  <span>Source: Federal Parliament of Nepal, digital.parliament.gov.np. Refreshed nightly.</span>
+</footer>
+<div id="tip" role="tooltip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
