@@ -1,0 +1,203 @@
+{
+ "id": "50601f5e-29df-4fd1-8d2e-611b46bdb11d",
+ "title_ne": "संवैधानिक निकायका पदाधिकारीहरूको पारिश्रमिक, सेवाको शर्त र सुविधासम्बन्धी (पहिलो संशोधन) विधेयक, २०८३",
+ "status": "In progress",
+ "tags": [
+  "Government Bill",
+  "Ordinary Bill",
+  "Amendment"
+ ],
+ "number": 14,
+ "registered": "2026-07-30",
+ "ministry_ne": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+ "presented_by": "Minister Sobita Gautam",
+ "category": "Government Bill · Ordinary Bill",
+ "days_in_process": 120,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The name of this bill is the \"Remuneration, Conditions of Service and Facilities of Office Bearers of Constitutional Bodies (First Amendment) Act, 2083\" (Section 1, Subsection 1, Page 1). This Act shall come into force immediately (Section 1, Subsection 2, Page 1). The main purpose of this bill is to remove the situation of double benefits where office bearers of constitutional bodies receive both a pension and the salary and facilities of the post from the state treasury (Objectives and Reasons). On 2073/11/19, the Supreme Court issued a directive order in the case of Kayodevi Yami against the Office of the Prime Minister and Council of Ministers et al. (Case No. 072-WO-0582) to make clear provisions in the law preventing double benefits while providing facilities appropriate to the dignity of constitutional office bearers (Objectives and Reasons). According to this bill, if any person who is receiving or eligible to receive a pension from the government treasury is appointed to the post of chief office bearer or office bearer, such person shall not receive a pension as long as they remain in that post (Section 2, Page 1). If an office bearer of a constitutional body wishes to add total service duration, such office bearer must return the pension amount received since the date of appointment to the post of constitutional body office bearer into the Federal Consolidated Fund and submit the receipt to the body adding such service duration (Section 3, Page 1).",
+ "title": "Remuneration, Conditions of Service and Facilities of Office Bearers of Constitutional Bodies (First Amendment) Act, 2083",
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-07-30",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/50601f5e-29df-4fd1-8d2e-611b46bdb11d/bill_registration/SJp3px2rhABmysywuQ7z0bqDsZClGpLrfqGGoNpM.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-07-30",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-08-07",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-08-10",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-08-10",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-08-24",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "current",
+   "date": "2026-10-01",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  }
+ ],
+ "current_step": "Committee Report Presentation and Discussion",
+ "last_action": "2026-10-01",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/50601f5e-29df-4fd1-8d2e-611b46bdb11d/bill_registration/SJp3px2rhABmysywuQ7z0bqDsZClGpLrfqGGoNpM.pdf"
+}

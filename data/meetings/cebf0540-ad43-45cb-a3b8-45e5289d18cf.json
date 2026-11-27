@@ -1,0 +1,30 @@
+{
+ "id": "cebf0540-ad43-45cb-a3b8-45e5289d18cf",
+ "title": "Social justice subcommittee - Meeting 2",
+ "date": "2026-08-11",
+ "duration": "2 hr",
+ "start": "1:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Jayanti Devi Rai",
+ "agenda": "उपसमितिको कार्ययोजना सम्बन्धमा छलफल",
+ "minutes": "सामाजिक न्याय उपसमितिको संयोजक माननीय रोश्नी मेचेको संयोजकत्वमा सभापतिसहित बैठक बस्यो।बैठकमा उपसमितिका सदस्यहरुले उपसमितिको कार्ययोजना सम्बन्धमा आ-आफ्ना धारणा राख्नु भयो।",
+ "attendance": [
+  {
+   "member": "roshani-meche",
+   "status": "present"
+  },
+  {
+   "member": "dharmendra-paswan",
+   "status": "present"
+  },
+  {
+   "member": "manrupa-sharma",
+   "status": "present"
+  }
+ ],
+ "present": 3,
+ "members": 3,
+ "recording": null
+}

@@ -1,0 +1,873 @@
+{
+ "slug": "narayan-prasad-dahal",
+ "name": "Chairperson Narayan Prasad Dahal",
+ "name_ne": "अध्यक्ष नारायण प्रसाद दाहाल",
+ "chamber": "na",
+ "party": "",
+ "party_ne": "",
+ "party_id": null,
+ "seat": "",
+ "district": null,
+ "election": null,
+ "gender": "male",
+ "role": "MP",
+ "education": "Bachelor",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/MzaaZ13ajKtwMaDz1vNn88HNtb1cwOEyYaRxJpqD-web_medium.webp",
+ "term_start": "2026-02-25",
+ "committees": [],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 100,
+   "total": 52,
+   "present": 52,
+   "absent": 0
+  }
+ },
+ "statements": [
+  {
+   "id": "eb05c315-d2a9-4199-8c57-4aeece247bf6",
+   "kind": "Letter from the Office of the Prime Minister and Council of Ministers",
+   "context": "National Assembly - 9th Sept 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/e4zrssvcrf1qnhxh.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "b6b3adb1-9cd7-40fe-834e-074824bedfd0",
+   "kind": "Discussion on the motion “That the Bill relating to the Liability of Domestic Air Services, 2083, be taken into consideration.”",
+   "context": "National Assembly - 13th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/39yey0ycj8y2kjxt.mp4?central=1&type=na",
+   "text": "Information"
+  },
+  {
+   "id": "eac44bc4-360c-4cdd-9b0d-55208498f6e3",
+   "kind": "Discussion on the motion “That the Bill relating to the Liability of Domestic Air Services, 2083, be taken into consideration.”",
+   "context": "National Assembly - 13th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/urf8uvjfmmwz5zan.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "a05cda79-15fb-47d6-ac50-671763c44070",
+   "kind": "\"Liability of Domestic Air Services Bill, 2083\" tabled before the Assembly",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/qerfnxi3pwnsuqsn.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "e07ce37c-0b40-40f3-90df-f5706944aefe",
+   "kind": "The message received from the House of Representatives regarding the Bill, 2083 regarding the revival of provisions of the Nepal Special Service Act, 2042 Table before the House",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/kfjvvur5kysgigre.mp4?central=1&type=na",
+   "text": "Message received from the House of Representatives in relation to the \"Bill, 2083 regarding the revival of provisions of the Nepal Special Service Act, 2042\" Table before the House"
+  },
+  {
+   "id": "f1fc123e-83f8-4ed9-8100-0579df298748",
+   "kind": "Honorable President",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/qqstfdctsm1m5dfr.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "004b6e7f-9138-409a-90f5-e6642fbe6964",
+   "kind": "Discussion on the motion “That the Infectious Animal Disease (Control) Bill, 2083 be taken into consideration”",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/lvmaeanjmwtkdia0.mp4?central=1&type=na",
+   "text": "Information"
+  },
+  {
+   "id": "ec95a527-1485-4864-a3bb-42677f5fc2ee",
+   "kind": "Discussion on the motion “That the Infectious Animal Disease (Control) Bill, 2083 be taken into consideration”",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/s16nqvgtquiejcsp.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "93f8a215-aa57-4f42-b7e2-a0b2cdb9da62",
+   "kind": "Discussion on the motion “That the Infectious Animal Disease (Control) Bill, 2083 be taken into consideration”",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/5hzzbx1dhlbi3j9w.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "69a9bf59-0e3d-4e41-b3dc-9cc9063f2d83",
+   "kind": "others",
+   "context": "National Assembly - 15th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/auolhjrymwh8639c.mp4?central=1&type=na",
+   "text": "राष्ट्रपतिको कार्यालयको पत्र"
+  },
+  {
+   "id": "386be7ad-1992-4bf5-9940-d5363b394c62",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/nmqu2sf3svwvem70.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Public Debt Raising Bill, 2083', received from the House of Representatives with a message, be passed and returned to the House of Representatives\" was presented for a decision."
+  },
+  {
+   "id": "40bd0393-de6f-46a8-92f7-be781f6af8f8",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/w0e21nlvcpjwrlkb.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "3b74aa0b-e6d6-4b65-bda9-68544101e63f",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/a0rv2prxsvrvyi7l.mp4?central=1&type=na",
+   "text": "The motion \"that the Bill to Raise Public Debt, 2083—received from the House of Representatives with a message—be taken up for clause-by-clause discussion in the House\" was presented for a decision."
+  },
+  {
+   "id": "d48de366-4e96-44d4-a896-38dea9dae8c4",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/tdtnwttcfumddyge.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Finance Bill, 2083', received from the House of Representatives with a message, be passed and returned to the House of Representatives\" was presented for a decision."
+  },
+  {
+   "id": "12cb35eb-4222-4a1f-8c24-62e5bd219458",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/dic0pbrs1lvopd6m.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "6efb584d-6255-4799-8464-4a4dafe8dd41",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/fn9mtncx4pnl1t4c.mp4?central=1&type=na",
+   "text": "The motion \"that the clause-by-clause discussion on the Finance Bill, 2083, received from the House of Representatives with a message, be held in the House\" was presented for a decision."
+  },
+  {
+   "id": "414ea970-4a00-4ed6-a485-7c6e345d51f2",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/rgmio5fkhr3nifnd.mp4?central=1&type=na",
+   "text": "information 2"
+  },
+  {
+   "id": "ff123f5d-698a-46d6-9c7a-56f64a0c0d1e",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/bllbp0q1fjtz1tqg.mp4?central=1&type=na",
+   "text": "Information"
+  },
+  {
+   "id": "4241ac8b-0d21-4ee6-b364-24651872bee4",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/2bnjfejlyzvwwqx0.mp4?central=1&type=na",
+   "text": "Vote of Thanks by the Honorable Chairperson"
+  },
+  {
+   "id": "2ae72720-9e73-4519-9c1d-d16ab57deb92",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ncp5badhk9cgmue4.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Bill to Amend Certain Nepal Acts Relating to Health Science Academies, 2083,' received from the House of Representatives with a message, be passed\" was presented for a decision."
+  },
+  {
+   "id": "ae64be7c-b0b9-4ac9-8557-feb253f50bcb",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ptvdes74ij8kr2ql.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "690c9a23-3853-4068-b052-65ecaed24b47",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/cmpluom0uoc4liuu.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Bill to Amend Certain Nepal Acts Relating to Health Science Academies, 2083,' received from the House of Representatives with a message, be taken up for discussion\" was presented for a decision."
+  },
+  {
+   "id": "c62adf9e-b2e7-4e29-b4b3-62542fc7a925",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/dwqgovsgzmhtm4bo.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Cooperatives (First Amendment) Bill, 2083', received from the House of Representatives with a message, be passed\" was presented for a decision."
+  },
+  {
+   "id": "aaadc6f0-d62d-4c17-8b18-1bba83be685c",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/raf5opbz89awczr5.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "dbaa6c97-1ff6-4b32-a4e3-6422c5d8461d",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/fnglfqinafou45dc.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Cooperatives (First Amendment) Bill, 2083', received from the House of Representatives with a message, be discussed\" was presented for a decision."
+  },
+  {
+   "id": "ba7b8cde-5820-44dd-af81-0288c422eaec",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/uqhlctex6wktridz.mp4?central=1&type=na",
+   "text": "The motion \"that the Public Procurement (Second Amendment) Bill, 2083, received from the House of Representatives with a message, be passed\" was presented for a decision."
+  },
+  {
+   "id": "610e24b8-5774-4c7f-88df-80cc39ee7885",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/1xwjbakijyjej9zf.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "06da4847-cf77-4fa9-bf11-e6a5bf94c307",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/sii4zwasru17usnb.mp4?central=1&type=na",
+   "text": "The motion \"that the Public Procurement (Second Amendment) Bill, 2083, received from the House of Representatives with a message, be discussed\" was presented for a decision."
+  },
+  {
+   "id": "68a436b7-f331-4216-93a3-0d92dff25bc2",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/sii4zwasru17usnb.mp4?central=1&type=na",
+   "text": "The motion \"that the Public Procurement (Second Amendment) Bill, 2083, received from the House of Representatives with a message, be discussed\" was presented for a decision."
+  },
+  {
+   "id": "2db7fc79-06bb-4db4-a1ca-c678dd7399a6",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/9tjzjljdtozjhitl.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Money Laundering Prevention (Third Amendment) Bill, 2083', received from the House of Representatives with a message, be passed\" was presented for a decision."
+  },
+  {
+   "id": "819f4e67-43b8-4518-9bff-810e510658f2",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/npjdowgbmrh608nh.mp4?central=1&type=na",
+   "text": "Presented for decision 3"
+  },
+  {
+   "id": "5fe899f6-0c65-4d89-af75-7c9fc937b031",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/9ti4ecsvnf15nt0m.mp4?central=1&type=na",
+   "text": "Presented for decision 2"
+  },
+  {
+   "id": "75cae505-f75a-422f-b6f1-c8045937d180",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/07pax2mgayhchsal.mp4?central=1&type=na",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "8b01d3d8-df8b-46f9-9e7e-d034f3ecb83a",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/trlirlae3ectyjq2.mp4?central=1&type=na",
+   "text": "The motion \"that the 'Money Laundering Prevention (Third Amendment) Bill, 2083', received from the House of Representatives with a message, be deliberated upon\" was presented for a decision."
+  },
+  {
+   "id": "1e4878f6-0c4d-48ae-b0c2-8d5c8117bbe2",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/wsjl2ifvusyvd8fg.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "638ed3ca-f65f-4c32-b863-f0ea3fdd04b5",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/atx85zj6npmjxzve.mp4?central=1&type=na",
+   "text": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "f5cb44f3-4b8e-45d8-bbad-1b1e2f35fe32",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/1pdf3ayjpypsjnlk.mp4?central=1&type=na",
+   "text": "विनियोजन विधेयक, २०८३ अन्तर्गतका खर्च कटौतीका प्रस्तावहरू निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "28bc5719-8c16-422a-b9da-f64b36d97e2f",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/vjdd0cnz3yk2bxoa.mp4?central=1&type=na",
+   "text": "A motion was presented for a decision that \"the Bill to Amend Certain Nepal Acts Relating to Health Science Academies, 2083—received from the House of Representatives along with a message—be referred to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "326b2b16-2f14-47b6-a4dd-80296676a446",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/2x3ajapqgtxbhv8p.mp4?central=1&type=na",
+   "text": "A motion was presented for a decision that \"the Cooperative (First Amendment) Bill, 2083, received from the House of Representatives along with a message, be referred to the Legislation Management Committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "ba23ff43-e9b5-4be4-a440-f805aebb3a77",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/6kpgxfjelad2pbn5.mp4?central=1&type=na",
+   "text": "A motion was presented for a decision that the Money Laundering Prevention (Third Amendment) Bill, 2083—received from the House of Representatives along with a message—be referred to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "298d8e57-6502-4040-a9c5-d2464610d196",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/zwwxg53vvr5llxwj.mp4?central=1&type=na",
+   "text": "A motion was presented for a decision that \"the Public Procurement (Second Amendment) Bill, 2083, received from the House of Representatives along with its message, be referred to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "e9d59984-bb48-48c4-8cdc-1175d28c59af",
+   "kind": "विनियोजन विधेयक, २०८३ अन्तर्गत विभिन्न मन्त्रालयको छलफलमा उठेका प्रश्नहरूको सम्बन्धित मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 6th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/tv8wsaq0kmkktc8n.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "346fd45e-9be1-4015-93a0-b8efee4f8f0e",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/eopfycxxisp5xdmr.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "9fa86bcc-fcf3-4200-9548-aeda84149c33",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/pswk00rcjdhn1sdx.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्' भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "bda028db-fcdf-461b-96ce-8e3280c24555",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/wwmhhlrmdzoy1sqz.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "b60d0029-2167-4f3e-bd14-331021a3f00e",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/wwmhhlrmdzoy1sqz.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "f1744e32-75a1-4f5e-b7d4-758fde73fd92",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/cyxxwpceypq41to7.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "7028968f-139f-40e6-afd5-d2521ff8ea69",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/mc7zfwxyeuzr0dkp.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "a3bbadd8-7a81-423f-ae8a-19ce1c5cd7a3",
+   "kind": "अन्य",
+   "context": "National Assembly - 3rd Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/7kqd28yyqlxuivau.mp4?central=1&type=na",
+   "text": "प्रतिनिधि सभाबाट प्राप्त सन्देशहरु सभा समक्ष टेबुल"
+  },
+  {
+   "id": "34308318-bcf2-41d6-94da-97b2585aaa8a",
+   "kind": "अन्य",
+   "context": "National Assembly - 2nd Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/xfsv7y9apfx6kmm6.mp4?central=1&type=na",
+   "text": "खर्च कटौतीको प्रस्ताव"
+  },
+  {
+   "id": "71903347-fc3f-4b3b-8d23-7fa433cb2fad",
+   "kind": "अन्य",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/zlmzeowoq3nnydmg.mp4?central=1&type=na",
+   "text": "निर्देशन"
+  },
+  {
+   "id": "e3be3957-d57f-4c61-bf44-35c2023368cb",
+   "kind": "अन्य",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ipgbduj9aj2s6p5t.mp4?central=1&type=na",
+   "text": "सङ्कल्प प्रस्ताव निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "ff5b405f-db6e-43cc-86df-c996d10857e3",
+   "kind": "अन्य",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/nkj0frka9rzal3ut.mp4?central=1&type=na",
+   "text": "सङ्कल्प प्रस्ताव सम्बन्धी जानकारी"
+  },
+  {
+   "id": "f8dc189a-59ff-4cc0-8bad-3c96b3d084af",
+   "kind": "अन्य",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/jrtv8ymnbqhst4tc.mp4?central=1&type=na",
+   "text": "निर्देशन"
+  },
+  {
+   "id": "b78142af-7eef-4d00-a8d5-93ad4b287196",
+   "kind": "अन्य",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/0mndpfwixv5qtzq6.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "0e57e5a1-a9ca-4034-b6ed-e37f21e8ad47",
+   "kind": "अन्य",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ykoxntdzqmx0nna9.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "f533db36-3dc1-4b12-a4b0-77574b642e2e",
+   "kind": "अन्य",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/yxj4ocmuyegc1jax.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल"
+  },
+  {
+   "id": "5ca2fa05-8e10-4ecb-90a2-c190605a9f62",
+   "kind": "अन्य",
+   "context": "National Assembly - 26th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/5rjckgci9mmb2had.mp4?central=1&type=na",
+   "text": "शोक प्रस्ताव"
+  },
+  {
+   "id": "0f1cd20a-6666-4a6d-864d-216e6ba5ca60",
+   "kind": "अन्य",
+   "context": "National Assembly - 26th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/bkdvfz2u9wy32nde.mp4?central=1&type=na",
+   "text": "“विनियोजन विधेयक, २०८३” का सम्बन्धमा प्रतिनिधि सभाबाट प्राप्त सन्देश सभा समक्ष टेबुल"
+  },
+  {
+   "id": "5db8eefe-9741-4682-9cee-9cbc0b9d6553",
+   "kind": "अन्य",
+   "context": "National Assembly - 26th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/f7hrjze141dsnwh2.mp4?central=1&type=na",
+   "text": "राष्ट्रपतिको कार्यालयको पत्र"
+  },
+  {
+   "id": "45d7773b-b8a4-4819-b0ee-70db27993276",
+   "kind": "अन्य",
+   "context": "National Assembly - 19th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/yqcop3porhosers6.mp4?central=1&type=na",
+   "text": "प्रधानमन्त्री तथा मन्त्रिपरिषदको कार्यालयको पत्र"
+  },
+  {
+   "id": "adee2386-ca73-4cee-849e-c93e008cb974",
+   "kind": "अन्य",
+   "context": "National Assembly - 15th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/y99l4tcsuaoecwjs.mp4?central=1&type=na",
+   "text": "निर्देशन"
+  },
+  {
+   "id": "dc43eab3-cac4-45d1-b3bf-9638ed1e4afd",
+   "kind": "अन्य",
+   "context": "National Assembly - 12th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/yhdxuwu9hqvnyfyn.mp4?central=1&type=na",
+   "text": "जानकारी"
+  },
+  {
+   "id": "85fcdbb6-1ecf-46f2-8f8e-248c673305c6",
+   "kind": "अन्य",
+   "context": "National Assembly - 12th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ubw3sxhvuzkzqyth.mp4?central=1&type=na",
+   "text": "राष्ट्रिय समावेशी आयोगको आ.व. २०८१/८२ को सातौं वार्षिक प्रतिवेदन सभा समक्ष पेस"
+  },
+  {
+   "id": "9a167fd4-c612-467a-b0f2-eb9a7bf847b3",
+   "kind": "Zero Hour",
+   "context": "National Assembly - 12th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/thsllrqjx6e0hltd.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "06b7e464-c0b4-4b02-98ec-49e46e3b47d1",
+   "kind": "बिरोध",
+   "context": "National Assembly - 1st Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/27ubvshib4kxfc7q.mp4?central=1&type=na",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "२०२७ सालदेखि अनेरास्ववियु सदस्य, २०३५ साल पार्टी सदस्य, २०३६ देखि राजनीतिक काममा पूर्णकालीन, २०५७ देखि पार्टी केन्द्रीय सदस्य हालसम्म पार्टी भित्र विभिन्न मोर्चामा काम गरेको, २०६३ मा अन्तरिम व्यवस्थापिका संसद सदस्य, २०६४ मा चितवन क्षेत्र नं. ३ बाट संविधान सभा सदस्य निर्वाचित ।",
+  "Previous Experience": "सामाजिक कार्य, क. प्रचण्डको प्रधानमन्त्रीत्व कालमा सल्लाहकार संघीय संसद लेखा समितिमा ४ वर्ष कार्य गरेको ।",
+  "Current Affiliation": "सम्बन्धित सभा",
+  "Publications": "विभिन्न पत्रपत्रिकामा लेख, अनुसन्धानका लेख प्रकाशन",
+  "Additional Information": "विदेश भ्रमण: चीन, रुस, थाइल्यान्ड, लावोस, कोरिया मलेसिया सिङ्गापुर, भारत आदि ।"
+ },
+ "terms": [
+  {
+   "years": "2026-02-25–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "नियमित चक्र अनुसार - 2082",
+   "note": null
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "355bad2a-e79b-4e12-a514-298eb74aa74e",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 2)",
+   "scope": "house"
+  },
+  {
+   "meeting": "781a4326-7248-441c-b767-b3a616d5050d",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f7ae9af2-cc37-4c5e-99a4-1bd1a10ce87f",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 May 2026 (meeting - 3)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0e754b6d-68c1-405b-af44-100f6d5efddf",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "National Assembly Meeting - 14 May 2026 (meeting - 4)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6889f511-978a-4f1b-ab8c-1e3fa1fc963b",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 May 2026 (meeting - 5)",
+   "scope": "house"
+  },
+  {
+   "meeting": "76faaccd-8b88-42fa-83a3-8efebdfa9cdb",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 May 2026 (meeting - 6)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0d2caaa9-6dd5-45bc-92d9-8fff5a5b8b12",
+   "date": "2026-05-22",
+   "status": "present",
+   "title": "National Assembly Meeting - 22 May 2026 (meeting - 7)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0a46e963-b5ac-4161-8d0b-5bf0ce0f1e7f",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 8)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e8ce07c6-e45d-461a-99d0-bcf81fb53bb1",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 9)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70693fb3-5619-4b43-bdd4-1c38805505cc",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 May 2026 (meeting - 10)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cd08e75b-6b46-4a8d-98c5-d2eee59579cd",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 May 2026 (meeting - 11)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bde7f356-a3ca-41e5-9a4e-234af5c502e2",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 June 2026 (meeting - 12)",
+   "scope": "house"
+  },
+  {
+   "meeting": "eb4a3fba-8ca6-4d9f-ad8a-b0bd1d392424",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 June 2026 (meeting - 13)",
+   "scope": "house"
+  },
+  {
+   "meeting": "79d1d024-e07f-41b8-a88e-0d9c26214312",
+   "date": "2026-06-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 June 2026 (meeting - 14)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0ab0fd72-a167-4d1c-896b-2357a38bbdea",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 June 2026 (meeting - 15)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2b340ddb-4636-4887-83d4-13da1f78f574",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 June 2026 (meeting - 16)",
+   "scope": "house"
+  },
+  {
+   "meeting": "9415d891-8226-4118-8e91-13c826c68987",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 June 2026 (meeting - 17)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed5546ea-7e70-4a7f-9abd-1d89b63cfd4c",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 June 2026 (meeting - 18)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e468aa74-a5f8-43c5-84e1-1e3c5bbbbacd",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 June 2026 (meeting - 19)",
+   "scope": "house"
+  },
+  {
+   "meeting": "18a91901-a356-4323-a79d-cfc675e42b3f",
+   "date": "2026-06-26",
+   "status": "present",
+   "title": "National Assembly Meeting - 26 June 2026 (meeting - 20)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ba69d1ef-9132-4d16-a771-73fe816de4da",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 22)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d37078a9-899c-42bd-824e-fd65b950eeac",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 21)",
+   "scope": "house"
+  },
+  {
+   "meeting": "25487fc3-3ec1-42cb-9c25-f27a4cdfce5f",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 July 2026 (meeting - 23)",
+   "scope": "house"
+  },
+  {
+   "meeting": "69663f43-5218-46b2-b7e8-36509d125609",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 July 2026 (meeting - 24)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ca327155-822c-4a1e-8bbf-5f9b8063f9cf",
+   "date": "2026-07-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 July 2026 (meeting - 25)",
+   "scope": "house"
+  },
+  {
+   "meeting": "12cea91d-36b3-4254-84d2-02d8cbc41089",
+   "date": "2026-07-04",
+   "status": "present",
+   "title": "National Assembly Meeting - 4 July 2026 (meeting - 26)",
+   "scope": "house"
+  },
+  {
+   "meeting": "96a44541-6342-4c19-a81a-57eb13fc771c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 July 2026 (meeting - 27)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45d95279-6457-4675-9408-3abee3b6523d",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 29)",
+   "scope": "house"
+  },
+  {
+   "meeting": "db2f5a91-a851-4f06-bc50-db95ce7a2fc7",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 28)",
+   "scope": "house"
+  },
+  {
+   "meeting": "154f8ef2-2471-4dd4-ad0b-a9a5f1aecfc9",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 31)",
+   "scope": "house"
+  },
+  {
+   "meeting": "19d3c9a1-97eb-4328-bf39-716ce7dea5d2",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 30)",
+   "scope": "house"
+  },
+  {
+   "meeting": "07850fd1-a44e-4e95-874b-791878177e0c",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 July 2026 (meeting - 32)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bcadcac6-6d83-4049-a6b5-e5cf06d76237",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 July 2026 (meeting - 33)",
+   "scope": "house"
+  },
+  {
+   "meeting": "1661bf03-a5c5-4042-aea4-9283a41c872c",
+   "date": "2026-07-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 July 2026 (meeting - 34)",
+   "scope": "house"
+  },
+  {
+   "meeting": "51e3bc09-e109-4e3d-a21a-20fbbb492767",
+   "date": "2026-08-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 August 2026 (meeting - 35)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffd2887e-139c-4b8a-b076-b8a888a2122a",
+   "date": "2026-08-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 August 2026 (meeting - 36)",
+   "scope": "house"
+  },
+  {
+   "meeting": "144d7edb-afe7-4f7d-bfd3-09ad1e930095",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 August 2026 (meeting - 37)",
+   "scope": "house"
+  },
+  {
+   "meeting": "46b638ef-ccb8-443d-acb6-310d54f059bc",
+   "date": "2026-08-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 August 2026 (meeting - 38)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a2168419-270d-405f-a97c-6866c02de391",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "National Assembly Meeting - 17 August 2026 (meeting - 39)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bf7614ba-9702-4b0d-85d0-8c5677cd4ef6",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 August 2026 (meeting - 40)",
+   "scope": "house"
+  },
+  {
+   "meeting": "7a2ace4e-5de6-4d5e-b11c-adec7998ea2c",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 August 2026 (meeting - 41)",
+   "scope": "house"
+  },
+  {
+   "meeting": "360a4a55-8539-4468-9e07-db9c6937aab4",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfda1afa-b682-44af-b789-21799769cad3",
+   "date": "2026-09-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 September 2026 (meeting - 43)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ab3ec7c6-8938-4991-b080-c23a004c0da7",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 September 2026 (meeting - 44)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6dcd27d8-619d-418c-8478-e88c2768fcca",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 September 2026 (meeting - 45)",
+   "scope": "house"
+  },
+  {
+   "meeting": "8924eb62-f890-42b0-a761-3ccf1e6aaf8c",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "National Assembly Meeting - 16 September 2026 (meeting - 46)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2c2cb199-1d6f-48b3-917e-8ce5884f77cf",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 September 2026 (meeting - 47)",
+   "scope": "house"
+  },
+  {
+   "meeting": "28c0eb2c-fb0a-442d-99d6-c3ff0888bd56",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 September 2026 (meeting - 48)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c8a9eb6-8958-492e-8544-14db02296cf6",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "National Assembly Meeting - 24 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67df4763-29f5-4ab0-9a5b-3e657a8126d0",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "National Assembly Meeting - 28 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0b876761-92e0-4cae-9dad-1a0bbeb86991",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 October 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70c44e42-f9cb-4279-8371-3965645bb492",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 October 2026 (meeting - 52)",
+   "scope": "house"
+  }
+ ]
+}

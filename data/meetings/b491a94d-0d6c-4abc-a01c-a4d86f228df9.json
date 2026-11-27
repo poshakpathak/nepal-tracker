@@ -1,0 +1,122 @@
+{
+ "id": "b491a94d-0d6c-4abc-a01c-a4d86f228df9",
+ "title": "Public Accounts Committee - Meeting 9",
+ "date": "2026-07-10",
+ "duration": "1 hr",
+ "start": "10:00 AM",
+ "end": "11:00 AM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Bharat Bahadur Khadka",
+ "agenda": "बैठकको कार्यसूची",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bharat-bahadur-khadka",
+   "status": "present"
+  },
+  {
+   "member": "amrita-bk",
+   "status": "absent"
+  },
+  {
+   "member": "aaren-rai",
+   "status": "present"
+  },
+  {
+   "member": "indira-rana",
+   "status": "present"
+  },
+  {
+   "member": "ain-bahadur-mahar",
+   "status": "present"
+  },
+  {
+   "member": "kripa-maharjan",
+   "status": "present"
+  },
+  {
+   "member": "krantishikha-dhital",
+   "status": "present"
+  },
+  {
+   "member": "khagendra-sunar",
+   "status": "present"
+  },
+  {
+   "member": "khusbu-oli",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-dhimal",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-parajuli",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-singh-thagunna",
+   "status": "present"
+  },
+  {
+   "member": "govind-panthi",
+   "status": "present"
+  },
+  {
+   "member": "janak-raj-giri",
+   "status": "present"
+  },
+  {
+   "member": "prem-lal-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  },
+  {
+   "member": "mahendra-bahadur-shahi",
+   "status": "present"
+  },
+  {
+   "member": "mohan-acharya",
+   "status": "absent"
+  },
+  {
+   "member": "yagya-bahadur-bogati",
+   "status": "present"
+  },
+  {
+   "member": "yogesh-gauchan-thakali",
+   "status": "absent"
+  },
+  {
+   "member": "ramesh-kumar-sapkota",
+   "status": "present"
+  },
+  {
+   "member": "rukesh-ranjit",
+   "status": "present"
+  },
+  {
+   "member": "bikram-thapa",
+   "status": "present"
+  },
+  {
+   "member": "bipin-kumar-acharya",
+   "status": "present"
+  },
+  {
+   "member": "sitaram-sha",
+   "status": "present"
+  },
+  {
+   "member": "manish-jha",
+   "status": "absent"
+  }
+ ],
+ "present": 22,
+ "members": 26,
+ "recording": null
+}

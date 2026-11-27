@@ -1,0 +1,46 @@
+{
+ "id": "b1cd4fc8-04b6-4a51-83e9-950c3fbabbe1",
+ "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 7",
+ "date": "2026-09-03",
+ "duration": "40 min",
+ "start": "3:20 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "मस्यौदा प्रतिवेदन उपर छलफल सम्बन्धमा",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "absent"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "renu-chand",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  }
+ ],
+ "present": 5,
+ "members": 7,
+ "recording": null
+}

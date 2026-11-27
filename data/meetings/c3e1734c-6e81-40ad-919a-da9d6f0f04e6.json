@@ -1,0 +1,78 @@
+{
+ "id": "c3e1734c-6e81-40ad-919a-da9d6f0f04e6",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 29",
+ "date": "2026-11-07",
+ "duration": "3 hr 30 min",
+ "start": "2:30 PM",
+ "end": "6:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) सर्वोच्च अदालतको न्यायाधीश पदमा नियुक्तिको लागि प्रस्तावित व्यक्तिहरूको प्रस्तावित पदमा नियुक्तिको उपयुक्तता तथा अनुपयुक्तता सम्बन्धमा निर्णय गरी सम्बन्धित निकायमा सिफारिस गर्ने ।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "absent"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "absent"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "absent"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "absent"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 10,
+ "members": 15,
+ "recording": null
+}

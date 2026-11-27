@@ -1,0 +1,130 @@
+{
+ "id": "37a8d25d-ccf2-4d03-9183-0b6761f19dae",
+ "title": "Finance Committee - Meeting 21",
+ "date": "2026-08-05",
+ "duration": "3 hr",
+ "start": "10:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "१. नेपाल राष्ट्र बैंक ऐन, 2058 लाई संशोधन गर्न बनेको विधेयकमाथि दफावार छलफल जारी,",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "absent"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "present"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "absent"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "present"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "present"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "absent"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "absent"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "present"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "present"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "present"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  }
+ ],
+ "present": 22,
+ "members": 28,
+ "recording": null
+}

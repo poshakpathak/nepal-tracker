@@ -1,0 +1,38 @@
+{
+ "id": "c2d36958-7532-44ac-8148-522c1aa1c7a5",
+ "title": "Sub-committee on Public Policy Study - Meeting 10",
+ "date": "2026-10-07",
+ "duration": "2 hr 45 min",
+ "start": "11:15 AM",
+ "end": "2:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Puja Chaudhary",
+ "agenda": "पुस्तकालय नीतिमा सरोकारवाला तथा विज्ञबाट प्राप्‍त सुझाव सम्बन्धमा।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "madan-kumari-shah-garima",
+   "status": "present"
+  },
+  {
+   "member": "jagat-bahadur-parki",
+   "status": "present"
+  },
+  {
+   "member": "mina-singh-rakhal",
+   "status": "present"
+  },
+  {
+   "member": "yuvraj-sharma",
+   "status": "present"
+  },
+  {
+   "member": "ranjeet-karn",
+   "status": "absent"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

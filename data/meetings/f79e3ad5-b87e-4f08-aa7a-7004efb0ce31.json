@@ -1,0 +1,78 @@
+{
+ "id": "f79e3ad5-b87e-4f08-aa7a-7004efb0ce31",
+ "title": "Committee for Legislation Management - Meeting 778",
+ "date": "2026-09-15",
+ "duration": "2 hr",
+ "start": "1:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "आन्तरिक वायुसेवाको दायित्व सम्बन्धी विधेयक, २०८३",
+ "minutes": "छलफल तथा निर्णय:-",
+ "attendance": [
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "anjan-shakya",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "krishna-prasad-sitaula",
+   "status": "present"
+  },
+  {
+   "member": "khamma-bahadur-khati",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "absent"
+  },
+  {
+   "member": "jhakku-prasad-subedi",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "rajendra-laxmi-gaire",
+   "status": "present"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-devi-pudasaini",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  }
+ ],
+ "present": 12,
+ "members": 15,
+ "recording": null
+}

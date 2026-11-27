@@ -1,0 +1,130 @@
+{
+ "id": "e295ecaa-61af-4176-aa60-a19ad53d190c",
+ "title": "Finance Committee - Meeting 29",
+ "date": "2026-09-11",
+ "duration": "3 hr 30 min",
+ "start": "9:30 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "present"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "absent"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "present"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "present"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "absent"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "present"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "absent"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "absent"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "present"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "present"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "present"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "absent"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  }
+ ],
+ "present": 21,
+ "members": 28,
+ "recording": null
+}

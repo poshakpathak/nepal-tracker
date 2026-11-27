@@ -1,0 +1,38 @@
+{
+ "id": "8af1fafb-265b-4bb6-a59a-5676ecca55b6",
+ "title": "Information and Communication Study Subcommittee - Meeting 1",
+ "date": "2026-08-20",
+ "duration": "1 hr",
+ "start": "2:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "khusbu-sarkar-shrestha",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-bahadur-khadka",
+   "status": "absent"
+  },
+  {
+   "member": "rabin-mahato",
+   "status": "absent"
+  },
+  {
+   "member": "shambhu-kumar-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "hari-prasad-bhusal",
+   "status": "absent"
+  }
+ ],
+ "present": 0,
+ "members": 5,
+ "recording": null
+}

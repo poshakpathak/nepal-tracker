@@ -1,0 +1,78 @@
+{
+ "id": "24771de4-2732-4d7e-a21d-cf00b0399b62",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 23",
+ "date": "2026-10-14",
+ "duration": "3 hr 25 min",
+ "start": "4:35 PM",
+ "end": "8:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "विभिन्न १३ वटा मित्रराष्ट्रहरूका लागि नेपाली राजदूत पदमा नियुक्तिका लागि प्रस्तावित व्यक्तिहरूको प्रस्तावित पदमा नियुक्तिको उपयुक्तता तथा अनुपयुक्तता सम्बन्धमा निर्णय गरी सम्बन्धित निकायमा सिफारिस गर्ने ।",
+ "minutes": "१) नेपाल सरकार (मन्त्रिपरिषद्) को 208३ असोज २ गतेको निर्णयानुसार",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

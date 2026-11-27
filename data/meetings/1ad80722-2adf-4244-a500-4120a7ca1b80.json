@@ -1,0 +1,30 @@
+{
+ "id": "1ad80722-2adf-4244-a500-4120a7ca1b80",
+ "title": "sustainable development sub committee",
+ "date": "2026-07-14",
+ "duration": "25 hr 30 min",
+ "start": "11:00 AM",
+ "end": "12:30 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Prasad Paudel",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "narayan-datta-bhatta",
+   "status": "present"
+  },
+  {
+   "member": "rekha-kumari-jha",
+   "status": "present"
+  },
+  {
+   "member": "sabitri-malla",
+   "status": "present"
+  }
+ ],
+ "present": 3,
+ "members": 3,
+ "recording": null
+}

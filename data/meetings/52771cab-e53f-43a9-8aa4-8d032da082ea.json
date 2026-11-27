@@ -1,0 +1,1118 @@
+{
+ "id": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+ "title": "House of Representatives Meeting - 19 August 2026",
+ "date": "2026-08-19",
+ "duration": "10 hr",
+ "start": "1:00 PM",
+ "end": "11:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives",
+ "chair": null,
+ "agenda": null,
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "aaren-rai",
+   "status": "present"
+  },
+  {
+   "member": "asika-tamang",
+   "status": "present"
+  },
+  {
+   "member": "abhishek-pratap-shah",
+   "status": "absent"
+  },
+  {
+   "member": "achutam-lamichhane",
+   "status": "present"
+  },
+  {
+   "member": "ain-bahadur-mahar",
+   "status": "present"
+  },
+  {
+   "member": "amar-kanta-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "amresh-kumar-singh",
+   "status": "present"
+  },
+  {
+   "member": "ananda-bahadur-chand",
+   "status": "present"
+  },
+  {
+   "member": "arvind-sah",
+   "status": "present"
+  },
+  {
+   "member": "arjun-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "asha-jha",
+   "status": "present"
+  },
+  {
+   "member": "ashish-gajurel",
+   "status": "present"
+  },
+  {
+   "member": "ashok-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "bablu-gupta",
+   "status": "present"
+  },
+  {
+   "member": "badan-kumar-bhandari",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  },
+  {
+   "member": "bashana-thapa",
+   "status": "present"
+  },
+  {
+   "member": "bharat-kumar-swar",
+   "status": "present"
+  },
+  {
+   "member": "bharat-bahadur-khadka",
+   "status": "present"
+  },
+  {
+   "member": "bharat-prasad-parajuli",
+   "status": "absent"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "present"
+  },
+  {
+   "member": "bikram-timilsina",
+   "status": "present"
+  },
+  {
+   "member": "bikram-thapa",
+   "status": "present"
+  },
+  {
+   "member": "bina-gurung",
+   "status": "present"
+  },
+  {
+   "member": "bipin-kumar-acharya",
+   "status": "present"
+  },
+  {
+   "member": "biraj-bhakta-shrestha",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-bahadur-khadka",
+   "status": "present"
+  },
+  {
+   "member": "bishwaraj-pokharel",
+   "status": "present"
+  },
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "buddha-ratna-maharjan",
+   "status": "present"
+  },
+  {
+   "member": "budhi-prasad-pant",
+   "status": "present"
+  },
+  {
+   "member": "chandan-kumar-singh",
+   "status": "present"
+  },
+  {
+   "member": "deepak-kumar-sah",
+   "status": "present"
+  },
+  {
+   "member": "dipak-kumar-sah",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhan-bahadur-budha",
+   "status": "absent"
+  },
+  {
+   "member": "dhananjay-regmi",
+   "status": "present"
+  },
+  {
+   "member": "dhanendra-karki",
+   "status": "absent"
+  },
+  {
+   "member": "dharma-raj-kc",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "absent"
+  },
+  {
+   "member": "dol-prasad-aryal",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "ganesh-dhimal",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-karki",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-parajuli",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-poudel",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-singh-thagunna",
+   "status": "present"
+  },
+  {
+   "member": "gauri-kumari",
+   "status": "absent"
+  },
+  {
+   "member": "gopal-sharma",
+   "status": "present"
+  },
+  {
+   "member": "govind-panthi",
+   "status": "present"
+  },
+  {
+   "member": "gyan-bahadur-shahi",
+   "status": "absent"
+  },
+  {
+   "member": "gyanendra-singh-mahata",
+   "status": "present"
+  },
+  {
+   "member": "hari-dhakal",
+   "status": "present"
+  },
+  {
+   "member": "hari-mohan-bhandari",
+   "status": "absent"
+  },
+  {
+   "member": "hari-prasad-bhusal",
+   "status": "present"
+  },
+  {
+   "member": "harka-raj-rai",
+   "status": "present"
+  },
+  {
+   "member": "indira-rana",
+   "status": "present"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "absent"
+  },
+  {
+   "member": "jagdish-kharel",
+   "status": "absent"
+  },
+  {
+   "member": "jagat-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "janak-raj-giri",
+   "status": "present"
+  },
+  {
+   "member": "janak-singh-dhami",
+   "status": "present"
+  },
+  {
+   "member": "jayapati-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "jhabilal-dumre",
+   "status": "present"
+  },
+  {
+   "member": "toshima-karki",
+   "status": "absent"
+  },
+  {
+   "member": "kp-khanal",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "kamal-subedi",
+   "status": "present"
+  },
+  {
+   "member": "kanhaiya-baniya",
+   "status": "absent"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "absent"
+  },
+  {
+   "member": "khadak-raj-paudel",
+   "status": "absent"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "present"
+  },
+  {
+   "member": "khagendra-sunar",
+   "status": "present"
+  },
+  {
+   "member": "khem-raj-koirala",
+   "status": "present"
+  },
+  {
+   "member": "komal-gewali",
+   "status": "absent"
+  },
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "kshitij-thebe",
+   "status": "present"
+  },
+  {
+   "member": "lal-bikram-thapa",
+   "status": "present"
+  },
+  {
+   "member": "laxmi-prasad-pokharel",
+   "status": "present"
+  },
+  {
+   "member": "madhav-bahadur-thapa",
+   "status": "present"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "absent"
+  },
+  {
+   "member": "mahabir-pun",
+   "status": "absent"
+  },
+  {
+   "member": "mahendra-bahadur-shahi",
+   "status": "present"
+  },
+  {
+   "member": "manish-jha",
+   "status": "present"
+  },
+  {
+   "member": "manish-khanal",
+   "status": "present"
+  },
+  {
+   "member": "matrika-prasad-yadav",
+   "status": "present"
+  },
+  {
+   "member": "md-firdaush-alam",
+   "status": "present"
+  },
+  {
+   "member": "mohammad-ishtiyaq-rai",
+   "status": "present"
+  },
+  {
+   "member": "mohan-acharya",
+   "status": "present"
+  },
+  {
+   "member": "mohan-lal-acharya",
+   "status": "present"
+  },
+  {
+   "member": "narendra-kumar-gupta",
+   "status": "absent"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "narendra-sah-kalwar",
+   "status": "absent"
+  },
+  {
+   "member": "nisha-dangi",
+   "status": "absent"
+  },
+  {
+   "member": "nishcal-rai",
+   "status": "absent"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "absent"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "present"
+  },
+  {
+   "member": "pradip-bista",
+   "status": "present"
+  },
+  {
+   "member": "prakash-gautam",
+   "status": "present"
+  },
+  {
+   "member": "prakash-pathak",
+   "status": "present"
+  },
+  {
+   "member": "prakash-singh-karki",
+   "status": "present"
+  },
+  {
+   "member": "pramod-kumar-mahato",
+   "status": "present"
+  },
+  {
+   "member": "prashant-upreti",
+   "status": "present"
+  },
+  {
+   "member": "pukar-bom",
+   "status": "present"
+  },
+  {
+   "member": "pushpa-kamal-dahal",
+   "status": "absent"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "rahbar-ansari",
+   "status": "present"
+  },
+  {
+   "member": "rajan-gautam",
+   "status": "present"
+  },
+  {
+   "member": "rajendra-kumar-rai",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "raj-kishor-mahato-koiri",
+   "status": "present"
+  },
+  {
+   "member": "raju-nath-pandey",
+   "status": "absent"
+  },
+  {
+   "member": "ram-binod-yadav",
+   "status": "present"
+  },
+  {
+   "member": "ramakanth-prasad-chaurasiya",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-sapkota",
+   "status": "present"
+  },
+  {
+   "member": "aakriti-awasthi",
+   "status": "present"
+  },
+  {
+   "member": "afsana-banu",
+   "status": "absent"
+  },
+  {
+   "member": "ambika-devi-sangraula",
+   "status": "present"
+  },
+  {
+   "member": "amrita-bk",
+   "status": "present"
+  },
+  {
+   "member": "ankita-thakur",
+   "status": "present"
+  },
+  {
+   "member": "anushka-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "balawati-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "bhim-kumari-budhamagar",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "present"
+  },
+  {
+   "member": "bhumika-limbu-subba",
+   "status": "present"
+  },
+  {
+   "member": "bhumika-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-maya-bk",
+   "status": "present"
+  },
+  {
+   "member": "basu-maya-tamang",
+   "status": "present"
+  },
+  {
+   "member": "chandeshwar-mandal",
+   "status": "present"
+  },
+  {
+   "member": "chandra-mohan-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "shristi-bhattarai",
+   "status": "present"
+  },
+  {
+   "member": "alija-gurung",
+   "status": "present"
+  },
+  {
+   "member": "ashuda-kumari-baral",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-bahadur-bishwakarma",
+   "status": "present"
+  },
+  {
+   "member": "ganga-chhantyal",
+   "status": "present"
+  },
+  {
+   "member": "ganga-devi-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "ganga-laxmi-awal",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "gita-chaudhari",
+   "status": "absent"
+  },
+  {
+   "member": "gita-gurung",
+   "status": "present"
+  },
+  {
+   "member": "gita-kumari-sendang",
+   "status": "present"
+  },
+  {
+   "member": "guru-prasad-baral",
+   "status": "present"
+  },
+  {
+   "member": "gyanu-poudyal",
+   "status": "present"
+  },
+  {
+   "member": "harina-devi-kami",
+   "status": "present"
+  },
+  {
+   "member": "kali-bahadur-sahakri",
+   "status": "present"
+  },
+  {
+   "member": "kamini-kumari",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "absent"
+  },
+  {
+   "member": "khagendra-karna",
+   "status": "present"
+  },
+  {
+   "member": "khima-bk",
+   "status": "absent"
+  },
+  {
+   "member": "khusbu-sarkar-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "khusbu-oli",
+   "status": "present"
+  },
+  {
+   "member": "krantishikha-dhital",
+   "status": "present"
+  },
+  {
+   "member": "kripa-maharjan",
+   "status": "present"
+  },
+  {
+   "member": "kripa-ram-rana",
+   "status": "present"
+  },
+  {
+   "member": "kul-bhakta-shakya",
+   "status": "present"
+  },
+  {
+   "member": "kushum-maharjan",
+   "status": "present"
+  },
+  {
+   "member": "lalita-kumari",
+   "status": "present"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "present"
+  },
+  {
+   "member": "madan-krishna-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "manju-bhusal",
+   "status": "absent"
+  },
+  {
+   "member": "manmaya-bishowkarma",
+   "status": "present"
+  },
+  {
+   "member": "mingma-gyabu-sherpa",
+   "status": "present"
+  },
+  {
+   "member": "ninu-kumari-karn",
+   "status": "present"
+  },
+  {
+   "member": "nirasha-chaudhari-dagaura",
+   "status": "present"
+  },
+  {
+   "member": "neesha-mehta",
+   "status": "absent"
+  },
+  {
+   "member": "nita-ghatani",
+   "status": "present"
+  },
+  {
+   "member": "ojaswee-sherchan",
+   "status": "present"
+  },
+  {
+   "member": "pabitra-bk",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parbati-bk",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prabha-dhakal",
+   "status": "present"
+  },
+  {
+   "member": "prabha-karki",
+   "status": "present"
+  },
+  {
+   "member": "prakash-chandra-pariyar",
+   "status": "present"
+  },
+  {
+   "member": "pramila-kuluju",
+   "status": "absent"
+  },
+  {
+   "member": "pramaila-kumari-gachhadar",
+   "status": "present"
+  },
+  {
+   "member": "pratibha-rawal",
+   "status": "absent"
+  },
+  {
+   "member": "prem-bahadur-bayak",
+   "status": "present"
+  },
+  {
+   "member": "pramesh-kumar-hamal",
+   "status": "present"
+  },
+  {
+   "member": "prem-lal-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "purna-prasad-limbu",
+   "status": "absent"
+  },
+  {
+   "member": "purushotam-suprabhat-yadav",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "rachana-khatiwada-khatri",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "present"
+  },
+  {
+   "member": "ram-lama",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-prasai",
+   "status": "present"
+  },
+  {
+   "member": "ratna-kumari-thapa",
+   "status": "present"
+  },
+  {
+   "member": "rekha-kumari-yadav",
+   "status": "present"
+  },
+  {
+   "member": "renuka-kaucha",
+   "status": "present"
+  },
+  {
+   "member": "rima-bishwokarma",
+   "status": "present"
+  },
+  {
+   "member": "reena-uprety-kc",
+   "status": "present"
+  },
+  {
+   "member": "ringla-yadav",
+   "status": "present"
+  },
+  {
+   "member": "rubi-kumari",
+   "status": "present"
+  },
+  {
+   "member": "rukmini-devi-koirala",
+   "status": "present"
+  },
+  {
+   "member": "sajida-khatun-siddqui",
+   "status": "present"
+  },
+  {
+   "member": "samikchya-baskota",
+   "status": "present"
+  },
+  {
+   "member": "samina-miya",
+   "status": "present"
+  },
+  {
+   "member": "tara-bishokarma",
+   "status": "present"
+  },
+  {
+   "member": "saraswoti-lama",
+   "status": "present"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "shahjan-khatun",
+   "status": "present"
+  },
+  {
+   "member": "shobha-khanal",
+   "status": "absent"
+  },
+  {
+   "member": "shraddha-kunwar-chhetri",
+   "status": "present"
+  },
+  {
+   "member": "sita-badi",
+   "status": "absent"
+  },
+  {
+   "member": "sita-thapaliya",
+   "status": "absent"
+  },
+  {
+   "member": "smriti-sunchiuri",
+   "status": "present"
+  },
+  {
+   "member": "sunita-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "surendra-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "sujata-tamang",
+   "status": "present"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "tika-sangraula",
+   "status": "present"
+  },
+  {
+   "member": "tuka-bhadra-hamal",
+   "status": "present"
+  },
+  {
+   "member": "jog-kumar-barbaria-yadav",
+   "status": "present"
+  },
+  {
+   "member": "tahir-ali-bhat",
+   "status": "present"
+  },
+  {
+   "member": "susma-swranakar-dimpal",
+   "status": "present"
+  },
+  {
+   "member": "yubaraj-dulal",
+   "status": "present"
+  },
+  {
+   "member": "yogesh-gauchan-thakali",
+   "status": "absent"
+  },
+  {
+   "member": "yagyamany-neupane",
+   "status": "present"
+  },
+  {
+   "member": "yagya-bahadur-bogati",
+   "status": "present"
+  },
+  {
+   "member": "uttam-prasad-paudel",
+   "status": "present"
+  },
+  {
+   "member": "ujjwal-kumar-jha",
+   "status": "present"
+  },
+  {
+   "member": "thakur-singh-tharu",
+   "status": "present"
+  },
+  {
+   "member": "tek-bahadur-shakya",
+   "status": "present"
+  },
+  {
+   "member": "tek-bahadur-gurung",
+   "status": "present"
+  },
+  {
+   "member": "taufique-ahmad-khan",
+   "status": "present"
+  },
+  {
+   "member": "tapeshwar-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "sushil-kumar-kanu",
+   "status": "present"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  },
+  {
+   "member": "surya-bahadur-tamang",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "sunil-lamsal",
+   "status": "absent"
+  },
+  {
+   "member": "sunil-kc",
+   "status": "present"
+  },
+  {
+   "member": "sulav-kharel",
+   "status": "present"
+  },
+  {
+   "member": "suhang-nembang",
+   "status": "absent"
+  },
+  {
+   "member": "sudhan-gurung",
+   "status": "present"
+  },
+  {
+   "member": "som-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "sobita-gautam",
+   "status": "absent"
+  },
+  {
+   "member": "sitaram-sha",
+   "status": "present"
+  },
+  {
+   "member": "shri-ram-neupane",
+   "status": "present"
+  },
+  {
+   "member": "shreedhar-pokhrel",
+   "status": "present"
+  },
+  {
+   "member": "shiv-shankar-yadav",
+   "status": "present"
+  },
+  {
+   "member": "shisir-khanal",
+   "status": "absent"
+  },
+  {
+   "member": "shambhu-prasad-dhakal",
+   "status": "absent"
+  },
+  {
+   "member": "shambhu-kumar-yadav",
+   "status": "present"
+  },
+  {
+   "member": "sasmit-pokhrel",
+   "status": "absent"
+  },
+  {
+   "member": "santosh-rajbansi",
+   "status": "present"
+  },
+  {
+   "member": "santosh-subba",
+   "status": "present"
+  },
+  {
+   "member": "sandeep-rana",
+   "status": "present"
+  },
+  {
+   "member": "sagar-dhakal",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "present"
+  },
+  {
+   "member": "rukesh-ranjit",
+   "status": "present"
+  },
+  {
+   "member": "rubina-acharya",
+   "status": "present"
+  },
+  {
+   "member": "ravindra-patel",
+   "status": "present"
+  },
+  {
+   "member": "ranju-neupane",
+   "status": "absent"
+  },
+  {
+   "member": "ramjee-yadav",
+   "status": "present"
+  },
+  {
+   "member": "rabin-mahato",
+   "status": "absent"
+  },
+  {
+   "member": "rabi-lamichhane",
+   "status": "present"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  },
+  {
+   "member": "yeshodha-kumari",
+   "status": "present"
+  },
+  {
+   "member": "rajani-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "sirjana-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "sumnima-udas",
+   "status": "present"
+  }
+ ],
+ "present": 221,
+ "members": 275,
+ "recording": "https://www.youtube.com/watch?v=A_5KNBQFtu4"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "e3ac8a70-fbb9-480e-9354-6b551ebc9b9b",
+ "title": "Committee for Legislation Management - Meeting 758",
+ "date": "2026-07-09",
+ "duration": "2 hr",
+ "start": "8:00 AM",
+ "end": "10:00 AM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ सम्बन्धमा ,",
+ "minutes": "आज समितिका माननीय सभापति कृष्ण बहादुर रोकायको सभापतित्वमा बसेको समितिको बैठकमा सहकारी (पहिलो संशोधन) विधेयक, २०८३ मा सैद्धान्तिक र दफावार छलफल भयो।",
+ "attendance": [
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "anjan-shakya",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "krishna-prasad-sitaula",
+   "status": "present"
+  },
+  {
+   "member": "khamma-bahadur-khati",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "jhakku-prasad-subedi",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "rajendra-laxmi-gaire",
+   "status": "present"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-devi-pudasaini",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  }
+ ],
+ "present": 14,
+ "members": 15,
+ "recording": null
+}

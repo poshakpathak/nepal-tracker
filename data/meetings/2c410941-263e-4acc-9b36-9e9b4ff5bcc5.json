@@ -1,0 +1,50 @@
+{
+ "id": "2c410941-263e-4acc-9b36-9e9b4ff5bcc5",
+ "title": "Committee Consultation and Coordination Subcommittee - Meeting 5",
+ "date": "2026-09-16",
+ "duration": "1 hr",
+ "start": "8:00 AM",
+ "end": "9:00 AM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "बाढी प्रभावित क्षेत्रका होल्डिङ्ग सेन्टरहरूको स्थलगत अनुगमन सम्बन्धमा, विविध",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ojaswee-sherchan",
+   "status": "present"
+  },
+  {
+   "member": "pukar-bom",
+   "status": "present"
+  },
+  {
+   "member": "prabha-dhakal",
+   "status": "absent"
+  },
+  {
+   "member": "ringla-yadav",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "sita-thapaliya",
+   "status": "absent"
+  }
+ ],
+ "present": 6,
+ "members": 8,
+ "recording": null
+}

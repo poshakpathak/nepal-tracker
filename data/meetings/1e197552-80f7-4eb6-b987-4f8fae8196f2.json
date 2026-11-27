@@ -1,0 +1,78 @@
+{
+ "id": "1e197552-80f7-4eb6-b987-4f8fae8196f2",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 16",
+ "date": "2026-10-06",
+ "duration": "2 hr 45 min",
+ "start": "11:15 AM",
+ "end": "2:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) प्रस्तावित राजदूत उपर प्राप्‍त उजुरी खोल्ने।",
+ "minutes": "१) प्रस्ताव नं. १ उपर छलफल गर्दा विभिन्‍न १३ वटा मित्रराष्ट्रहरूका लागि प्रस्तावित राजदूतहरूको सम्बन्धमा प्राप्‍त उजुरीहरु खोली समितिका माननीय सदस्यहरुलाई वितरण गर्ने निर्णय सर्वसम्मतिले गरियो।",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "absent"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "absent"
+  }
+ ],
+ "present": 11,
+ "members": 15,
+ "recording": null
+}

@@ -1,0 +1,900 @@
+{
+ "slug": "swarnim-wagle",
+ "name": "Minister Swarnim Wagle",
+ "name_ne": "मन्त्री स्वर्णिम वाग्ले",
+ "chamber": "hor",
+ "party": "Rastriya Swatantra Party",
+ "party_ne": "राष्ट्रिय स्वतन्त्र पार्टी",
+ "party_id": "707d9fcf-505e-45ea-985c-f0c62f037c44",
+ "seat": "Tanahun-1",
+ "district": null,
+ "election": "direct",
+ "gender": "male",
+ "role": "MP",
+ "education": "PHD",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/Cb8Tw1DNHfbrBCjRKx0Dkui2q8coDgiRRSdqMnVa-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [
+  {
+   "id": "28208799-7da2-4a5b-86aa-9a38aae5f435",
+   "name": "Finance Committee"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 38,
+   "total": 71,
+   "present": 27,
+   "absent": 44
+  }
+ },
+ "statements": [
+  {
+   "id": "4b2bacb8-a89b-4e84-8d0b-f0334d886d12",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 1st Oct 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ki98v9tmkheq3mny.mp4?central=1&type=hr",
+   "text": "Honorable Finance Minister Dr. Swarnim Wagle presenting the motion that \"the Payment and Settlement (First Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "0730965a-39f5-41ff-b57d-371b3f7c266a",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 1st Oct 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lqgfaenxk29ut5sw.mp4?central=1&type=hr",
+   "text": "Honorable Finance Minister Dr. Swarnim Wagle presenting the motion that \"the Citizen Investment Trust (Third Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "6dbb86ce-08ff-42d6-8900-c5a6e7d8e0b3",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 1st Oct 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/bvb8bb1awdjnla5o.mp4?central=1&type=hr",
+   "text": "Honorable Finance Minister Dr. Swarnim Wagle presenting the motion that \"the Employees Provident Fund (Tenth Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "b00420fa-7315-4e85-ac89-b341c1c5ab83",
+   "kind": "Discussion on the \"Payment and Settlement (First Amendment) Bill, 2083\"",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/sk1wch3bvauwkxpr.mp4?central=1&type=hr",
+   "text": "Honorable Finance Minister Dr. Swarnim Wagle responding to questions raised during the discussion on the Payment and Settlement (First Amendment) Bill, 2083."
+  },
+  {
+   "id": "49ccdd05-1475-473e-ba32-670c75fe4861",
+   "kind": "Discussion on the \"Payment and Settlement (First Amendment) Bill, 2083\"",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/y1rivkcfthjc3lzu.mp4?central=1&type=hr",
+   "text": "While presenting the motion \"that the Payment and Settlement (First Amendment) Bill, 2083 be taken into consideration,\" Honorable Finance Minister Dr. Swarnim Wagle"
+  },
+  {
+   "id": "7bb812cc-7f02-4a34-90a9-d858fe2ba351",
+   "kind": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dfukqii60brgiceu.mp4?central=1&type=hr",
+   "text": "Honorable Finance Minister Swarnim Wagle will address the questions raised during the discussion on the Citizen Investment Trust (Third Amendment) Bill, 2083."
+  },
+  {
+   "id": "f3d23348-52c9-4e28-ac7c-1d84f785b567",
+   "kind": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/qckr3tt9arj1qt5t.mp4?central=1&type=hr",
+   "text": "While presenting the motion \"that the Citizen Investment Trust (Third Amendment) Bill, 2083 be considered,\" Honorable Finance Minister Dr. Swarnim Wagle"
+  },
+  {
+   "id": "345d0168-b1af-47f9-bda4-587df8f71036",
+   "kind": "On behalf of the Honorable Prime Minister Balendra Shah, Honorable Finance Minister Dr. Swarnim Wagle proposed that the \"Remuneration, Conditions of Service and Facilities of Officials of Constitutional Bodies (First Amendment) Bill, 2083 BS be sent to th",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yag3csmm7vaix2y3.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "01a7eba5-708c-4b72-897f-409760786154",
+   "kind": "\"अर्थसम्बन्धी केही नेपाल कानूनलाई संशोधन र खारेज गर्ने बिधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hj3izz56sepncqrf.mp4?central=1&type=hr",
+   "text": "\"अर्थसम्बन्धी केही नेपाल कानूनलाई संशोधन र खारेज गर्ने बिधेयक, २०८३ माथिको छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै"
+  },
+  {
+   "id": "c1020cb7-1c6e-44d1-82d0-1e0278ec5785",
+   "kind": "\"अर्थसम्बन्धी केही नेपाल कानूनलाई संशोधन र खारेज गर्ने बिधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/o2hbl3ztibt1qu5z.mp4?central=1&type=hr",
+   "text": "अर्थसम्बन्धी केही नेपाल कानूनलाई संशोधन र खारेज गर्ने बिधेयक, २०८३ माथिको छलफल"
+  },
+  {
+   "id": "b0a955cf-ea66-4c1c-ac1b-ce2a84861e48",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kopqqy0ynbmblhjp.mp4?central=1&type=hr",
+   "text": "माननीय अर्थ मन्त्री डा० मा. स्वर्णिम वाग्लेले"
+  },
+  {
+   "id": "4dac4530-c2bb-4fc9-83e4-7d804c5b644b",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lni9yfxkynf6ox50.mp4?central=1&type=hr",
+   "text": "माननीय अर्थ मन्त्री डा० मा. स्वर्णिम वाग्लेले"
+  },
+  {
+   "id": "6a5b6c86-9d5b-405f-9c8c-0ada72c7108a",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/1hmmcvwc2qrqqbuk.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Bill to Raise Public Debt, 2083,\" received from the House of Representatives with a message, be passed and returned to the House of Representatives."
+  },
+  {
+   "id": "b57ff073-277c-418f-b3da-3599a56972d0",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/qj9gielqrqjshyoz.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Bill to Raise Public Debt, 2083\"—received from the House of Representatives with a message—be subjected to a clause-by-clause discussion in the House."
+  },
+  {
+   "id": "707e5199-52fd-4a1a-a985-47324f1adf54",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/oifrvnnqyzo7hdi3.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Finance Bill, 2083,\" received from the House of Representatives with a message, be passed and returned to the House of Representatives."
+  },
+  {
+   "id": "5b5cf8b3-b1c2-4814-a87a-570c8b06eb1a",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/bzxgterz9cbsyl9s.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Finance Bill, 2083\"—received from the House of Representatives along with a message—be subjected to a clause-by-clause discussion in the House."
+  },
+  {
+   "id": "faf2eccd-709b-43aa-8ff5-d14657ea4b9d",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ilshfka6gblkvd4w.mp4?central=1&type=na",
+   "text": "A motion was presented proposing the passage of the \"Money Laundering Prevention (Third Amendment) Bill, 2083,\" received from the House of Representatives along with a message."
+  },
+  {
+   "id": "28fc5a83-f406-4fa4-86af-da6d3aa72501",
+   "kind": "सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तस्रो संशोधन) विधेयक, २०८३ माथि छलफल",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/vh3agth8fscgg5z3.mp4?central=1&type=na",
+   "text": "Response to questions raised during the discussion on the motion—moved by the Honorable Minister and received from the House of Representatives with a message—proposing that the \"Money Laundering Prevention (Third Amendment) Bill, 2083\" be deliberated upon."
+  },
+  {
+   "id": "b656f149-c921-4e63-b05d-a4b1b8958d5c",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/3ibjbjc77j1nc7tu.mp4?central=1&type=na",
+   "text": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "74b5a57d-1bbb-4082-bd88-c6746d8521e4",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/vw4xdigz18epus7v.mp4?central=1&type=na",
+   "text": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त आर्थिक विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "cdf68021-dafd-4e1d-85bd-806494467b65",
+   "kind": "पहिलो बैठक अन्य",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/weriyjfgggzur0il.mp4?central=1&type=na",
+   "text": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त \"विनियोजन विधेयक, २०८३ लाई पारित गरियोस्\" भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "18939e34-fb30-4d5b-8915-a2ceb65fe268",
+   "kind": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ssfbd0tp81rh9ilq.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा प्रतिनिधि सभाबाट सन्देश सहित प्राप्त राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "6c45ca80-a252-4d5f-b43e-0e9a99d1bae8",
+   "kind": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त आर्थिक विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ooukas20loaq0w75.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा प्रतिनिधि सभाबाट सन्देश सहित प्राप्त आर्थिक विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "53a4ce6b-41dd-4677-a540-672b835c8b13",
+   "kind": "विनियोजन विधेयक, २०८३ को छलफलमा उठेका प्रश्नहरूको माननीय मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/su4djj0kxwn61vcq.mp4?central=1&type=na",
+   "text": "विनियोजन विधेयक, २०८३ को छलफलमा उठेका प्रश्नहरूको माननीय अर्थ मन्त्रीले दिनु भएको जवाफका सम्बन्धमा स्पष्टीकरण"
+  },
+  {
+   "id": "986454fd-7659-4346-beec-0fe5c0f009a3",
+   "kind": "विनियोजन विधेयक, २०८३ को छलफलमा उठेका प्रश्नहरूको माननीय मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/2zqeyjnnzqxafk2c.mp4?central=1&type=na",
+   "text": "विनियोजन विधेयक, २०८३ को छलफलमा उठेका प्रश्नहरूको माननीय अर्थ मन्त्रीद्वारा जवाफ"
+  },
+  {
+   "id": "9da74373-f834-4bfe-b300-a150a3533ef5",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/xape7btx3quxxotu.mp4?central=1&type=na",
+   "text": "A motion was presented to refer the Money Laundering Prevention (Third Amendment) Bill, 2083—received from the House of Representatives along with a message—to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "ed43dc86-b8e9-47ac-a852-b6bf2ccd5cd4",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/tqstutzzkcmkhnyr.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "56e70865-9546-4821-bd93-ce914b1b455f",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/bk8qeipsrrmwroy4.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "a8a29bef-6f44-4761-95d0-e821c43a62fe",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yeiqu8v8bc50stal.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "cd806943-b594-4a66-916d-b5b0e384793f",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/jmt9aztxb18ekbga.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "795a2d7f-c01c-4e66-bf64-ce443bf80479",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yvonvaqd0h9ucguw.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "e58a8b86-0655-4d1e-bc19-de6ed2efd16a",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/cozlu1wegiweaj0l.mp4?central=1&type=hr",
+   "text": "माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले सम्पत्ति शुद्धिकरण (मनि लाउन्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि दफावार छलफल सदनमा गरियोस् भनी प्रस्ताव प्रस्तुत गर्नुहुँदै। निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "77e74712-24b1-4c8b-b55e-7704001a2332",
+   "kind": "अन्य",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/3zm12gjxgmyq1hnt.mp4?central=1&type=na",
+   "text": "“विनियोजन विधेयक, २०८३\" सभा समक्ष प्रस्तुत"
+  },
+  {
+   "id": "3c93bda6-450d-4a80-beb5-d876a87a4b1b",
+   "kind": "अन्य",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/kw5j05ag8y53di5t.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "e0ac02aa-d98c-447d-8872-22c853c549ac",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/gj5xoop6cegvgslw.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा “प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "bdcf2ab7-b93a-425b-a8fc-313955aba6dd",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zlpnfoeuhjpribbd.mp4?central=1&type=hr",
+   "text": "माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले सम्पत्ति शुद्धिकरण (मनि लाउन्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ लाई प्रस्तुत गर्न अनुमति माग्ने प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "5e010de8-8ce0-4aa3-adac-a97298b5306a",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ibtwby89vowvsore.mp4?central=1&type=hr",
+   "text": "माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले सम्पत्ति शुद्धिकरण (मनि लाउन्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "ac3509e2-6edf-4e4e-a8a1-c1637e693d34",
+   "kind": "Deliberation on the Money Laundering Prevention (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dur6zclzpwp5kaji.mp4?central=1&type=hr",
+   "text": "Discussion on the Money Laundering Prevention (Third Amendment) Bill, 2083 / Honorable Finance Minister Dr. Swarnim Wagle responding to questions raised during the discussion on the Money Laundering Prevention (Third Amendment) Bill, 2083."
+  },
+  {
+   "id": "e000e6e7-acff-4670-9892-a94c3b913566",
+   "kind": "Deliberation on the Money Laundering Prevention (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kkdyzdmyxyd9hxib.mp4?central=1&type=hr",
+   "text": "सम्पत्ति शुद्धिकरण (मनि लाउन्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव प्रस्तुत गर्नुहुँदै"
+  },
+  {
+   "id": "476f3e77-a969-43bb-bc25-fa1a4af76a3c",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dwdtdqdufoogcyqt.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल / माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले राष्ट्र ऋण उठाउने विधेयक, २०८३ लाई पारित गरियोस्” भनी प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "00868cae-00ce-4e48-a514-e094b192831a",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5nc2vxvabe6khdas.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल / राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्ले"
+  },
+  {
+   "id": "e5c65095-7ba6-4d42-967a-9cab035dbe6a",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yvajsi9okwnrakr8.mp4?central=1&type=hr",
+   "text": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल / माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले “आर्थिक विधेयक, २०८३ लाई पारित गरियोस् भनी प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "17a0addf-df02-4c56-94b6-332533abf429",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/phvjkr01j7owfd7i.mp4?central=1&type=hr",
+   "text": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल / आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्लेले"
+  },
+  {
+   "id": "d155f892-d2b1-4c6a-9e4d-834366593ef2",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7t0qur1kk5kde6hu.mp4?central=1&type=hr",
+   "text": "अर्थ मन्त्री डा० स्वर्णिम वाग्लेले सम्पत्ति शुद्धीकरण (मनी लाउन्डरिङ्ग) निवारण (तेस्रो संशोधन) अध्यादेश"
+  },
+  {
+   "id": "3bb91596-a474-4f12-a8e2-d943c60a8871",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/67p2b5p3tcxtvnsk.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै माननीय अर्थ मन्त्री डा० स्वर्णिम वाग्ले"
+  },
+  {
+   "id": "0b8ed155-fc48-4ec5-a382-d8616f848385",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/2m5sh7gddtqikixh.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस्राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस्"
+  },
+  {
+   "id": "7b7f63de-510e-4e87-9deb-02004a19a208",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zgiytpr3bioudwft.mp4?central=1&type=hr",
+   "text": "आर्थिक विधेयक, २०८३ माथिको छलफल"
+  },
+  {
+   "id": "11e0e41b-588a-4707-babd-3be7fe4d219d",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vrioljullcyll8oy.mp4?central=1&type=hr",
+   "text": "आर्थिक विधेयक, २०८३ माथिको छलफल"
+  },
+  {
+   "id": "1606fcf4-7b43-429f-8759-a037cc34ea3a",
+   "kind": "आर्थिक वर्ष २०८३/०८४ को राजस्व र व्ययको वार्षिक अनुमानमाथिको सामान्य छलफल",
+   "context": "National Assembly - 15th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/z1hzmae1f78ziroz.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा आर्थिक वर्ष २०८३/०८४ को राजस्व र व्ययको वार्षिक अनुमानमाथिको सामान्य छलफलमाथि उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "27c6b6a9-7aba-4845-9711-64dfd691744d",
+   "kind": "sabhamukh padko nirbachan",
+   "context": "House of Representatives - 5th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vucekwalxuou33jp.mp4?central=1&type=hr",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "१. दुईपटक जननिर्वाचित संघीय सांसद (तनहुँ–१, २०८० र २०८२ ) ।\n२.राष्ट्रिय स्वतन्त्र पार्टीकाो उपसभापति, अर्थनीति र नीति विचार विभाग प्रमुख ।\n३. २०४६ कझ जनआन्दोलनमा सहभागी भई लोकतन्त्र र समृद्धिको अभियानमा सकृय ।",
+  "Previous Experience": "१. राष्ट्र संघीय विकास कार्यक्रम (UNDP) एसिया –प्रशान्त ब्यूरोको प्रमुख आर्थिक सल्लाहकार ।\n२.राष्ट्रिय योजना आयोगका पूर्वउपाध्यक्ष ।\n३. विश्व बैँक मुख्यखलयका पूर्व वरिष्ठ अर्थशास्त्री ।",
+  "Current Affiliation": "१. राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट संघीय सांसद ।\n२. सर्वाङ्गीण विकास अध्ययन केन्द्र ( IIDS का मानार्थ पूर्व अध्यक्ष ।",
+  "Publications": "१. सहसम्पादक, The Great Upheaval, Cambridge University Press 2022.\n२. अतृप्त अवसर, Fire print 2023 .\n३. दर्जनौँ प्राज्ञिक लेख, अध्याय ।",
+  "Awards and Honors": "1१. २०४६ को एस.एल.सी. मा नेपाल दोस्रो (बोर्ड सेकेण्ड) भएकोमा स्वर्ण पदक ।\n२. LSE, Harvard  र ANU मा पूर्ण छात्रवृति लगायत अन्य शैक्षिक पुरस्कार ।\n३. दर्जनौ अन्तर्राष्ट्रिय मञ्च र सम्मेलनमा नेपाली प्रतिनिधी मण्डलको मन्त्री स्तरीय नेतृत्व एवं प्रमुख वक्ता र विज्ञको रुपमा सहभागी ।",
+  "Additional Information": "१. नेपालको ७० जिल्ला र विश्वका ६५ देशको भ्रमण गर्दै अर्थशास्त्रको प्राज्ञ, अन्तर्राष्ट्रिय संस्थामा उच्च नेतृत्व,नेपालमै न‍ीति निर्माण क्षेत्रमा अग्रणी भूमिका निर्वाह गरेर प्रत्यक्ष राजनीतिको अनुभव ।"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2082 · Tanahun-1 · Rastriya Swatantra Party",
+   "note": "Finance Committee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "present",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  }
+ ]
+}

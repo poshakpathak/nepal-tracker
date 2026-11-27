@@ -1,0 +1,78 @@
+{
+ "id": "214cf87e-0037-4dcf-a2c1-b1f7994b84d3",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 25",
+ "date": "2026-11-05",
+ "duration": "2 hr",
+ "start": "2:00 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) सर्वोच्च अदालतका प्रस्तावित न्यायाधीशहरू विरूद्ध प्राप्‍त उजुरी खोल्ने र वितरण गर्ने।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "absent"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "absent"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "absent"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "absent"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 10,
+ "members": 15,
+ "recording": null
+}

@@ -1,0 +1,38 @@
+{
+ "id": "955b974e-3ac3-4aad-9d5b-9a39835ef063",
+ "title": "Sports Study Subcommittee - Meeting 5",
+ "date": "2026-09-15",
+ "duration": "3 hr",
+ "start": "9:00 AM",
+ "end": "12:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "उजुरी लगायत खेलकुद सम्बन्धी विभिन्न विषयमा छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "achutam-lamichhane",
+   "status": "present"
+  },
+  {
+   "member": "chandan-kumar-singh",
+   "status": "present"
+  },
+  {
+   "member": "bhim-kumari-budhamagar",
+   "status": "absent"
+  },
+  {
+   "member": "rajan-gautam",
+   "status": "present"
+  },
+  {
+   "member": "sita-thapaliya",
+   "status": "absent"
+  }
+ ],
+ "present": 3,
+ "members": 5,
+ "recording": null
+}

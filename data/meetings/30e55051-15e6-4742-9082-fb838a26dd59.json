@@ -1,0 +1,78 @@
+{
+ "id": "30e55051-15e6-4742-9082-fb838a26dd59",
+ "title": "Committee for Legislation Management - Meeting 781",
+ "date": "2026-09-30",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "आन्तरिक वायुसेवाको दायित्व सम्बन्धी विधेयक, २०८३ माथि दफावार छलफल",
+ "minutes": "१. आज समितिका माननीय सभापति कृष्ण बहादुर रोकायको सभापतित्वमा बसेको समितिको बैठकमा आन्तरिक वायुसेवाको दायित्व सम्बन्धी विधेयक, २०८३ माथि दफावार छलफल सम्पन्न भयो।",
+ "attendance": [
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "anjan-shakya",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "krishna-prasad-sitaula",
+   "status": "present"
+  },
+  {
+   "member": "khamma-bahadur-khati",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "absent"
+  },
+  {
+   "member": "jhakku-prasad-subedi",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "present"
+  },
+  {
+   "member": "rajendra-laxmi-gaire",
+   "status": "present"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-devi-pudasaini",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

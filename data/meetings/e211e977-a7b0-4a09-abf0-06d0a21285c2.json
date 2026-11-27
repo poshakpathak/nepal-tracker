@@ -1,0 +1,78 @@
+{
+ "id": "e211e977-a7b0-4a09-abf0-06d0a21285c2",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 12",
+ "date": "2026-07-29",
+ "duration": "3 hr 15 min",
+ "start": "11:51 AM",
+ "end": "3:06 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "निर्वाचन आयोगको प्रमुख निर्वाचन आयुक्तको पदमा नियुक्तिका लागि प्रस्तावित",
+ "minutes": "(१) समितिको आजको बैठकमा संवैधानिक परिषद्को २०८३ असार १९ को निर्णयानुसार निर्वाचन आयोगको प्रमुख निर्वाचन आयुक्तको पदमा नियुक्तिका लागि प्रस्तावित श्री",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "absent"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

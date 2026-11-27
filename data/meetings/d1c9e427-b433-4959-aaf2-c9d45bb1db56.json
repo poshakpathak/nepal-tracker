@@ -1,0 +1,62 @@
+{
+ "id": "d1c9e427-b433-4959-aaf2-c9d45bb1db56",
+ "title": "Committee Coordination and Consultation Subcommitee - Meeting 2",
+ "date": "2026-07-07",
+ "duration": "1 hr 30 min",
+ "start": "2:30 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "absent"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "absent"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "absent"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "absent"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "absent"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  }
+ ],
+ "present": 6,
+ "members": 11,
+ "recording": null
+}

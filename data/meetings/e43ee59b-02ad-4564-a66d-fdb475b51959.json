@@ -1,0 +1,130 @@
+{
+ "id": "e43ee59b-02ad-4564-a66d-fdb475b51959",
+ "title": "Finance Committee - Meeting 19",
+ "date": "2026-08-03",
+ "duration": "4 hr",
+ "start": "1:00 PM",
+ "end": "5:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "१. नेपाल राष्ट्र बैंक ऐन, २०५८ लाई संशोधन गर्न बनेको विधेयकमाथि दफावार छलफल जारी,",
+ "minutes": "समितिको आजको बैठकमा माननीय अर्थ मन्त्रीज्यू, अर्थ मन्त्रालयका सचिव एवं पदाधिकारीहरू, नेपाल राष्ट्र बैंकका कार्यकारी निर्देशक एवं पदाधिकारीहरू तथा कानून, न्याय तथा संसदीय मन्त्रालयका प्रतिनिधिहरूको उपस्थिति रहेको थियो। बैठकमा नेपाल राष्ट्र बैंक ऐन, 2058 लाई संशोधन गर्न बनेको विधेयकमाथि दफावार छलफल गर्ने क्रममा कूल आठ वटा दफामा छलफल गरियो। बैठकमा भएको छलफलका आधारमा नेपाल राष्ट्र बैक ऐन, 2058 लाई संशोधन गर्न बनेको विधेयकका दफाहरू देहाय बमोजिम परिमार्जन सहित पारित गर्ने निर्णय गरियो:",
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "present"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "present"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "absent"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "absent"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "present"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "absent"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "absent"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "present"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "absent"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "present"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "absent"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "absent"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  }
+ ],
+ "present": 19,
+ "members": 28,
+ "recording": null
+}

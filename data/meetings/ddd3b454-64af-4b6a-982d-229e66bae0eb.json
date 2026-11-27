@@ -1,0 +1,46 @@
+{
+ "id": "ddd3b454-64af-4b6a-982d-229e66bae0eb",
+ "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 4",
+ "date": "2026-08-05",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "१. विधायिकी अन्तरसम्बन्ध सम्बन्धमा विज्ञबाट प्रस्तुतीकरण र छलफल,",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  }
+ ],
+ "present": 7,
+ "members": 7,
+ "recording": null
+}

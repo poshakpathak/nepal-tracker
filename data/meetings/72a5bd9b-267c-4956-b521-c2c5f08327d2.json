@@ -1,0 +1,42 @@
+{
+ "id": "72a5bd9b-267c-4956-b521-c2c5f08327d2",
+ "title": "Health and Food Hygiene Study Subcommittee - Meeting 4",
+ "date": "2026-08-05",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "kamini-kumari",
+   "status": "present"
+  },
+  {
+   "member": "chandra-mohan-yadav",
+   "status": "present"
+  },
+  {
+   "member": "toshima-karki",
+   "status": "present"
+  },
+  {
+   "member": "prabha-dhakal",
+   "status": "present"
+  },
+  {
+   "member": "ringla-yadav",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  }
+ ],
+ "present": 6,
+ "members": 6,
+ "recording": null
+}

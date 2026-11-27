@@ -1,0 +1,38 @@
+{
+ "id": "581d617b-bcc1-49f1-a4d4-ff236521d3e5",
+ "title": "Sub-committee on Public Policy Study - Meeting 11",
+ "date": "2026-10-29",
+ "duration": "2 hr",
+ "start": "12:15 PM",
+ "end": "2:15 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Puja Chaudhary",
+ "agenda": "समसामयिक विषय सम्बन्धमा",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "madan-kumari-shah-garima",
+   "status": "present"
+  },
+  {
+   "member": "jagat-bahadur-parki",
+   "status": "present"
+  },
+  {
+   "member": "mina-singh-rakhal",
+   "status": "absent"
+  },
+  {
+   "member": "yuvraj-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "ranjeet-karn",
+   "status": "present"
+  }
+ ],
+ "present": 3,
+ "members": 5,
+ "recording": null
+}

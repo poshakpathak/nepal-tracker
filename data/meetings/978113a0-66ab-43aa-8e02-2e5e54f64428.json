@@ -1,0 +1,118 @@
+{
+ "id": "978113a0-66ab-43aa-8e02-2e5e54f64428",
+ "title": "Public Accounts Committee - Meeting 3",
+ "date": "2026-05-22",
+ "duration": "2 hr 30 min",
+ "start": "2:30 PM",
+ "end": "5:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Bharat Bahadur Khadka",
+ "agenda": "बैठकको कार्यसूची",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bharat-bahadur-khadka",
+   "status": "present"
+  },
+  {
+   "member": "amrita-bk",
+   "status": "absent"
+  },
+  {
+   "member": "aaren-rai",
+   "status": "absent"
+  },
+  {
+   "member": "indira-rana",
+   "status": "present"
+  },
+  {
+   "member": "ain-bahadur-mahar",
+   "status": "present"
+  },
+  {
+   "member": "kripa-maharjan",
+   "status": "absent"
+  },
+  {
+   "member": "krantishikha-dhital",
+   "status": "present"
+  },
+  {
+   "member": "khagendra-sunar",
+   "status": "present"
+  },
+  {
+   "member": "khusbu-oli",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-dhimal",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-parajuli",
+   "status": "present"
+  },
+  {
+   "member": "ganesh-singh-thagunna",
+   "status": "present"
+  },
+  {
+   "member": "govind-panthi",
+   "status": "present"
+  },
+  {
+   "member": "janak-raj-giri",
+   "status": "present"
+  },
+  {
+   "member": "prem-lal-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  },
+  {
+   "member": "mahendra-bahadur-shahi",
+   "status": "present"
+  },
+  {
+   "member": "mohan-acharya",
+   "status": "absent"
+  },
+  {
+   "member": "yagya-bahadur-bogati",
+   "status": "present"
+  },
+  {
+   "member": "yogesh-gauchan-thakali",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-sapkota",
+   "status": "absent"
+  },
+  {
+   "member": "rukesh-ranjit",
+   "status": "present"
+  },
+  {
+   "member": "bikram-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "bipin-kumar-acharya",
+   "status": "present"
+  },
+  {
+   "member": "sitaram-sha",
+   "status": "present"
+  }
+ ],
+ "present": 18,
+ "members": 25,
+ "recording": null
+}

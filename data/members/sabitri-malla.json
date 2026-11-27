@@ -1,0 +1,575 @@
+{
+ "slug": "sabitri-malla",
+ "name": "Sabitri Malla",
+ "name_ne": "सावित्री मल्ल",
+ "chamber": "na",
+ "party": "Nepali Communist Party",
+ "party_ne": "नेपाली कम्युनिष्ट पार्टी",
+ "party_id": "853b0c9e-74d1-4e22-8417-862c25246e16",
+ "seat": "Karnali Province",
+ "district": null,
+ "election": null,
+ "gender": "female",
+ "role": "MP",
+ "education": "Bachelor",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/E61jBCZoLZgwMJBue3ClDsddiBLvekB5HnBSFcXF-web_medium.webp",
+ "term_start": "2026-02-25",
+ "committees": [
+  {
+   "id": "62f724a9-f33d-4e48-96b1-045bc9aa181f",
+   "name": "Development, Economic Affairs and Good Governance Committee"
+  },
+  {
+   "id": "3a3c9210-aa62-4cf9-bb33-a5219019c130",
+   "name": "Economic affairs sub committee"
+  },
+  {
+   "id": "606e1c2e-cd6e-47b5-883a-df71a731fa3b",
+   "name": "sustainable development sub committee"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 100,
+   "total": 52,
+   "present": 52,
+   "absent": 0
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 90,
+   "total": 20,
+   "present": 18,
+   "absent": 2
+  }
+ },
+ "statements": [
+  {
+   "id": "62b94055-742e-4078-8c2b-ee3847e7bdfb",
+   "kind": "विनियोजन विधेयक, २०८३ माथिको छलफल",
+   "context": "National Assembly - 3rd Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/3nupgbqhzijxzc1e.mp4?central=1&type=na",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "२०४२ सालबाट विद्यार्थी राजनीतिबाट राजनीतिमा प्रवेश गरी २०५२ सालमा नेकपा एमाले संगठित सदस्यता प्राप्त गरेको र हाल नेकपा एकीकृत समाजवादी पार्टीको केन्द्रीय सदस्य  र दैलेख जिल्ला इन्चार्च रहेको ।",
+  "Previous Experience": "–राजनीतिक र सामाजिक सेवाको क्षेत्रमा लामो समय क्रियाशील ।"
+ },
+ "terms": [
+  {
+   "years": "2026-02-25–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "नियमित चक्र अनुसार - 2082 · Karnali Province · Nepali Communist Party",
+   "note": "Development, Economic Affairs and Good Governance Committee · Economic affairs sub committee · sustainable development sub committee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "355bad2a-e79b-4e12-a514-298eb74aa74e",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 2)",
+   "scope": "house"
+  },
+  {
+   "meeting": "781a4326-7248-441c-b767-b3a616d5050d",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f7ae9af2-cc37-4c5e-99a4-1bd1a10ce87f",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 May 2026 (meeting - 3)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0e754b6d-68c1-405b-af44-100f6d5efddf",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "National Assembly Meeting - 14 May 2026 (meeting - 4)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6889f511-978a-4f1b-ab8c-1e3fa1fc963b",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 May 2026 (meeting - 5)",
+   "scope": "house"
+  },
+  {
+   "meeting": "76faaccd-8b88-42fa-83a3-8efebdfa9cdb",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 May 2026 (meeting - 6)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0d2caaa9-6dd5-45bc-92d9-8fff5a5b8b12",
+   "date": "2026-05-22",
+   "status": "present",
+   "title": "National Assembly Meeting - 22 May 2026 (meeting - 7)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0a46e963-b5ac-4161-8d0b-5bf0ce0f1e7f",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 8)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e8ce07c6-e45d-461a-99d0-bcf81fb53bb1",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 9)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70693fb3-5619-4b43-bdd4-1c38805505cc",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 May 2026 (meeting - 10)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cd08e75b-6b46-4a8d-98c5-d2eee59579cd",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 May 2026 (meeting - 11)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bde7f356-a3ca-41e5-9a4e-234af5c502e2",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 June 2026 (meeting - 12)",
+   "scope": "house"
+  },
+  {
+   "meeting": "eb4a3fba-8ca6-4d9f-ad8a-b0bd1d392424",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 June 2026 (meeting - 13)",
+   "scope": "house"
+  },
+  {
+   "meeting": "79d1d024-e07f-41b8-a88e-0d9c26214312",
+   "date": "2026-06-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 June 2026 (meeting - 14)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0ab0fd72-a167-4d1c-896b-2357a38bbdea",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 June 2026 (meeting - 15)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2b340ddb-4636-4887-83d4-13da1f78f574",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 June 2026 (meeting - 16)",
+   "scope": "house"
+  },
+  {
+   "meeting": "9415d891-8226-4118-8e91-13c826c68987",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 June 2026 (meeting - 17)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed5546ea-7e70-4a7f-9abd-1d89b63cfd4c",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 June 2026 (meeting - 18)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e468aa74-a5f8-43c5-84e1-1e3c5bbbbacd",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 June 2026 (meeting - 19)",
+   "scope": "house"
+  },
+  {
+   "meeting": "18a91901-a356-4323-a79d-cfc675e42b3f",
+   "date": "2026-06-26",
+   "status": "present",
+   "title": "National Assembly Meeting - 26 June 2026 (meeting - 20)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ba69d1ef-9132-4d16-a771-73fe816de4da",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 22)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d37078a9-899c-42bd-824e-fd65b950eeac",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 21)",
+   "scope": "house"
+  },
+  {
+   "meeting": "25487fc3-3ec1-42cb-9c25-f27a4cdfce5f",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 July 2026 (meeting - 23)",
+   "scope": "house"
+  },
+  {
+   "meeting": "69663f43-5218-46b2-b7e8-36509d125609",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 July 2026 (meeting - 24)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ca327155-822c-4a1e-8bbf-5f9b8063f9cf",
+   "date": "2026-07-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 July 2026 (meeting - 25)",
+   "scope": "house"
+  },
+  {
+   "meeting": "12cea91d-36b3-4254-84d2-02d8cbc41089",
+   "date": "2026-07-04",
+   "status": "present",
+   "title": "National Assembly Meeting - 4 July 2026 (meeting - 26)",
+   "scope": "house"
+  },
+  {
+   "meeting": "96a44541-6342-4c19-a81a-57eb13fc771c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 July 2026 (meeting - 27)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45d95279-6457-4675-9408-3abee3b6523d",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 29)",
+   "scope": "house"
+  },
+  {
+   "meeting": "db2f5a91-a851-4f06-bc50-db95ce7a2fc7",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 28)",
+   "scope": "house"
+  },
+  {
+   "meeting": "154f8ef2-2471-4dd4-ad0b-a9a5f1aecfc9",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 31)",
+   "scope": "house"
+  },
+  {
+   "meeting": "19d3c9a1-97eb-4328-bf39-716ce7dea5d2",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 30)",
+   "scope": "house"
+  },
+  {
+   "meeting": "07850fd1-a44e-4e95-874b-791878177e0c",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 July 2026 (meeting - 32)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bcadcac6-6d83-4049-a6b5-e5cf06d76237",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 July 2026 (meeting - 33)",
+   "scope": "house"
+  },
+  {
+   "meeting": "1661bf03-a5c5-4042-aea4-9283a41c872c",
+   "date": "2026-07-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 July 2026 (meeting - 34)",
+   "scope": "house"
+  },
+  {
+   "meeting": "51e3bc09-e109-4e3d-a21a-20fbbb492767",
+   "date": "2026-08-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 August 2026 (meeting - 35)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffd2887e-139c-4b8a-b076-b8a888a2122a",
+   "date": "2026-08-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 August 2026 (meeting - 36)",
+   "scope": "house"
+  },
+  {
+   "meeting": "144d7edb-afe7-4f7d-bfd3-09ad1e930095",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 August 2026 (meeting - 37)",
+   "scope": "house"
+  },
+  {
+   "meeting": "46b638ef-ccb8-443d-acb6-310d54f059bc",
+   "date": "2026-08-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 August 2026 (meeting - 38)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a2168419-270d-405f-a97c-6866c02de391",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "National Assembly Meeting - 17 August 2026 (meeting - 39)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bf7614ba-9702-4b0d-85d0-8c5677cd4ef6",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 August 2026 (meeting - 40)",
+   "scope": "house"
+  },
+  {
+   "meeting": "7a2ace4e-5de6-4d5e-b11c-adec7998ea2c",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 August 2026 (meeting - 41)",
+   "scope": "house"
+  },
+  {
+   "meeting": "360a4a55-8539-4468-9e07-db9c6937aab4",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfda1afa-b682-44af-b789-21799769cad3",
+   "date": "2026-09-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 September 2026 (meeting - 43)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ab3ec7c6-8938-4991-b080-c23a004c0da7",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 September 2026 (meeting - 44)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6dcd27d8-619d-418c-8478-e88c2768fcca",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 September 2026 (meeting - 45)",
+   "scope": "house"
+  },
+  {
+   "meeting": "8924eb62-f890-42b0-a761-3ccf1e6aaf8c",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "National Assembly Meeting - 16 September 2026 (meeting - 46)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2c2cb199-1d6f-48b3-917e-8ce5884f77cf",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 September 2026 (meeting - 47)",
+   "scope": "house"
+  },
+  {
+   "meeting": "28c0eb2c-fb0a-442d-99d6-c3ff0888bd56",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 September 2026 (meeting - 48)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c8a9eb6-8958-492e-8544-14db02296cf6",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "National Assembly Meeting - 24 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67df4763-29f5-4ab0-9a5b-3e657a8126d0",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "National Assembly Meeting - 28 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0b876761-92e0-4cae-9dad-1a0bbeb86991",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 October 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70c44e42-f9cb-4279-8371-3965645bb492",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 October 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4ff348da-31f4-432c-9eb7-c05e1c89f4db",
+   "date": "2026-06-23",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "36af9bab-c638-468e-bd8a-3e012f4085ef",
+   "date": "2026-06-26",
+   "status": "absent",
+   "title": "Development, Economic Affairs and Good Governance Committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "80090a2c-e435-43a5-8703-6ac020049f83",
+   "date": "2026-07-13",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 246",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1ad80722-2adf-4244-a500-4120a7ca1b80",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "sustainable development sub committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ccf8693e-b745-4991-8a9c-8f370d047c8a",
+   "date": "2026-07-16",
+   "status": "present",
+   "title": "sustainable development sub committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "64ce3206-3b1a-4b26-9de8-53c8026681b1",
+   "date": "2026-07-24",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 247",
+   "scope": "committee"
+  },
+  {
+   "meeting": "7946bad3-93bc-48b5-bafc-c9a0c782358e",
+   "date": "2026-07-27",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 248",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ad47082f-72d4-49eb-bdd0-15086938aa47",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "Economic affairs sub committee - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8f04fac5-3641-4b59-924b-6a47f8cb6bfa",
+   "date": "2026-08-05",
+   "status": "present",
+   "title": "sustainable development sub committee - Meeting 3",
+   "scope": "committee"
+  },
+  {
+   "meeting": "6d963c4b-ece6-4e58-878c-98da532c9db2",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 249",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f9010941-246d-472f-8fa9-e131bd3c11c1",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 250",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0cfaa5e3-c109-4996-9470-b8f01d16561d",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 251",
+   "scope": "committee"
+  },
+  {
+   "meeting": "315bd7bf-7fdc-4cd2-8863-c2163fc61c62",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 252",
+   "scope": "committee"
+  },
+  {
+   "meeting": "912f07eb-228c-42a7-af15-27c231659649",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 253",
+   "scope": "committee"
+  },
+  {
+   "meeting": "df3194f0-9a1b-471d-a295-570a913b2df9",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 254",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0751aa68-39d6-407f-aa3a-42b683c95200",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 255",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0f46a114-8a1d-4915-acb2-ce7b14a271a8",
+   "date": "2026-09-24",
+   "status": "absent",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 256",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d02f53b4-a92c-4011-b261-625b525718f6",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 257",
+   "scope": "committee"
+  },
+  {
+   "meeting": "41065ce6-6e9b-45c5-a0f0-b076088e61c1",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 258",
+   "scope": "committee"
+  },
+  {
+   "meeting": "bd037b0b-9d50-46dc-b131-2b525c78695b",
+   "date": "2026-10-15",
+   "status": "present",
+   "title": "Development, Economic Affairs and Good Governance Committee - Meeting 259",
+   "scope": "committee"
+  }
+ ]
+}

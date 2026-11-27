@@ -1,0 +1,130 @@
+{
+ "id": "e6eaf523-076c-4a01-9b3c-c10a022f7ffe",
+ "title": "Finance Committee - Meeting 32",
+ "date": "2026-09-30",
+ "duration": "2 hr 30 min",
+ "start": "8:30 AM",
+ "end": "11:00 AM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "नेपालको पूँजी बजारलाई व्यवस्थित, पारदर्शी, विश्वसनीय एवं लगानीमैत्री बनाउन धितोपत्र निष्काशन, सूचीकरण, बजार सञ्चालन तथा नियमन र लगानीकर्ताको हित संरक्षण सम्बन्धमा सम्बद्ध निकाय र संघ-संस्थासँग छलफल,",
+ "minutes": "समितिको आजको बैठकमा अर्थ मन्त्रालयका सहसचिव श्री महेश आचार्य, नेपाल धितोपत्र बोर्डका अध्यक्ष डा. गोपाल प्रसाद भट्ट, नेपाल स्टक एक्सचेञ्ज लिमिटेडका निमित्त प्रमुख कार्यकारी अधिकृत श्री लिलाधर सुवेदी, सिडिएस एण्ड क्लियरिङ्ग लिमिटेडका का.मु. प्रमुख कार्यकारी अधिकृत श्री कञ्चन सापकोटा, नेपाल उद्योग वाणिज्य महासंघको पूँजी बजार समितिका सभापति श्री प्रिय राज रेग्मी, स्टक ब्रोकर एशोसियसन अफ नेपाल (SBAN)का उपाध्यक्ष श्री नितेश कुमार अग्रवाल, नेपाल सेयरधनी संघ, नेपाल सेयरबजार लगानीकर्ता संघ, नेपाल धितोपत्र लगानीकर्ता संघका अध्ययक्ष एवं प्रतिनिधिहरू एवं विषय विज्ञहरूको उपस्थिति रहेको थियो। बैठकमा नेपालको पूँजी बजारलाई व्यवस्थित, पारदर्शी, विश्वसनीय एवं लगानीमैत्री बनाउन धितोपत्र निष्काशन, सूचीकरण, बजार सञ्चालन तथा नियमन र लगानीकर्ताको हित संरक्षण सम्बन्धमा छलफल भयो। बैठकमा भएको छलफलका आधारमा देहाय बमोजिमको निर्णय गरियो:-",
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "absent"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "absent"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "absent"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "present"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "present"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "absent"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "present"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "absent"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "absent"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "absent"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "absent"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "present"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "absent"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  }
+ ],
+ "present": 17,
+ "members": 28,
+ "recording": null
+}

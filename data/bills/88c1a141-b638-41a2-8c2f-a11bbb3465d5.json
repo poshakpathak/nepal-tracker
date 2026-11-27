@@ -1,0 +1,199 @@
+{
+ "id": "88c1a141-b638-41a2-8c2f-a11bbb3465d5",
+ "title_ne": "राष्‍ट्र ऋण उठाउने विधेयक, २०८३",
+ "status": "Completed",
+ "tags": [
+  "Government Bill",
+  "Finance Bill",
+  "Original"
+ ],
+ "number": 6,
+ "registered": "2026-05-29",
+ "ministry_ne": "अर्थ मन्त्रालय",
+ "presented_by": "Minister Swarnim Wagle",
+ "category": "Government Bill · Finance Bill",
+ "days_in_process": 46,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The name of this Act is the \"Raising National Debt Act, 2083\" (Section 1, Subsection 1). This Act has been enacted to make legal provisions regarding the raising of national debt by the Government of Nepal in order to implement the financial proposal of the Government of Nepal for the fiscal year 2083/84 (Preamble). This Act shall come into force on Shrawan 1, 2083 BS (Section 1, Subsection 2). To implement the financial proposal of the Government of Nepal for the fiscal year 2083/84, the Government of Nepal may raise national debt not exceeding an additional amount of Rs. 4,10,00,00,00,000 (in words, four kharba ten arba) on top of the amount remaining to be paid as overdraft and other unpaid amounts at the end of the fiscal year 2083/84 (Section 2, Subsection 1). However, the national debt amount raised in this manner shall not include the overdraft amount that the Government of Nepal is entitled to receive pursuant to prevailing law (Section 2, Subsection 1). The Government of Nepal may give approval to Nepal Rastra Bank to convert the remaining unpaid overdraft up to the fiscal year 2083/84 into treasury bills (Section 2, Subsection 2). The repayment period of principal and interest of the national debt raised pursuant to this Section and the interest rate of such debt shall be in accordance with the Public Debt Management Act, 2079 (Section 2, Subsection 3).",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-05-29",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/88c1a141-b638-41a2-8c2f-a11bbb3465d5/bill_registration/EpqPX5UUPtmv5PCllbiOE0TO8SuialEryD8Rsnj4.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-05-29",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-06-11",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-06-19",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-06-19",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/88c1a141-b638-41a2-8c2f-a11bbb3465d5/notice_of_amendment/ORFjIweTuzFIzkbBrHvd78PXmF0uEJSklXwtXBEg.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-07-03",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-07-07",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-07-07",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "completed",
+   "date": "2026-07-13",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "completed",
+   "date": "2026-07-13",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "completed",
+   "date": "2026-07-14",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/88c1a141-b638-41a2-8c2f-a11bbb3465d5/certified_by_president/4pg9QyZ6RmhY12SKZekZgghnwye4YonG2zo2niYq.pdf"
+   ]
+  }
+ ],
+ "current_step": "Certified By President",
+ "last_action": "2026-07-14",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/88c1a141-b638-41a2-8c2f-a11bbb3465d5/bill_registration/EpqPX5UUPtmv5PCllbiOE0TO8SuialEryD8Rsnj4.pdf"
+}

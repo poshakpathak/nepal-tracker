@@ -1,0 +1,38 @@
+{
+ "id": "8983b8e6-f761-4dc6-a6e8-af7d33c3d0cf",
+ "title": "good governance promotion sub committee - Meeting 1",
+ "date": "2026-07-29",
+ "duration": "1 hr 30 min",
+ "start": "11:30 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Prasad Paudel",
+ "agenda": "उपसमितिको 2083/084को बार्षिक कार्ययोजनाका सम्बन्धमा छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bhuban-bahadur-sunar",
+   "status": "present"
+  },
+  {
+   "member": "jit-jung-basnet",
+   "status": "absent"
+  },
+  {
+   "member": "kamala-devi-pant",
+   "status": "present"
+  },
+  {
+   "member": "tul-prasad-bishwakarma",
+   "status": "present"
+  },
+  {
+   "member": "rekha-kumari-jha",
+   "status": "present"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

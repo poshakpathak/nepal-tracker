@@ -1,0 +1,197 @@
+{
+ "id": "911a919f-b3da-4b1b-9042-6c151390c1bf",
+ "title_ne": "मतदाता नामावली (पहिलो संशोधन) विधेयक, २०८३",
+ "status": "Completed",
+ "tags": [
+  "Ordinance Replacement Bill",
+  "Ordinary Bill",
+  "Amendment"
+ ],
+ "number": 2,
+ "registered": "2026-05-08",
+ "ministry_ne": "गृह मन्त्रालय",
+ "presented_by": "Minister Sobita Gautam",
+ "category": "Ordinance Replacement Bill · Ordinary Bill",
+ "days_in_process": 23,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The Electoral Roll (First Amendment) Bill, 2083 is an amendment bill introduced by the Ministry of Home Affairs in the House of Representatives. The primary objective of the bill is to amend the Electoral Roll Act, 2073 to facilitate the collection, registration, and updating of voter lists during early elections. It also replaces the existing Electoral Roll (First Amendment) Ordinance, 2082.\n\nKey Provisions:\n- Adds sub-section (2a) to Section 4 of the Electoral Roll Act, 2073.\n- Authorizes the Election Commission to set a designated timeframe for voter list collection, registration, and updating if the House of Representatives is dissolved before completing its term and election dates are announced.\n- Formally repeals the Electoral Roll (First Amendment) Ordinance, 2082.\n- Validates all actions, procedures, and decisions undertaken under the repealed Ordinance, treating them as if they were conducted under this Act.\n\nScope / Applicability:\nThis bill applies to the Election Commission and prospective voters across Nepal in scenarios involving the premature dissolution of the House of Representatives and subsequent election announcements.\n\nImportant Institutions:\n- Election Commission: Empowered to fix specific schedules for gathering and updating voter rolls during mid-term or early parliamentary elections.\n\nTimelines and Procedural Requirements:\n- The Act comes into force immediately upon enactment.\n- Requires the Election Commission to prescribe specific procedural periods for voter list updates upon the declaration of early elections.",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-05-08",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/911a919f-b3da-4b1b-9042-6c151390c1bf/bill_registration/wJh1h47Bb8RVvyPVWSewBwa4Yi9gmVGZoPS6JgkP.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-05-10",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-05-20",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-05-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-05-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/911a919f-b3da-4b1b-9042-6c151390c1bf/notice_of_amendment_na/Ev2P2zmQKPSAUzevU43JZ9vbwNTYwLsuyq7zilDF.pdf"
+   ]
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  }
+ ],
+ "current_step": "Certified By President",
+ "last_action": "2026-05-31",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/911a919f-b3da-4b1b-9042-6c151390c1bf/bill_registration/wJh1h47Bb8RVvyPVWSewBwa4Yi9gmVGZoPS6JgkP.pdf"
+}

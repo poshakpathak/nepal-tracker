@@ -1,0 +1,217 @@
+{
+ "id": "292b085a-7935-4db2-a551-55558dec167c",
+ "title_ne": "नेपाल विशेष सेवा ऐन २०४२ को साविकको व्यवस्था जगाउने सम्बन्धी विधेयक, २०८३",
+ "status": "Completed",
+ "tags": [
+  "Government Bill",
+  "Ordinary Bill",
+  "Amendment"
+ ],
+ "number": 11,
+ "registered": "2026-06-29",
+ "ministry_ne": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+ "presented_by": "Minister Sobita Gautam",
+ "category": "Government Bill · Ordinary Bill",
+ "days_in_process": 79,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The name of this Act is \"Act Relating to Revival of Previous Provisions of the Nepal Special Service Act, 2042, 2083\" (Section 1, Subsection 1). The main purpose of this Act is to revive the previous provisions that were in force prior to the amendment of the Nepal Special Service Act, 2042 by the Nepal Special Service (Second Amendment) Ordinance, 2082 (Preamble). Where the Nepal Special Service (Second Amendment) Ordinance, 2082 amended the Nepal Special Service Act, 2042, the provisions of the said Act existing before such amendment shall be deemed to have been revived from the date on which the said Ordinance became inactive (Section 2). This Act shall come into force immediately (Section 1, Subsection 2).",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-06-29",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/292b085a-7935-4db2-a551-55558dec167c/bill_registration/TbDL8DmuX5b9IrKTxkVUCiGvjPAUlqAMaw7jsV9q.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-06-29",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-07-06",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/292b085a-7935-4db2-a551-55558dec167c/notice_of_amendment/oZjI4p4du3mo86V1FvZceKWCV5cUkDy547FmNzmD.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-07-14",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "completed",
+   "date": "2026-08-07",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-08-10",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "completed",
+   "date": "2026-08-10",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-08-12",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-08-21",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-08-21",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/292b085a-7935-4db2-a551-55558dec167c/notice_of_amendment_na/TDfY9Exxuz62FlUCXbsz8JfhThH4T92z5OL4cvoR.pdf"
+   ]
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-08-25",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "completed",
+   "date": "2026-09-09",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-09-10",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-09-10",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "completed",
+   "date": "2026-09-11",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "completed",
+   "date": "2026-09-11",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "completed",
+   "date": "2026-09-11",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "completed",
+   "date": "2026-09-11",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "completed",
+   "date": "2026-09-16",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/292b085a-7935-4db2-a551-55558dec167c/certified_by_president/5cZ8IkRliABFlKsBpB5XwDAxCWPi6e8LNQrkCYle.pdf"
+   ]
+  }
+ ],
+ "current_step": "Certified By President",
+ "last_action": "2026-09-16",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/292b085a-7935-4db2-a551-55558dec167c/bill_registration/TbDL8DmuX5b9IrKTxkVUCiGvjPAUlqAMaw7jsV9q.pdf"
+}
