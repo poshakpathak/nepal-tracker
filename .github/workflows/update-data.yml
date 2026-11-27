@@ -37,7 +37,9 @@ jobs:
       - name: Tests
         run: python -m pytest -q
       - name: Fetch portal and rebuild data
-        run: python -m tracker.update ${{ inputs.refetch_meetings && '--refetch-meetings' || '' }}
+        run: python -m tracker.update ${{ github.event_name == 'pull_request' && '--limit 5' || '' }} ${{ inputs.refetch_meetings && '--refetch-meetings' || '' }}
+      - name: Build site
+        run: python -m tracker.site
       - name: Summary
         run: |
           python - <<'PY'
