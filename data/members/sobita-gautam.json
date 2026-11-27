@@ -1,0 +1,961 @@
+{
+ "slug": "sobita-gautam",
+ "name": "Minister Sobita Gautam",
+ "name_ne": "मन्त्री सोविता गौतम",
+ "chamber": "hor",
+ "party": "Rastriya Swatantra Party",
+ "party_ne": "राष्ट्रिय स्वतन्त्र पार्टी",
+ "party_id": "707d9fcf-505e-45ea-985c-f0c62f037c44",
+ "seat": "Chitwan-3",
+ "district": null,
+ "election": "direct",
+ "gender": "female",
+ "role": "MP",
+ "education": "B.A. LLB",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/XaZ2EpSFeSLOiZdY2A3FDqR7ahekL7HY5K0rBGlT-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [
+  {
+   "id": "4303a63b-c3f4-483d-b692-4e62c18b4982",
+   "name": "Law, Justice and Human Rights Committee"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 66,
+   "total": 71,
+   "present": 47,
+   "absent": 24
+  }
+ },
+ "statements": [
+  {
+   "id": "257da1cd-b34d-4d09-b9d3-c9faa50fa111",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 30th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7s78a6syc3b4f2wr.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion that \"the Bill on Free Legal Aid, 2083, be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "d383ca4a-f48e-480b-b736-ecdb7558d59b",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 30th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rulxa0nymo1exbg4.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion that \"the Nepal Law Commission (First Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "229b095c-db25-4145-810f-a187d0ffe031",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 30th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rulxa0nymo1exbg4.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion that \"the Nepal Law Commission (First Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "843eaef7-608a-4dc9-afd4-58ce9bdd3d9c",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 30th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/0hcfwdubgaafoygx.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion that \"the Mediation-related (Second Amendment) Bill, 2083 be referred to the concerned committee for clause-by-clause deliberation.\""
+  },
+  {
+   "id": "1c2d61aa-99fd-467e-b744-0c238c8f7cbd",
+   "kind": "Honorable Minister for Law, Justice, and Parliamentary Affairs Sobita Gautam presenting the \"National Defence University Bill, 2083\" on behalf of the Honorable Prime Minister Balendra Shah.",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/np2t1wzxwdseyv0f.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "02dd1254-b8e3-4950-a26a-05388acf6607",
+   "kind": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam, on behalf of the Honorable Prime Minister Balendra Shah, presenting the motion seeking permission to introduce the “National Defence University Bill, 2083.”",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ebhpc0ywawu1amsn.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "419fce96-0179-407e-95c4-863c2da697a0",
+   "kind": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7gd0ckhjzayelnnn.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam, responding to questions raised during the discussion on the Bill to Revive Provisions of Certain Nepal Acts, 2083."
+  },
+  {
+   "id": "517f8fdb-dc47-49bf-8234-cd9602661caf",
+   "kind": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zak7kc8pdodo0bbb.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam, on behalf of the Honorable Prime Minister Balendra Shah, presenting the motion \"that the Bill to Amend Certain Nepal Acts, 2083, be taken into consideration.\""
+  },
+  {
+   "id": "c044c152-e180-4c6b-9b34-8b7895d80d06",
+   "kind": "Discussion on the National Defense University Bill, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/b85yaucdcfva956t.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam, responding to questions raised during the discussion on the National Defence University Bill, 2083."
+  },
+  {
+   "id": "9dfaaeca-0d8e-4efc-84a2-5af3c0d0a3ed",
+   "kind": "Discussion on the National Defense University Bill, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kyuzuu2ynjgx6rku.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion \"that the National Defence University Bill, 2083 be considered,\" on behalf of the Right Honorable Prime Minister and Minister of Defence Balendra Shah."
+  },
+  {
+   "id": "a6790669-7cf4-474d-bd59-257a53e7a1c8",
+   "kind": "Bill presented",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/t35jyswpqhlgfvho.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice, and Parliamentary Affairs Sobita Gautam presenting the Bill to Amend Some Nepal Acts, 2063, on behalf of the Right Honorable Prime Minister Balendra Shah."
+  },
+  {
+   "id": "dbe47a19-1b2c-4b48-be66-f44a50ffd6e8",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/bypuvrdq6hez5ak7.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice, and Parliamentary Affairs Sobita Gautam, on behalf of the Honorable Prime Minister Balendra Shah, presenting a motion seeking permission to introduce the Bill to Amend Certain Nepal Acts, 2063."
+  },
+  {
+   "id": "bbc0c6c8-1102-4603-b3a7-261ea511f9ae",
+   "kind": "\"Free Legal Aid Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/cdpu6ix5828lqpr2.mp4?central=1&type=hr",
+   "text": "Responding to questions raised during the discussion on the \"Free Legal Aid Bill, 2083 BS\", Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam"
+  },
+  {
+   "id": "fdd357c4-72d1-49c5-b759-733980a83ad0",
+   "kind": "\"Free Legal Aid Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vja3vntiufkzkrdi.mp4?central=1&type=hr",
+   "text": "Presenting a motion to consider the \"Free Legal Aid Bill, 2083 BS\"."
+  },
+  {
+   "id": "ac7bdb49-6a5f-4963-8c1e-bf652c766866",
+   "kind": "Others",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/mcuyxtdofgd67npk.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam presenting the \"Free Legal Aid Bill, 2083\"."
+  },
+  {
+   "id": "5a13db40-9105-41a8-bc8e-038931811d98",
+   "kind": "Others",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/pk2bbvz0qj8xb1k1.mp4?central=1&type=hr",
+   "text": "The Honorable Minister of Law, Justice and Parliamentary Affairs, Sobita Gautam, presents a motion seeking permission to present the \"Free Legal Aid Dispute, 2083\"."
+  },
+  {
+   "id": "70b0d427-a8f2-4bb9-9e8c-b923e9d5b35d",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xljuqbl7co9r2yji.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the motion \"that the National Service Corps Bill, 2083 be passed\" on behalf of the Right Honorable Prime Minister and Minister of Defence Balendra Shah."
+  },
+  {
+   "id": "94a758bc-3054-411d-b1c2-a516aebc7cda",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ldi7qg2r9hq4bqt2.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam responding to questions raised during the discussion on the \"National Service Corps Bill, 2083.\""
+  },
+  {
+   "id": "52479b4f-a0ba-4901-a484-fd04f2ca74e3",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rkzi2w1ea8qcznxh.mp4?central=1&type=hr",
+   "text": "On behalf of the Right Honourable Prime Minister and Minister of Defence Balendra Shah, the Honourable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presented the motion: \"That the National Service Corps Bill, 2083, along with the report of the State Affairs and Good Governance Committee, be taken up for discussion.\""
+  },
+  {
+   "id": "19fcdf7d-efea-4f78-9117-6cd767765281",
+   "kind": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nat",
+   "context": "House of Representatives - 17th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/upgws6zk9vwequ8p.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam, while answering questions raised during the discussion on the agreement,"
+  },
+  {
+   "id": "78935300-58aa-42ec-b97a-32ec7d4f0712",
+   "kind": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nat",
+   "context": "House of Representatives - 17th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wwyyehbtm7am1e6d.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nations Convention on the Law of the Sea\""
+  },
+  {
+   "id": "0ef61349-ecf9-44d4-832a-70bcebee3ce7",
+   "kind": "Report submitted",
+   "context": "House of Representatives - 18th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/r31exdfqr2lr7q70.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam presenting the \"Seventh Annual Report of the Tharu Commission (Shrawan 2081 – Ashad 2082)\" on behalf of the Honorable Prime Minister Balendra Shah."
+  },
+  {
+   "id": "740a9ff4-cfb5-4c6f-8fa7-cde926043e77",
+   "kind": "Question and answer program related to the office of the Prime Minister and the Council of Ministers",
+   "context": "National Assembly - 13th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/e2pco5s379uri2kg.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "d7fa5a6e-a7f5-4ca2-afa1-f978dc153e05",
+   "kind": "others",
+   "context": "National Assembly - 15th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/4ycejgn3gqqu9p3w.mp4?central=1&type=na",
+   "text": "Honorable Minister Presents “Annual Report of the Attorney General's Office for the Fiscal Year 2081/82” to the Assembly"
+  },
+  {
+   "id": "b3823487-558f-41bd-9112-3e341ce43380",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/0xlkz0anfbpfh8ol.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "acc58519-4b4d-4c01-ad40-681d74dc7184",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/nobgffyuh5firuwp.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "ec98901d-abf6-4426-bed1-69e85b5c409d",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yaobutgsouhs1unp.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "43cec545-5bf3-425f-b0f5-427c82d3db28",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/0kbbt6gu3vevogby.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "4ba24402-437f-4a2c-af8e-f71dd9aa6e0f",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xh3igzxu7bwee7yn.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "1eeee924-6654-465e-b7a4-809d7fe5cbcb",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/4ldit3g3oagd9uc5.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "fb902ac8-0524-4b02-bf4a-eebf849bdb8d",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yfwbkb5mg1wb6yoc.mp4?central=1&type=hr",
+   "text": "सबिता गौतमले"
+  },
+  {
+   "id": "566db882-8aab-46d8-831e-74c653c4f2ae",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lbu4yugguxhbtoy6.mp4?central=1&type=hr",
+   "text": "सबिता गौतमले"
+  },
+  {
+   "id": "41ca0a52-8cf1-445b-bbbb-fc963a3bf863",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/o11fasvbbssgcgug.mp4?central=1&type=hr",
+   "text": "सबिता गौतमले"
+  },
+  {
+   "id": "bd430243-9061-45d3-9d40-d2884da18c9b",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 10th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/n52gbmxleayurq5c.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "b91c91cc-1220-4088-811a-50f1e8a22d10",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/rtk7xhlcmzh1lwzl.mp4?central=1&type=na",
+   "text": "A motion was presented to pass the \"Public Procurement (Second Amendment) Bill, 2083,\" received from the House of Representatives along with a message."
+  },
+  {
+   "id": "a4366b9b-8129-4907-9128-fc02a1789d0c",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ilpopekogj19xnwf.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Public Procurement (Second Amendment) Bill, 2083,\" received from the House of Representatives along with a message, be deliberated upon."
+  },
+  {
+   "id": "f364c15e-a80e-4af8-8a4a-73f711e36e93",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 9th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/faxntbum7pqkqtlf.mp4?central=1&type=hr",
+   "text": "माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतम"
+  },
+  {
+   "id": "ce14306a-a3fd-4b6d-a5b4-d90ee6e86620",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/qwxutppgq5nrmziz.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the Public Procurement (Second Amendment) Bill, 2083, received from the House of Representatives with a message, be referred to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "28372dc2-b5aa-463d-a646-b5d4ccef0856",
+   "kind": "विनियोजन विधेयक, २०८३ अन्तर्गत विभिन्न मन्त्रालयको छलफलमा उठेका प्रश्नहरूको सम्बन्धित मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 6th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/wyg5laiinv4q7ri8.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "3475aae8-a040-4fa8-858b-32e17b44e13a",
+   "kind": "Others",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/meyywst1xqywx6tp.mp4?central=1&type=hr",
+   "text": "माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतम"
+  },
+  {
+   "id": "93d1f90d-755f-4724-8ec5-9f04b84b65ef",
+   "kind": "Others",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5cwjn73ohwmv6nyo.mp4?central=1&type=hr",
+   "text": "माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतम"
+  },
+  {
+   "id": "84152bc9-5bfd-40c4-ad2c-90be4fecaeee",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/gzu8a8qpb7vir5mo.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "40671c84-9957-44dc-890c-8c477fc3e98f",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ekrmlfxydpzi8az3.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा “प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "3b52a0e9-5cad-4c7f-b407-35df11098a94",
+   "kind": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/x8h2rj1mbbwty2no.mp4?central=1&type=hr",
+   "text": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल / सम्माननीय प्रधानमन्त्री वालेन्द्र शाहको तर्फबाट माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतमले सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ लाई पारित गरियोस् भनी प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "714c36e3-628f-48ff-bb97-9b1db81666a5",
+   "kind": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/p2tonh80fv4giipc.mp4?central=1&type=hr",
+   "text": "छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतम"
+  },
+  {
+   "id": "277b9a06-0992-43db-8a87-df07e9073ee3",
+   "kind": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wttxovswhxcbnplv.mp4?central=1&type=hr",
+   "text": "सम्माननीय प्रधानमन्त्री वालेन्द्र शाहको तर्फबाट माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतमले सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि दफावार छलफल सदनमा गरियोस् भन्ने प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "87c4beac-bc3a-4344-9fc5-84e37399f067",
+   "kind": "Sunday, (Second) / Discussion on the Public Procurement (Second Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rbcguxxdaensmdzy.mp4?central=1&type=hr",
+   "text": "Discussion on the Public Procurement (Second Amendment) Bill, 2083 / Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam responding to questions raised during the discussion on the Public Procurement (Second Amendment) Bill, 2083."
+  },
+  {
+   "id": "f9fdf325-6c54-457b-b002-fdfc43ea24d2",
+   "kind": "Sunday, (Second) / Discussion on the Public Procurement (Second Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/sd81kry9wgewbvga.mp4?central=1&type=hr",
+   "text": "Discussion on the Public Procurement (Second Amendment) Bill, 2083: Honorable Minister for Law, Justice and Parliamentary Affairs Sobita Gautam, on behalf of Honorable Prime Minister Balendra Shah, presenting the motion that the Public Procurement (Second Amendment) Bill, 2083 be taken into consideration."
+  },
+  {
+   "id": "d9e85bbf-471a-4291-91cf-b17c4a398c9e",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zsih360b1eq6ykbk.mp4?central=1&type=hr",
+   "text": "सम्माननीय प्रधानमन्त्री वालेन्द्र शाहको तर्फबाट माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतमले सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ लाई प्रस्तुत गर्न अनुमति माग्ने प्रस्ताव प्रस्तुत ग"
+  },
+  {
+   "id": "49ff0855-097c-4831-9ad4-b8cbed35af9d",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/y1oqk2you60djt7r.mp4?central=1&type=hr",
+   "text": "सम्माननीय प्रधानमन्त्री वालेन्द्र शाहको तर्फबाट माननीय कानुन, न्याय तथा संसदीय मामिला मन्त्री सोबिता गौतमले महालेखा परीक्षकको त्रिसट्टिऔं वार्षिक प्रतिवेदन, २०८३ पेस गर्नुहुँदै।"
+  },
+  {
+   "id": "3e33f872-6629-46d3-a140-6684c0dbba91",
+   "kind": "अन्य",
+   "context": "National Assembly - 19th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ms2qodag6e7olvic.mp4?central=1&type=na",
+   "text": "थारु आयोगको आर्थिक वर्ष २०८१/८२ को वार्षिक प्रतिवेदन सभासमक्ष पेस"
+  },
+  {
+   "id": "069b9307-b60e-4ac8-9082-b213434bb17e",
+   "kind": "अन्य",
+   "context": "National Assembly - 19th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/rxyxbr1skwbe7ajz.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "a622aaf4-13d3-4eff-be41-fbae89f98076",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/fptcat7zcvagfdwm.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "2e6099fc-1d94-48e5-a11a-d5186c818b31",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yfobsdl6j9ql37up.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "49261d1a-f4c7-4208-9d70-84fee6a42066",
+   "kind": "Bill Submit",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/fh4d0ojqdclcxlus.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "d122c9d6-fcac-43c5-ae2d-c1a69d286afc",
+   "kind": "Bill Submit",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7c2cyogu7yohlbno.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "6bb103aa-bacd-4185-ab87-d5ed527a869a",
+   "kind": "Bill Submit",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/fh4d0ojqdclcxlus.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "e53c3b6c-e78b-4b08-abc8-aeb716b433d6",
+   "kind": "Bill Submit",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lt7pplvvf9qmthrp.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "395899d0-d87e-40d0-8716-3bd379d13364",
+   "kind": "sabhamukh padko nirbachan",
+   "context": "House of Representatives - 5th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/shchba7er2ulbdbw.mp4?central=1&type=hr",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "–रास्वपाको संस्थापक केन्द्रीय सदस्य ।\n–प्रतिनिधि सभा सदस्य,२०७९ ।\n–हाल रास्वपाको सचिवालय सदस्य ।",
+  "Previous Experience": "Lawyer",
+  "Current Affiliation": "Trekking & Business",
+  "Awards and Honors": "One Young world Politician of the year Award:2023"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2082 · Chitwan-3 · Rastriya Swatantra Party",
+   "note": "Law, Justice and Human Rights Committee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "present",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "present",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  }
+ ]
+}

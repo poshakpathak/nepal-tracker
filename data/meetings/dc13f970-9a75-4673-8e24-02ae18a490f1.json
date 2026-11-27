@@ -1,0 +1,78 @@
+{
+ "id": "dc13f970-9a75-4673-8e24-02ae18a490f1",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 20",
+ "date": "2026-10-13",
+ "duration": "6 hr",
+ "start": "1:00 PM",
+ "end": "7:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) ओमान",
+ "minutes": "१) समितिको आजको बैठकमा नेपाल सरकारको मिति 208३ साल असोज २ गतेको निर्णयानुसार",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "absent"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 12,
+ "members": 15,
+ "recording": null
+}

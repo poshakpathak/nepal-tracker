@@ -1,0 +1,50 @@
+{
+ "id": "3d9379c7-5348-4434-aaf5-ff625bac6779",
+ "title": "Committee Consultation and Coordination Subcommittee - Meeting 4",
+ "date": "2026-09-15",
+ "duration": "2 hr 10 min",
+ "start": "11:50 AM",
+ "end": "2:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "होल्डिङ्ग सेन्टरको अनुगमन सम्बन्धी छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ojaswee-sherchan",
+   "status": "present"
+  },
+  {
+   "member": "pukar-bom",
+   "status": "present"
+  },
+  {
+   "member": "prabha-dhakal",
+   "status": "absent"
+  },
+  {
+   "member": "ringla-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "sita-thapaliya",
+   "status": "absent"
+  }
+ ],
+ "present": 4,
+ "members": 8,
+ "recording": null
+}

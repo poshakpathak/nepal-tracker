@@ -1,0 +1,38 @@
+{
+ "id": "a2da957f-106c-42b1-bb62-1f773e15cbfc",
+ "title": "Education Committee - Meeting 3",
+ "date": "2026-07-16",
+ "duration": "3 hr",
+ "start": "1:00 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ganesh-poudel",
+   "status": "present"
+  },
+  {
+   "member": "guru-prasad-baral",
+   "status": "present"
+  },
+  {
+   "member": "jagat-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "absent"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

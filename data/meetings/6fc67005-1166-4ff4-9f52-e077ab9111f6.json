@@ -1,0 +1,38 @@
+{
+ "id": "6fc67005-1166-4ff4-9f52-e077ab9111f6",
+ "title": "Committee Consultation and Facilitation Sub-committee - Meeting 1",
+ "date": "2026-08-05",
+ "duration": "2 hr",
+ "start": "1:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Aakriti Awasthi",
+ "agenda": "आन्तरिक छलफल ।",
+ "minutes": "सङ्‍घीय संसद, प्रतिनिधि सभा, महिला तथा सामाजिक मामिला समितिको मिति २०८३/०४/१८ गतेको बैठकको निर्णय बमोजिम गठित “",
+ "attendance": [
+  {
+   "member": "aakriti-awasthi",
+   "status": "present"
+  },
+  {
+   "member": "gyanu-poudyal",
+   "status": "present"
+  },
+  {
+   "member": "parbati-bk",
+   "status": "present"
+  },
+  {
+   "member": "reena-uprety-kc",
+   "status": "present"
+  },
+  {
+   "member": "tuka-bhadra-hamal",
+   "status": "present"
+  }
+ ],
+ "present": 5,
+ "members": 5,
+ "recording": null
+}

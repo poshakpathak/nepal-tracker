@@ -1,0 +1,46 @@
+{
+ "id": "f6ae22e9-5d2d-4446-bb03-ecaaefb17b3c",
+ "title": "Public Finance Subcommittee",
+ "date": "2026-07-07",
+ "duration": "1 hr 45 min",
+ "start": "11:00 AM",
+ "end": "12:45 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "संङ्घीय संसद् प्रतिनिधि सभा, अर्थ समिति अन्तर्गत गठित सार्वजनिक वित्त समितिको बैठक उपसमितिका",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "absent"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "absent"
+  }
+ ],
+ "present": 5,
+ "members": 7,
+ "recording": null
+}

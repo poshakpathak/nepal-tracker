@@ -1,0 +1,201 @@
+{
+ "id": "2a88fae7-08e3-4723-824a-d3da09d7861f",
+ "title_ne": "प्रतिनिधि सभा सदस्य निर्वाचन (पहिलो संशोधन) विधेयक, २०८३",
+ "status": "Completed",
+ "tags": [
+  "Ordinance Replacement Bill",
+  "Ordinary Bill",
+  "Amendment"
+ ],
+ "number": 1,
+ "registered": "2026-05-08",
+ "ministry_ne": "गृह मन्त्रालय",
+ "presented_by": "Minister Sobita Gautam",
+ "category": "Ordinance Replacement Bill · Ordinary Bill",
+ "days_in_process": 23,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The name of this Act is the House of Representatives Member Election (First Amendment) Act, 2083 (Section 1, Subsection 1, Page 1). The main purpose of this Act is to amend the House of Representatives Member Election Act, 2074 by replacing Schedule-1 relating to the inclusive basis for the closed list of candidates (Preamble, Page 1; Section 2, Page 1). This Act shall come into force immediately (Section 1, Subsection 2, Page 1).\n\nThis Act repeals the House of Representatives Member Election (First Amendment) Ordinance, 2082 (Section 3, Subsection 1, Page 2). Any acts and actions done pursuant to that repealed Ordinance shall be deemed to have been done pursuant to this Act (Section 3, Subsection 2, Page 2).",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-05-08",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/2a88fae7-08e3-4723-824a-d3da09d7861f/bill_registration/9tcVu7Txumx9w6Q7JNBKoTkhCV1ML0iQFE2biwpb.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-05-10",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-05-20",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-05-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-05-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "completed",
+   "date": "2026-05-26",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-05-27",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/2a88fae7-08e3-4723-824a-d3da09d7861f/notice_of_amendment_na/YbDPp0rhsPlSbyBZZZ7KAYIGuR6uEHpxrCiLs19j.pdf"
+   ]
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/2a88fae7-08e3-4723-824a-d3da09d7861f/bill_authentication/nGwCHXkjmjETEuea7LB5YJmnpOOA9KET6yR7SVcc.pdf"
+   ]
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "completed",
+   "date": "2026-05-31",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/2a88fae7-08e3-4723-824a-d3da09d7861f/certified_by_president/3dibhoJNyyQ3clT77btl2PJM0d6WrNXeNEMBVk9o.pdf"
+   ]
+  }
+ ],
+ "current_step": "Certified By President",
+ "last_action": "2026-05-31",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/2a88fae7-08e3-4723-824a-d3da09d7861f/bill_registration/9tcVu7Txumx9w6Q7JNBKoTkhCV1ML0iQFE2biwpb.pdf"
+}

@@ -1,0 +1,786 @@
+{
+ "slug": "neesha-mehta",
+ "name": "Minister Neesha Mehta",
+ "name_ne": "मन्त्री निशा मेहता",
+ "chamber": "hor",
+ "party": "Rastriya Swatantra Party",
+ "party_ne": "राष्ट्रिय स्वतन्त्र पार्टी",
+ "party_id": "707d9fcf-505e-45ea-985c-f0c62f037c44",
+ "seat": "Sunsari",
+ "district": "Sunsari",
+ "election": "proportional",
+ "gender": "female",
+ "role": "MP",
+ "education": "Master Degree",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/5iowhQo4Hn9oqmv1ZAwb5SQa5f6cn5inCj5wpff6-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [
+  {
+   "id": "bc53f451-b769-45f9-a091-ee12c329d226",
+   "name": "Education, Health and Information Technology Committee"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 44,
+   "total": 71,
+   "present": 31,
+   "absent": 40
+  }
+ },
+ "statements": [
+  {
+   "id": "71b391ee-4ab9-4f75-bb97-10c46c23c196",
+   "kind": "रामराजा प्रसाद सिंह स्वास्थ्य विज्ञान प्रतिष्ठान विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/e0sxcvhetxdfaeal.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion \"that the Ramraja Prasad Singh Institute of Health Sciences Bill, 2083 be considered.\""
+  },
+  {
+   "id": "2946ef04-760f-4036-9748-2b7abd690e1e",
+   "kind": "Discussion on the 'Healthcare Workers and Health Institutions Safety (Second Amendment) Bill, 2083'",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ggjbx2naiqtziojy.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Health and Food Hygiene Neesha Mehta, responding to questions raised during the discussion on the Bill Relating to the Security of Health Workers and Health Institutions (Second Amendment), 2083."
+  },
+  {
+   "id": "921e058a-8962-4eb3-8000-ad4ff93f428a",
+   "kind": "Discussion on the 'Healthcare Workers and Health Institutions Safety (Second Amendment) Bill, 2083'",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yjsjhsv2w0wq7h3o.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion that \"the Bill related to the Security of Health Workers and Health Institutions (Second Amendment), 2083, be taken into consideration.\""
+  },
+  {
+   "id": "19025ee9-37f4-4925-811c-61aee2f1930a",
+   "kind": "Deliberation on the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/atz66uegcd0zzrwe.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Health and Food Hygiene Neesha Mehta, responding to questions raised during the discussion on the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063."
+  },
+  {
+   "id": "90d18f6e-f946-40af-a50a-5ad15d44ea69",
+   "kind": "Deliberation on the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/4ulkukydt6alofi8.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Neesha Mehta presenting the motion that \"the Bill to Amend the Safe Motherhood and Reproductive Health Rights Act, 2063 (First Amendment) be taken into consideration.\""
+  },
+  {
+   "id": "cf3d1f68-3449-423c-8cce-c63053fa4468",
+   "kind": "Discussion on the Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xh5kpeoi29kvp3r4.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Health and Food Safety Nisha Mehta, responding to questions raised during the discussion on the Breast-milk Substitutes (Sale and Distribution Control) (First Amendment) Bill, 2063."
+  },
+  {
+   "id": "f3a766ca-80cb-4826-9f39-36eca84ffd1e",
+   "kind": "Discussion on the Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kitaiwugtetmgiao.mp4?central=1&type=hr",
+   "text": "While presenting the motion that the Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083, be taken into consideration."
+  },
+  {
+   "id": "aeb24935-9427-46b0-87f4-1a84dc5d4ca7",
+   "kind": "Bill presented",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ymne4zeipatspzee.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Health and Food Hygiene Nisha Mehta presenting the Ramraja Prasad Singh Institute of Health Sciences Bill, 2063."
+  },
+  {
+   "id": "f2cedce1-17e4-4bba-9fa4-d5ecb26ccda8",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ws3zktfmtxyazygr.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion seeking permission to introduce the Ramraja Prasad Singh Institute of Health Sciences Bill, 2063."
+  },
+  {
+   "id": "a8ae9ad0-69cd-4c32-bf66-f11d86a282b0",
+   "kind": "Bill presented",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rnprrnmhfywaqqnj.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the \"Bill Relating to the Security of Health Workers and Health Institutions (Second Amendment), 2063.\""
+  },
+  {
+   "id": "2c38c918-dd35-464d-9445-c50cede45877",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/oyf7shr4upvqcqvs.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion seeking permission to introduce the \"Bill Relating to the Security of Health Workers and Health Institutions (Second Amendment), 2063.\""
+  },
+  {
+   "id": "45e5afe2-8d41-4186-91d5-faa05dccef0d",
+   "kind": "Bill presented",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dilnd04timsqwirs.mp4?central=1&type=hr",
+   "text": "Honorable Minister of Health and Food Hygiene Nisha Mehta presenting the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063."
+  },
+  {
+   "id": "acfb3d4a-0cd3-4ef0-a115-dd7af34f78a5",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/w1ctvinaewdbhpiq.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion seeking permission to introduce the \"Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063.\""
+  },
+  {
+   "id": "7ac8ac61-fc7b-45c4-b837-58fffa0760ba",
+   "kind": "Bill presented",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/qtxpnpflvxo44bwt.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Safety Nisha Mehta presenting the \"Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083.\""
+  },
+  {
+   "id": "c9dcaf48-9a4a-4fdf-af0c-591eead269b8",
+   "kind": "Present the proposal",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/sraegspeyqmgjvzp.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Health and Food Hygiene Nisha Mehta presenting the motion seeking permission to introduce the Bill to Amend the Breast Milk Substitute (Sale and Distribution Control) Act, 2083."
+  },
+  {
+   "id": "04d727a9-c633-4c54-8b74-2a236d24540c",
+   "kind": "Q&A Program Related to the Ministry of Health and Food Hygiene",
+   "context": "National Assembly - 16th Sept 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/rw8bpu7p1vbyegyn.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "166938a3-4e45-4dec-955d-4ee82ea08542",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/oxxmfckuimrflilg.mp4?central=1&type=na",
+   "text": "A motion was presented to pass the \"Bill to Amend Certain Nepal Acts Related to Health Science Academies, 2083,\" received from the House of Representatives along with a message."
+  },
+  {
+   "id": "94df8c36-e0f1-4bc4-8992-8e5a68cb8785",
+   "kind": "Others",
+   "context": "National Assembly - 9th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/lp95pw9bsxt7xavi.mp4?central=1&type=na",
+   "text": "A motion was presented to discuss the \"Bill to Amend Certain Nepal Acts Relating to Health Science Academies, 2083,\" received from the House of Representatives along with a message."
+  },
+  {
+   "id": "8b8917d1-2d73-4a28-9e08-b64a2ab27c88",
+   "kind": "others (Second Meeting)",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ygv7o1a2zyo0rhen.mp4?central=1&type=na",
+   "text": "A motion was presented proposing that the \"Bill to Amend Certain Nepal Acts Related to Health Science Academies, 2083\"—received from the House of Representatives with a message—be referred to the Legislation Management Committee for clause-by-clause deliberation."
+  },
+  {
+   "id": "424ab270-76bf-4753-a494-2c706ed304d2",
+   "kind": "विनियोजन विधेयक, २०८३ अन्तर्गत विभिन्न मन्त्रालयको छलफलमा उठेका प्रश्नहरूको सम्बन्धित मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 6th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/hfrmkblmgbpfn1sw.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "da460b8d-d38f-465d-b306-fb2d30e0e2ac",
+   "kind": "विनियोजन विधेयक, २०८३ अन्तर्गत विभिन्न मन्त्रालयको छलफलमा उठेका प्रश्नहरूको सम्बन्धित मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 6th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/wrveppx25po5reil.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "328b9ff9-5701-447a-84d1-4ed362b817bd",
+   "kind": "विनियोजन विधेयक, २०८३ अन्तर्गत विभिन्न मन्त्रालयको छलफलमा उठेका प्रश्नहरूको सम्बन्धित मन्त्रीहरूद्वारा जवाफ",
+   "context": "National Assembly - 6th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/hnbl0zfpdvfdt3ox.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "cd16d67f-890f-4d0c-88b7-85967a54208c",
+   "kind": "others",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/gmj8kmrutvk2c6ak.mp4?central=1&type=na",
+   "text": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव प्रस्तुत"
+  },
+  {
+   "id": "5bbe562a-3094-4cdd-b540-beb550cf9dda",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ez4hzs3xce0u4akm.mp4?central=1&type=na",
+   "text": "माननीय मन्त्रीद्वारा “प्रतिनिधि सभाबाट सन्देश सहित प्राप्त स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथिको छलफलमा उठेका प्रश्नहरूको जवाफ"
+  },
+  {
+   "id": "13ae55a4-10d2-4701-b925-9718c2f16739",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/jxqczazf7vcab6nv.mp4?central=1&type=hr",
+   "text": "माननीय स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताले स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ लाई पारित गरियोस्” भनी प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "d4e88b58-beb4-4609-bc27-bb6b3fe390a5",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wvgjrkjlyexzdo8j.mp4?central=1&type=hr",
+   "text": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफलमा उठेका प्रश्नहरुको जवाफ दिनुहुँदै माननीय स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहता"
+  },
+  {
+   "id": "d3290d7b-443f-4053-851f-b250b78c8533",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kaquiqebs3b5rcoc.mp4?central=1&type=hr",
+   "text": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल / नियमापत्ति"
+  },
+  {
+   "id": "f34af296-7205-4733-bb61-8ad403102782",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/8stckg4ylivdymjp.mp4?central=1&type=hr",
+   "text": "माननीय स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताले स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि दफावार छलफल सदनमा गरियोस् भनी प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "4950f633-130e-4d4a-bd23-3e52d667d996",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/sravqa7rfeu3ea0h.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "53ffb85a-e00c-4cad-8043-a1227f1343da",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/pwa5lpkri7g8gpfe.mp4?central=1&type=hr",
+   "text": "माननीय स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताले स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "c7934d36-cfc8-4f30-a694-fe705f112f18",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yi4siakoiijedpwy.mp4?central=1&type=hr",
+   "text": "माननीय स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताले स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "e461dad7-c184-4e97-97c0-10102b1d48b2",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rxfx4bwyfw12dyq7.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "12cd6d0b-c327-4cb6-96cd-e0a6f97db48d",
+   "kind": "विनियोजन विधेयकमाथिको छलफलमा उठेका प्रश्नको जवाफ र स्पष्टीकरण",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1aduedsy0xduruiu.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "aaaa15a3-be25-4b32-b809-b0a09cc845e8",
+   "kind": "विनियोजन विधेयकमाथिको छलफलमा उठेका प्रश्नको जवाफ र स्पष्टीकरण",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/3ar8plddgejoqo6a.mp4?central=1&type=hr",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "विगत ४ वर्ष देखि राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भई काम गरि रहेको । २०७९ सालको चुनावमा यसै पार्टीबाट समानुपातिक उम्मेदवार थिए । पछि पार्टीको केन्द्रीय सदस्यको रुपमा पार्टीमा आफ्नो भूमिका निर्वाह गरिरहेको छु । २०८२ सालको चुनावमा फेरी पार्टीको तर्फबाट समानुपातिक सांसदको रुपमा निर्वाचित भएको ।",
+  "Previous Experience": "विगत १६ वर्षदेखि नर्सिङ पेशामा आवद्ध रहेको,\nB.P. Koirala Institute of Health Science मा Sr. Staff Nurse को रुपमा ३ वर्ष सम्म काम गरेको ।\nआफ्नो  Master Degree  पछि विभिन्न Nursing College हरुमा  As a Lecturer को रुपमा काम गरेको साथै विभन्न Research गर्नुको साथै Student Research  मा guide गरेको ।",
+  "Current Affiliation": "हाल नेपाल प्रहरी श्रीमती संघ कोशी प्रदेशको प्रशासन सचिवको रुपमा कार्यरत रहेको र आसरा सुधार केन्द्रको सदस्य रहेको ।",
+  "Publications": "Clinical Manval of Nursing Procedure ( for BSC Nursing)"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2082 · Sunsari · Rastriya Swatantra Party",
+   "note": "Education, Health and Information Technology Committee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "present",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  }
+ ]
+}

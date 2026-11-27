@@ -1,0 +1,78 @@
+{
+ "id": "4c9990a5-ba00-42bf-b036-a0be7bf71338",
+ "title": "Committee for Legislation Management - Meeting 769",
+ "date": "2026-08-26",
+ "duration": "2 hr",
+ "start": "1:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "१. संक्रामक पशु रोग (नियन्त्रण) विधेयक, २०८३ माथि विज्ञहरूसँग छलफल सम्बन्धमा,",
+ "minutes": "आज समितिका माननीय सभापति",
+ "attendance": [
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "anjan-shakya",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "krishna-prasad-sitaula",
+   "status": "present"
+  },
+  {
+   "member": "khamma-bahadur-khati",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "jhakku-prasad-subedi",
+   "status": "absent"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "rajendra-laxmi-gaire",
+   "status": "present"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-devi-pudasaini",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

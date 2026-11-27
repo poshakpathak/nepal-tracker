@@ -1,0 +1,38 @@
+{
+ "id": "ad47082f-72d4-49eb-bdd0-15086938aa47",
+ "title": "Economic affairs sub committee - Meeting 1",
+ "date": "2026-08-04",
+ "duration": "1 hr 30 min",
+ "start": "11:00 AM",
+ "end": "12:30 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Prasad Paudel",
+ "agenda": "उपसमितिको 2083/084को बार्षिक कामकारवाहिका सम्बन्धमा छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "samjhana-devkota",
+   "status": "present"
+  },
+  {
+   "member": "basu-dev-ghimire",
+   "status": "present"
+  },
+  {
+   "member": "ghanashyam-rijal",
+   "status": "present"
+  },
+  {
+   "member": "mahanth-thakur",
+   "status": "present"
+  },
+  {
+   "member": "sabitri-malla",
+   "status": "present"
+  }
+ ],
+ "present": 5,
+ "members": 5,
+ "recording": null
+}

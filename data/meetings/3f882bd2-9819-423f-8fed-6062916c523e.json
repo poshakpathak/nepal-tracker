@@ -1,0 +1,46 @@
+{
+ "id": "3f882bd2-9819-423f-8fed-6062916c523e",
+ "title": "Petition Study and Recommendation Subcommittee, 2026 - Meeting 2",
+ "date": "2026-11-02",
+ "duration": "3 hr",
+ "start": "1:00 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Samikchya Baskota",
+ "agenda": "बैठकको कार्यसूचीः-",
+ "minutes": "उजुरी अध्ययन तथा सिफारिस उपसमितिको आन्तरिक कार्यसञ्चालन मसौदा कार्यविधिलाई परिमार्जन सहित पारित गर्ने।",
+ "attendance": [
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "balawati-sharma",
+   "status": "present"
+  },
+  {
+   "member": "manmaya-bishowkarma",
+   "status": "absent"
+  },
+  {
+   "member": "sajida-khatun-siddqui",
+   "status": "present"
+  },
+  {
+   "member": "saraswoti-lama",
+   "status": "present"
+  },
+  {
+   "member": "susma-swranakar-dimpal",
+   "status": "present"
+  },
+  {
+   "member": "rubina-acharya",
+   "status": "absent"
+  }
+ ],
+ "present": 5,
+ "members": 7,
+ "recording": null
+}

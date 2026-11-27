@@ -1,0 +1,219 @@
+{
+ "id": "e17ec1af-3425-4ccb-9aff-03a83135175a",
+ "title_ne": "सङ्क्रामक पशु रोग(नियन्त्रण) विधेयक, २०८३",
+ "status": "In progress",
+ "tags": [
+  "Government Bill",
+  "Ordinary Bill",
+  "Original"
+ ],
+ "number": 2,
+ "registered": "2026-07-30",
+ "ministry_ne": "कृर्षी, वन तथा पर्यावरण मन्त्रालय",
+ "presented_by": "Minister Gita Chaudhari",
+ "category": "Government Bill · Ordinary Bill",
+ "days_in_process": 120,
+ "origin": null,
+ "session_ne": null,
+ "summary": "",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-07-30",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-07-31",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Notice of Opposition",
+   "state": "completed",
+   "date": "2026-07-31",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-08-06",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-08-12",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-08-12",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/e17ec1af-3425-4ccb-9aff-03a83135175a/notice_of_amendment/hWCYfWMntfPwKh5mWYi32uc2Mg7EpSG34lGkNFyF.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-08-17",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "completed",
+   "date": "2026-09-16",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-09-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Forwarded to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-09-21",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-09-22",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-09-23",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-09-23",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-09-30",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "current",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Returned to the National Assembly with a Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Bill Authentication By Speaker",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Sent to President Office for Certification",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Certified By President",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  }
+ ],
+ "current_step": "Committee Report Presentation and Discussion",
+ "last_action": "2026-09-30",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/e17ec1af-3425-4ccb-9aff-03a83135175a/notice_of_amendment/hWCYfWMntfPwKh5mWYi32uc2Mg7EpSG34lGkNFyF.pdf"
+}

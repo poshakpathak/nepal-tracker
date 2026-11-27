@@ -1,0 +1,106 @@
+{
+ "id": "e326bc8c-c3ef-4017-91f2-34ba5d866cb1",
+ "title": "Women and Social Affairs Committee - Meeting 12",
+ "date": "2026-07-17",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Aakriti Awasthi",
+ "agenda": "समावेशी आयोगको कामकारबाही र प्रगती सम्बन्धमा।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "aakriti-awasthi",
+   "status": "present"
+  },
+  {
+   "member": "ashuda-kumari-baral",
+   "status": "present"
+  },
+  {
+   "member": "kul-bhakta-shakya",
+   "status": "present"
+  },
+  {
+   "member": "khem-raj-koirala",
+   "status": "absent"
+  },
+  {
+   "member": "tika-sangraula",
+   "status": "present"
+  },
+  {
+   "member": "tuka-bhadra-hamal",
+   "status": "present"
+  },
+  {
+   "member": "thakur-singh-tharu",
+   "status": "present"
+  },
+  {
+   "member": "tara-bishokarma",
+   "status": "absent"
+  },
+  {
+   "member": "dipak-kumar-sah",
+   "status": "present"
+  },
+  {
+   "member": "narendra-kumar-gupta",
+   "status": "absent"
+  },
+  {
+   "member": "pabitra-bk",
+   "status": "present"
+  },
+  {
+   "member": "parbati-bk",
+   "status": "present"
+  },
+  {
+   "member": "pramila-kuluju",
+   "status": "present"
+  },
+  {
+   "member": "rajani-shrestha",
+   "status": "absent"
+  },
+  {
+   "member": "ratna-kumari-thapa",
+   "status": "present"
+  },
+  {
+   "member": "rima-bishwokarma",
+   "status": "present"
+  },
+  {
+   "member": "reena-uprety-kc",
+   "status": "present"
+  },
+  {
+   "member": "lalita-kumari",
+   "status": "absent"
+  },
+  {
+   "member": "shahjan-khatun",
+   "status": "absent"
+  },
+  {
+   "member": "shobha-khanal",
+   "status": "present"
+  },
+  {
+   "member": "sunita-kumari-chaudhary",
+   "status": "absent"
+  },
+  {
+   "member": "gyanu-poudyal",
+   "status": "absent"
+  }
+ ],
+ "present": 14,
+ "members": 22,
+ "recording": null
+}

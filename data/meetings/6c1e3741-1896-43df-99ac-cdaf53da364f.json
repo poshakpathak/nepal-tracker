@@ -1,0 +1,46 @@
+{
+ "id": "6c1e3741-1896-43df-99ac-cdaf53da364f",
+ "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 5",
+ "date": "2026-08-26",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "१. विधायिकी अन्तरसम्बन्ध सम्बन्धमा नेपाल नगरपालिका संघका अध्यक्ष र कार्यकारी निर्देशकसँग छलफल,",
+ "minutes": "आज यस उपसमितिकासंयोजक सुरेशकुमार आले मगरको संयोजकत्वमा बसेको बैठकमा नेपाल नगरपालिका संघका अध्यक्ष श्री भीम प्रसाद ढुङ्गाना र कार्यकारी निर्देशक श्री कलानिधि देवकोटाको उपस्थिति रहेको थियो।",
+ "attendance": [
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "renu-chand",
+   "status": "absent"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "present"
+  }
+ ],
+ "present": 5,
+ "members": 7,
+ "recording": null
+}

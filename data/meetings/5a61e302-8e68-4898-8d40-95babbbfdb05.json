@@ -1,0 +1,30 @@
+{
+ "id": "5a61e302-8e68-4898-8d40-95babbbfdb05",
+ "title": "Bhotekoshi flood - Meeting 1",
+ "date": "2026-09-07",
+ "duration": "1 hr 30 min",
+ "start": "1:00 PM",
+ "end": "2:30 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Jayanti Devi Rai",
+ "agenda": "भोटेकोशी बाढी सम्बन्धी छलफल",
+ "minutes": "छलफल तथा निर्णय :-",
+ "attendance": [
+  {
+   "member": "shree-krishna-prasad-adhikari",
+   "status": "present"
+  },
+  {
+   "member": "roshani-meche",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-kumari-sapkota",
+   "status": "present"
+  }
+ ],
+ "present": 3,
+ "members": 3,
+ "recording": null
+}

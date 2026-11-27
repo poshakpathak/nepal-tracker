@@ -1,0 +1,670 @@
+{
+ "slug": "roshani-meche",
+ "name": "Roshani Meche",
+ "name_ne": "रोश्नी मेचे",
+ "chamber": "na",
+ "party": "Communist Party of Nepal (UML)",
+ "party_ne": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+ "party_id": "af3e1d79-d78b-4c7e-9e02-6a1359026795",
+ "seat": "Koshi Province",
+ "district": null,
+ "election": null,
+ "gender": "female",
+ "role": "MP",
+ "education": "Master's",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/l9U4TYyuj70ddASn8yzFzex1xsNyiE9AFIyyeCe5-web_medium.webp",
+ "term_start": "2026-02-25",
+ "committees": [
+  {
+   "id": "7e1b9345-e589-4352-a009-7c8881084884",
+   "name": "Bhotekoshi flood"
+  },
+  {
+   "id": "5d9bfb8a-51cd-421c-9e8d-918713426a4c",
+   "name": "Federalism Strengthening and National Concerns Committee"
+  },
+  {
+   "id": "5d6a21c6-1298-41ba-bfc6-7e9e589aecef",
+   "name": "Social justice subcommittee"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 98,
+   "total": 52,
+   "present": 51,
+   "absent": 1
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 84,
+   "total": 25,
+   "present": 21,
+   "absent": 4
+  }
+ },
+ "statements": [
+  {
+   "id": "cde15fb8-d173-401e-9ecc-3e64a67c1d39",
+   "kind": "Emergency Time",
+   "context": "National Assembly - 16th Sept 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/izkhs7vb2t9vjwit.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "41b8d88e-1b75-4c11-8399-2857216e22eb",
+   "kind": "Special Hour",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/isvsfwuian7okkic.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "f2d69d19-19ad-428f-9907-e329250d9980",
+   "kind": "Special Hour",
+   "context": "National Assembly - 15th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/hfzl3nrfsvy8zyi0.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "7b3eedfb-8964-4484-94d3-1347cd20061f",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/lpbumgptztvksaka.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "9357c620-4e60-45fd-baee-34ceb141712d",
+   "kind": "विनियोजन विधेयक, २०८३ माथिको छलफल",
+   "context": "National Assembly - 2nd Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/mxse9lgx2xwwko0q.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "dc708e69-453c-424a-ab24-8c5eea04112a",
+   "kind": "सङ्कल्प प्रस्तावका समर्थक माननीय सदष्यहरु",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ukqyvihj4xzisstd.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "a2ad9ee2-64bf-4402-893b-d18ac5743675",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/8f90yvdwfs6wqcvj.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "5702056f-c3ae-4df7-b5ab-42d38fd9dd3a",
+   "kind": "Emergency Time",
+   "context": "National Assembly - 15th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/vjgpwkrxpxsehpa0.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "e537a18c-7879-4224-a27f-e2a86f32a777",
+   "kind": "आर्थिक वर्ष २०८३/०८४ को राजस्व र व्ययको वार्षिक अनुमानमाथि सामान्य छलफल",
+   "context": "National Assembly - 12th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/zk8fnxepsijc43dc.mp4?central=1&type=na",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "नेपाल कम्युनिष्ट पार्टी (एमाले) को जनवर्गीय संगठनमार्फत राजनीतिक संलग्नता रहँदै राष्ट्रिय युवा संघ नेपालमा वडा सदस्य, अनेम संघ नगर कमिटीमा नगर सदस्यका रूपमा भूमिका निर्वाह। लोकतान्त्रिक आदिवासी जनजाति महासंघमा केन्द्रीय सदस्य तथा सचिवालय सदस्यका रूपमा संलग्नता। साथै, नेकपा (एमाले) का अध्यक्ष तथा संसदीय दलका नेता माननीय केपी शर्मा ओलीको स्वकीय सचिव तथा सम्माननीय प्रधानमन्त्री केपी शर्मा ओलीको स्वकीय सह-सचिवका रूपमा कार्य अनुभव।",
+  "Previous Experience": "श्री अमर प्रा.वि.मा निजी शिक्षिका तथा समुदायमा आधारित बाल विकास केन्द्र सञ्चालनमा संलग्नता। कानुन व्यवसायीको रूपमा अभ्यास। साथै, समुदायमा आधारित कानुनी प्रशिक्षण, महिला हिंसा सम्बन्धी तालिम तथा जलवायु परिवर्तन सम्बन्धी प्रशिक्षणमा सहभागिता तथा सहजीकरण।\nसंघ संस्थागत संलग्नताअन्तर्गत मेचे महिला उत्थान संघको केन्द्रीय अध्यक्ष, नेफिन जेप समूह सहयोगी, मेचे समाज शिवियारी आफातको केन्द्रीय सदस्य तथा झापा जिल्ला नेफिनको जिल्ला संयोजक । नेपाल आदिवासी जनजाति महासंघको केन्द्रीय उपाध्यक्ष तथा महिला विभाग प्रमुख, नेफिन आरआरआई परियोजना संयोजक र नेफिन Climate Change UN Women परियोजना संयोजक । आदिवासी जनजाति उत्थान राष्ट्रिय प्रतिष्ठानको सञ्चालक परिषदको सदस्य, राष्ट्रिय आदिवासी जनजाति महिला महासंघको संघीय परिषद् सदस्य तथा गोरखापत्र संस्थानको 'नयाँ नेपाल पृष्ठको मेचे भाषा संयोजक ।",
+  "Current Affiliation": "कानुन व्यवसायीका रूपमा अभ्यास तथा राष्ट्रिय आदिवासी जनजाति महासंघमा आबद्धता।",
+  "Publications": "गोरखापत्र संस्थानद्वारा सञ्चालित 'नयाँ नेपाल पृष्ठमा मातृभाषामा लेखन। गोरखापत्र संस्थानद्वारा प्रकाशित सांस्कृतिक पुस्तकहरूमा लेख प्रकाशन। नेपाल प्रज्ञा प्रतिष्ठानद्वारा प्रकाशित 'नेपालका जातीय संस्कार पुस्तकमा 'मेचे जातिको सामाजिक संस्कार शीर्षकमा लेख प्रकाशन तथा 'जातिरि पत्रिकामा मेचे भाषामा लेखहरू प्रकाशन।\nत्यसैगरी, नेपाल प्रज्ञा प्रतिष्ठानद्वारा प्रकाशित मातृभाषा कविता संग्रहमा मेचे भाषाको कविता (पदम राई) तथा 'म मेचे नारी शीर्षकको कविता प्रकाशन। साथै, गोरखापत्रद्वारा प्रकाशित 'सांस्कृतिक सौरभ पुस्तकमा 'माखाल प्रणाली सम्बन्धी लेख प्रकाशन।",
+  "Awards and Honors": "श्री बलभद्र जनता माध्यमिक विद्यालयद्वारा राष्ट्रिय सभा सदस्य निर्वाचित भएको अवसरमा सम्मान। बोडो राइटर एकेडेमी, आसामद्वारा प्रधानमन्त्रीको सचिवालयमा पहिलो पटक मेचे समुदायबाट स्वकीय सहसचिवको रूपमा नियुक्त भएकोमा सम्मान।",
+  "Additional Information": "भ्रमण: भारत, थाइल्यान्ड, फिलिपिन्स र चीन"
+ },
+ "terms": [
+  {
+   "years": "2026-02-25–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "नियमित चक्र अनुसार - 2082 · Koshi Province · Communist Party of Nepal (UML)",
+   "note": "Bhotekoshi flood · Federalism Strengthening and National Concerns Committee · Social justice subcommittee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "355bad2a-e79b-4e12-a514-298eb74aa74e",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 2)",
+   "scope": "house"
+  },
+  {
+   "meeting": "781a4326-7248-441c-b767-b3a616d5050d",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f7ae9af2-cc37-4c5e-99a4-1bd1a10ce87f",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 May 2026 (meeting - 3)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0e754b6d-68c1-405b-af44-100f6d5efddf",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "National Assembly Meeting - 14 May 2026 (meeting - 4)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6889f511-978a-4f1b-ab8c-1e3fa1fc963b",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 May 2026 (meeting - 5)",
+   "scope": "house"
+  },
+  {
+   "meeting": "76faaccd-8b88-42fa-83a3-8efebdfa9cdb",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 May 2026 (meeting - 6)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0d2caaa9-6dd5-45bc-92d9-8fff5a5b8b12",
+   "date": "2026-05-22",
+   "status": "present",
+   "title": "National Assembly Meeting - 22 May 2026 (meeting - 7)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0a46e963-b5ac-4161-8d0b-5bf0ce0f1e7f",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 8)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e8ce07c6-e45d-461a-99d0-bcf81fb53bb1",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 9)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70693fb3-5619-4b43-bdd4-1c38805505cc",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 May 2026 (meeting - 10)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cd08e75b-6b46-4a8d-98c5-d2eee59579cd",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "National Assembly Meeting - 31 May 2026 (meeting - 11)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bde7f356-a3ca-41e5-9a4e-234af5c502e2",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 June 2026 (meeting - 12)",
+   "scope": "house"
+  },
+  {
+   "meeting": "eb4a3fba-8ca6-4d9f-ad8a-b0bd1d392424",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 June 2026 (meeting - 13)",
+   "scope": "house"
+  },
+  {
+   "meeting": "79d1d024-e07f-41b8-a88e-0d9c26214312",
+   "date": "2026-06-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 June 2026 (meeting - 14)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0ab0fd72-a167-4d1c-896b-2357a38bbdea",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 June 2026 (meeting - 15)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2b340ddb-4636-4887-83d4-13da1f78f574",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 June 2026 (meeting - 16)",
+   "scope": "house"
+  },
+  {
+   "meeting": "9415d891-8226-4118-8e91-13c826c68987",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 June 2026 (meeting - 17)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed5546ea-7e70-4a7f-9abd-1d89b63cfd4c",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 June 2026 (meeting - 18)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e468aa74-a5f8-43c5-84e1-1e3c5bbbbacd",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 June 2026 (meeting - 19)",
+   "scope": "house"
+  },
+  {
+   "meeting": "18a91901-a356-4323-a79d-cfc675e42b3f",
+   "date": "2026-06-26",
+   "status": "present",
+   "title": "National Assembly Meeting - 26 June 2026 (meeting - 20)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ba69d1ef-9132-4d16-a771-73fe816de4da",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 22)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d37078a9-899c-42bd-824e-fd65b950eeac",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 21)",
+   "scope": "house"
+  },
+  {
+   "meeting": "25487fc3-3ec1-42cb-9c25-f27a4cdfce5f",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 July 2026 (meeting - 23)",
+   "scope": "house"
+  },
+  {
+   "meeting": "69663f43-5218-46b2-b7e8-36509d125609",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 July 2026 (meeting - 24)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ca327155-822c-4a1e-8bbf-5f9b8063f9cf",
+   "date": "2026-07-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 July 2026 (meeting - 25)",
+   "scope": "house"
+  },
+  {
+   "meeting": "12cea91d-36b3-4254-84d2-02d8cbc41089",
+   "date": "2026-07-04",
+   "status": "present",
+   "title": "National Assembly Meeting - 4 July 2026 (meeting - 26)",
+   "scope": "house"
+  },
+  {
+   "meeting": "96a44541-6342-4c19-a81a-57eb13fc771c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 July 2026 (meeting - 27)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45d95279-6457-4675-9408-3abee3b6523d",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 29)",
+   "scope": "house"
+  },
+  {
+   "meeting": "db2f5a91-a851-4f06-bc50-db95ce7a2fc7",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 28)",
+   "scope": "house"
+  },
+  {
+   "meeting": "154f8ef2-2471-4dd4-ad0b-a9a5f1aecfc9",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 31)",
+   "scope": "house"
+  },
+  {
+   "meeting": "19d3c9a1-97eb-4328-bf39-716ce7dea5d2",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 30)",
+   "scope": "house"
+  },
+  {
+   "meeting": "07850fd1-a44e-4e95-874b-791878177e0c",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 July 2026 (meeting - 32)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bcadcac6-6d83-4049-a6b5-e5cf06d76237",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 July 2026 (meeting - 33)",
+   "scope": "house"
+  },
+  {
+   "meeting": "1661bf03-a5c5-4042-aea4-9283a41c872c",
+   "date": "2026-07-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 July 2026 (meeting - 34)",
+   "scope": "house"
+  },
+  {
+   "meeting": "51e3bc09-e109-4e3d-a21a-20fbbb492767",
+   "date": "2026-08-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 August 2026 (meeting - 35)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffd2887e-139c-4b8a-b076-b8a888a2122a",
+   "date": "2026-08-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 August 2026 (meeting - 36)",
+   "scope": "house"
+  },
+  {
+   "meeting": "144d7edb-afe7-4f7d-bfd3-09ad1e930095",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 August 2026 (meeting - 37)",
+   "scope": "house"
+  },
+  {
+   "meeting": "46b638ef-ccb8-443d-acb6-310d54f059bc",
+   "date": "2026-08-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 August 2026 (meeting - 38)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a2168419-270d-405f-a97c-6866c02de391",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "National Assembly Meeting - 17 August 2026 (meeting - 39)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bf7614ba-9702-4b0d-85d0-8c5677cd4ef6",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 August 2026 (meeting - 40)",
+   "scope": "house"
+  },
+  {
+   "meeting": "7a2ace4e-5de6-4d5e-b11c-adec7998ea2c",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 August 2026 (meeting - 41)",
+   "scope": "house"
+  },
+  {
+   "meeting": "360a4a55-8539-4468-9e07-db9c6937aab4",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfda1afa-b682-44af-b789-21799769cad3",
+   "date": "2026-09-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 September 2026 (meeting - 43)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ab3ec7c6-8938-4991-b080-c23a004c0da7",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 September 2026 (meeting - 44)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6dcd27d8-619d-418c-8478-e88c2768fcca",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 September 2026 (meeting - 45)",
+   "scope": "house"
+  },
+  {
+   "meeting": "8924eb62-f890-42b0-a761-3ccf1e6aaf8c",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "National Assembly Meeting - 16 September 2026 (meeting - 46)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2c2cb199-1d6f-48b3-917e-8ce5884f77cf",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 September 2026 (meeting - 47)",
+   "scope": "house"
+  },
+  {
+   "meeting": "28c0eb2c-fb0a-442d-99d6-c3ff0888bd56",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 September 2026 (meeting - 48)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c8a9eb6-8958-492e-8544-14db02296cf6",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "National Assembly Meeting - 24 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67df4763-29f5-4ab0-9a5b-3e657a8126d0",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "National Assembly Meeting - 28 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0b876761-92e0-4cae-9dad-1a0bbeb86991",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 October 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70c44e42-f9cb-4279-8371-3965645bb492",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 October 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "85146959-303e-490e-973d-67bf66b35b29",
+   "date": "2026-06-23",
+   "status": "absent",
+   "title": "Federalism Strengthening and National Concerns Committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e934698f-acb1-4db2-b36c-d1b86efc643a",
+   "date": "2026-07-13",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 333",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ae9b45c2-4d01-4d82-ab64-c2bdad664c3d",
+   "date": "2026-07-16",
+   "status": "absent",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 4",
+   "scope": "committee"
+  },
+  {
+   "meeting": "9d1e3edf-0edc-4311-b67a-5d1cba7c4d2f",
+   "date": "2026-07-20",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 334",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ac81f0d2-e7b4-4363-8dc3-165fa3ae0593",
+   "date": "2026-07-24",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 335",
+   "scope": "committee"
+  },
+  {
+   "meeting": "64cb6b9e-dd6d-46f7-a236-c39a10c53911",
+   "date": "2026-07-27",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e19c6bf3-1472-483d-96b4-1c15c9db79e2",
+   "date": "2026-07-29",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee",
+   "scope": "committee"
+  },
+  {
+   "meeting": "df99054e-2c5a-42e7-ad70-d683175dd5a1",
+   "date": "2026-08-05",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 338",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b7c8599d-fd01-4057-8a3c-1e353ee03456",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 339",
+   "scope": "committee"
+  },
+  {
+   "meeting": "cebf0540-ad43-45cb-a3b8-45e5289d18cf",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "Social justice subcommittee - Meeting 2",
+   "scope": "committee"
+  },
+  {
+   "meeting": "a6d30c02-1448-4bf5-86bf-74e4c4c432fa",
+   "date": "2026-08-14",
+   "status": "absent",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 340",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b969b9a1-bebb-4d35-83ef-8d279e196997",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 341",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d17eea6e-f41e-4015-8996-67f505026520",
+   "date": "2026-08-21",
+   "status": "absent",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 342",
+   "scope": "committee"
+  },
+  {
+   "meeting": "58a52e47-b4bf-4c36-99cf-803df47ca280",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 346",
+   "scope": "committee"
+  },
+  {
+   "meeting": "5a61e302-8e68-4898-8d40-95babbbfdb05",
+   "date": "2026-09-07",
+   "status": "present",
+   "title": "Bhotekoshi flood - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "113af09e-afdf-4d72-8d6e-f4dd04c278ed",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 344",
+   "scope": "committee"
+  },
+  {
+   "meeting": "9dde242b-dce4-41dc-9a80-113457edb379",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 345",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b4aa8df8-0f13-4e8d-b9b9-01a0449c9afe",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 346",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b13e9095-7c27-422d-8eff-21c3191a3a94",
+   "date": "2026-09-23",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 347",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8f5fd6d3-6f35-4f9d-a880-2ca3edbaf4b9",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 348",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1d579bf4-0f62-4413-8e7a-cd29f7099fbd",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 349",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b4ee646f-01e5-4c60-adfd-68c47c935f03",
+   "date": "2026-10-30",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 350",
+   "scope": "committee"
+  },
+  {
+   "meeting": "75a80a31-425c-4419-80fa-ccbb2d2b2e35",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 351",
+   "scope": "committee"
+  },
+  {
+   "meeting": "c37afc8b-aafd-4c75-bed2-5e7424c91268",
+   "date": "2026-11-20",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 352",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d3669aad-9515-490d-8992-21e8e4df174b",
+   "date": "2026-11-25",
+   "status": "present",
+   "title": "Federalism Strengthening and National Concerns Committee - Meeting 353",
+   "scope": "committee"
+  }
+ ]
+}

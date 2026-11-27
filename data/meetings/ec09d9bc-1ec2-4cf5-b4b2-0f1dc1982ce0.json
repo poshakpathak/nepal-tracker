@@ -1,0 +1,78 @@
+{
+ "id": "ec09d9bc-1ec2-4cf5-b4b2-0f1dc1982ce0",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 17",
+ "date": "2026-10-12",
+ "duration": "2 hr 30 min",
+ "start": "9:15 AM",
+ "end": "11:45 AM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) प्रस्तावित राजदूतहरू उपर प्राप्‍त उजुरीका सम्बन्धमा उजुरीकर्तालाई समितिमा आमन्त्रण गरी छलफल गर्ने।",
+ "minutes": "१) समितिको आजको बैठकमा नेपाल सरकारको मिति 208३ असोज २ गतेको निर्णयानुसार विभिन्न १३ मित्रराष्ट्रहरूमा नेपाली राजदूत पदमा नियुक्तिका लागि प्रस्तावित १३ जना व्यक्तिहरूका सम्बन्धमा समितिमा उजुरी दर्ता गर्ने उजुरीकर्ताहरुलाई समितिसमक्ष आमन्त्रण गरी छलफल गरियो।",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

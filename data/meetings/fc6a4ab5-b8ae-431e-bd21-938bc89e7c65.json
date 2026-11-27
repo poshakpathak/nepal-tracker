@@ -1,0 +1,130 @@
+{
+ "id": "fc6a4ab5-b8ae-431e-bd21-938bc89e7c65",
+ "title": "Finance Committee - Meeting 23",
+ "date": "2026-08-12",
+ "duration": "4 hr",
+ "start": "11:00 AM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "१. राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगका हालसम्मका कामकारबाही, वित्तीय संघीयता कार्यान्वयनमा आयोगको भूमिका, आयोगको सिफारिस, सोको समस्या एवं चुनौती र कार्यान्वयनको अवस्थाका सम्बन्धमा छलफल,",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "krishna-hari-budhathoki",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "khadga-shahi",
+   "status": "present"
+  },
+  {
+   "member": "jagadish-kharel",
+   "status": "absent"
+  },
+  {
+   "member": "tara-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "present"
+  },
+  {
+   "member": "dhurba-raj-rai",
+   "status": "absent"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "absent"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "parash-madi-gelal",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "present"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "ram-bahadur-thapa-magar",
+   "status": "absent"
+  },
+  {
+   "member": "lima-adhikari-acharya",
+   "status": "present"
+  },
+  {
+   "member": "bikram-khanal",
+   "status": "absent"
+  },
+  {
+   "member": "sarita-mahato",
+   "status": "present"
+  },
+  {
+   "member": "sagar-bhusal",
+   "status": "absent"
+  },
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  },
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "sushila-dhakal-achrya",
+   "status": "present"
+  },
+  {
+   "member": "karishma-kathariya",
+   "status": "present"
+  },
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "swarnim-wagle",
+   "status": "absent"
+  }
+ ],
+ "present": 20,
+ "members": 28,
+ "recording": null
+}

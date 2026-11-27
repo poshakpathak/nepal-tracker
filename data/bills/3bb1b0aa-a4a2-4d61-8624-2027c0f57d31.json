@@ -1,0 +1,211 @@
+{
+ "id": "3bb1b0aa-a4a2-4d61-8624-2027c0f57d31",
+ "title_ne": "आन्तरिक वायुसेवाको दायित्व सम्बन्धी विधेयक, २०८३",
+ "status": "In progress",
+ "tags": [
+  "Government Bill",
+  "Ordinary Bill",
+  "Original"
+ ],
+ "number": 1,
+ "registered": "2026-07-30",
+ "ministry_ne": "संस्कृति पर्यटन तथा नागरिक उड्यन मन्त्रालय",
+ "presented_by": "Minister Khadak Raj Paudel",
+ "category": "Government Bill · Ordinary Bill",
+ "days_in_process": 120,
+ "origin": null,
+ "session_ne": null,
+ "summary": "",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-07-30",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-07-31",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Notice of Opposition",
+   "state": "completed",
+   "date": "2026-07-31",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-08-12",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-08-13",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-08-13",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/3bb1b0aa-a4a2-4d61-8624-2027c0f57d31/notice_of_amendment/2KlqDPflPzyyeC7XjQyA0Q8GoXynSOIs8vmJ1UeR.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-08-19",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "completed",
+   "date": "2026-10-01",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-10-02",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "National Assembly",
+   "step": "Forwarded to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-10-02",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "current",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "General Discussion on the Bill",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "House of Representatives",
+   "step": "Returned to the National Assembly with a Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Bill Authentication By Speaker",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Sent to President Office for Certification",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "National Assembly",
+   "step": "Certified By President",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  }
+ ],
+ "current_step": "Bill Tabled with Message / Bill Distributed",
+ "last_action": "2026-10-02",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/3bb1b0aa-a4a2-4d61-8624-2027c0f57d31/notice_of_amendment/2KlqDPflPzyyeC7XjQyA0Q8GoXynSOIs8vmJ1UeR.pdf"
+}

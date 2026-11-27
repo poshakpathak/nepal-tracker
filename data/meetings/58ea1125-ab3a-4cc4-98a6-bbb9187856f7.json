@@ -1,0 +1,38 @@
+{
+ "id": "58ea1125-ab3a-4cc4-98a6-bbb9187856f7",
+ "title": "Education Committee - Meeting 5",
+ "date": "2026-08-14",
+ "duration": "2 hr",
+ "start": "1:00 PM",
+ "end": "3:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ganesh-poudel",
+   "status": "present"
+  },
+  {
+   "member": "guru-prasad-baral",
+   "status": "absent"
+  },
+  {
+   "member": "jagat-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "present"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

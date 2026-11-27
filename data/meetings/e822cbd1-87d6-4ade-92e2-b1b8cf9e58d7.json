@@ -1,0 +1,78 @@
+{
+ "id": "e822cbd1-87d6-4ade-92e2-b1b8cf9e58d7",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 24",
+ "date": "2026-11-02",
+ "duration": "1 hr 20 min",
+ "start": "3:00 PM",
+ "end": "4:20 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) जापानका लागि प्रस्तावित राजदूत",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "absent"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "absent"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "absent"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 11,
+ "members": 15,
+ "recording": null
+}

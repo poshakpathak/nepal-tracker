@@ -1,0 +1,38 @@
+{
+ "id": "95b1b4b7-8be2-4b48-8b6b-1ba67fe495a8",
+ "title": "Sub-committee on Public Policy Study - Meeting 12",
+ "date": "2026-10-30",
+ "duration": "2 hr",
+ "start": "9:30 AM",
+ "end": "11:30 AM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Puja Chaudhary",
+ "agenda": "खर्क नीति अध्ययन प्रतिवेदनको ढाँचा सम्बन्धमा विषय विज्ञसँग छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "madan-kumari-shah-garima",
+   "status": "present"
+  },
+  {
+   "member": "jagat-bahadur-parki",
+   "status": "present"
+  },
+  {
+   "member": "mina-singh-rakhal",
+   "status": "absent"
+  },
+  {
+   "member": "yuvraj-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "ranjeet-karn",
+   "status": "present"
+  }
+ ],
+ "present": 3,
+ "members": 5,
+ "recording": null
+}

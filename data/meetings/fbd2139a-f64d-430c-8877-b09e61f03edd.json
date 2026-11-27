@@ -1,0 +1,134 @@
+{
+ "id": "fbd2139a-f64d-430c-8877-b09e61f03edd",
+ "title": "Industry, Commerce, Labour and Consumer Welfare Committee - Meeting 10",
+ "date": "2026-07-15",
+ "duration": "2 hr",
+ "start": "8:00 AM",
+ "end": "10:00 AM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Rahbar Ansari",
+ "agenda": "कार्यसूचिः",
+ "minutes": "छलफल/ निर्णय:",
+ "attendance": [
+  {
+   "member": "balendra-shah",
+   "status": "absent"
+  },
+  {
+   "member": "ramjee-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "gauri-kumari",
+   "status": "absent"
+  },
+  {
+   "member": "rahbar-ansari",
+   "status": "present"
+  },
+  {
+   "member": "amar-kanta-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "arvind-sah",
+   "status": "present"
+  },
+  {
+   "member": "ananda-bahadur-chand",
+   "status": "absent"
+  },
+  {
+   "member": "alija-gurung",
+   "status": "present"
+  },
+  {
+   "member": "kali-bahadur-sahakri",
+   "status": "present"
+  },
+  {
+   "member": "kripa-ram-rana",
+   "status": "present"
+  },
+  {
+   "member": "ganga-devi-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "tek-bahadur-gurung",
+   "status": "absent"
+  },
+  {
+   "member": "tek-bahadur-shakya",
+   "status": "absent"
+  },
+  {
+   "member": "nirasha-chaudhari-dagaura",
+   "status": "present"
+  },
+  {
+   "member": "prakash-pathak",
+   "status": "present"
+  },
+  {
+   "member": "prakash-singh-karki",
+   "status": "present"
+  },
+  {
+   "member": "prabha-karki",
+   "status": "present"
+  },
+  {
+   "member": "badan-kumar-bhandari",
+   "status": "absent"
+  },
+  {
+   "member": "budhi-prasad-pant",
+   "status": "present"
+  },
+  {
+   "member": "matrika-prasad-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "ranju-neupane",
+   "status": "absent"
+  },
+  {
+   "member": "lal-bikram-thapa",
+   "status": "present"
+  },
+  {
+   "member": "sirjana-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "surya-bahadur-tamang",
+   "status": "absent"
+  },
+  {
+   "member": "som-sharma",
+   "status": "present"
+  },
+  {
+   "member": "hari-mohan-bhandari",
+   "status": "present"
+  },
+  {
+   "member": "harina-devi-kami",
+   "status": "present"
+  },
+  {
+   "member": "kshitij-thebe",
+   "status": "absent"
+  },
+  {
+   "member": "buddha-ratna-maharjan",
+   "status": "present"
+  }
+ ],
+ "present": 17,
+ "members": 29,
+ "recording": null
+}

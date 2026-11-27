@@ -1,0 +1,933 @@
+{
+ "slug": "prem-prasad-dangal",
+ "name": "Dr. Prem Prasad Dangal",
+ "name_ne": "डा. प्रेम प्रसाद दंगाल",
+ "chamber": "na",
+ "party": "Communist Party of Nepal (UML)",
+ "party_ne": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+ "party_id": "af3e1d79-d78b-4c7e-9e02-6a1359026795",
+ "seat": "Bagmati Province",
+ "district": null,
+ "election": null,
+ "gender": "male",
+ "role": "MP",
+ "education": "Ph.D",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/LORTqgzGl1aQ2AWiHdqVsjsCO5ooW9DaFFp9OAK6-web_medium.webp",
+ "term_start": "2026-02-25",
+ "committees": [
+  {
+   "id": "f97d6e7c-7172-41a4-86cc-5be3c023fd0c",
+   "name": "Committee for Legislation Management"
+  },
+  {
+   "id": "92ec6b02-7fb4-4796-9a4c-3b78022b5492",
+   "name": "Legislative Interrelations Study Recommendation Subcommittee"
+  },
+  {
+   "id": "e2bf46d8-02ad-43f8-a1fb-37463cd3aee2",
+   "name": "Parliamentary Hearing Committee (Joint)"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 90,
+   "total": 52,
+   "present": 47,
+   "absent": 5
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 89,
+   "total": 63,
+   "present": 56,
+   "absent": 7
+  }
+ },
+ "statements": [
+  {
+   "id": "8bf166de-f497-4c29-b044-6797b44fccc0",
+   "kind": "Discussion on the motion “That the Bill relating to the Liability of Domestic Air Services, 2083, be taken into consideration.”",
+   "context": "National Assembly - 13th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/zioculbcs5gkktep.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "b8e4c16e-2f07-4c90-b778-4a0ab1a1dd5f",
+   "kind": "Discussion on the motion “That the Infectious Animal Disease (Control) Bill, 2083 be taken into consideration”",
+   "context": "National Assembly - 12th Aug 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/belqpvmto7mtvlsl.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "26f5fc53-9616-4efc-a0b8-0867e73a3ad3",
+   "kind": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/o6u4e8yethlcbkzj.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "aba26be9-eaf8-4905-9e99-e87e5a98751b",
+   "kind": "प्रतिनिधि सभाबाट सन्देश सहित प्राप्त आर्थिक विधेयक, २०८३ माथि विचार गरियोस् भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 7th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/8u5qsoyj2gexmmpz.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "3aac49a8-65c7-47ae-8854-0eed4e032753",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/cjmpl6jzmqegrm7p.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "d19334be-c762-427a-ba32-7caaa7080837",
+   "kind": "विनियोजन विधेयक, २०८३ माथिको छलफल",
+   "context": "National Assembly - 3rd Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/9swyidktm8n0m1lu.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "428ce0c1-723d-4e63-9803-1ea2cd8fa61b",
+   "kind": "सङ्कल्प प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 1st Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/lcfl3rpfzuavuuvk.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "0f02abc2-8175-4d5d-83a6-d7b05560443c",
+   "kind": "प्रादेशिक सरोकार समय",
+   "context": "National Assembly - 19th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/acqaasoosceqxcjs.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "64d78b8f-1e48-4206-9744-98117746a2bf",
+   "kind": "आर्थिक वर्ष २०८३/०८४ को राजस्व र व्ययको वार्षिक अनुमानमाथिको सामान्य छलफल",
+   "context": "National Assembly - 15th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/dzgubpy5t7lw3ns3.mp4?central=1&type=na",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "२०३५/०३६ को विद्यार्थी आन्दोलनबाट सुरुवात, अनेरास्ववियूका विभिन्न कमिटीमा आबद्ध नेपाल ट्रेड युनियनमा संलग्न अखित नेपाल किसान महासंघका विभिन्न जिम्मेवारी सम्हाल्दै हाल के.क.को अध्यक्ष, नेकपा (एमाले) को पूर्व के.क. सदस्य ।",
+  "Previous Experience": "नेपाल निजामति कर्मचारी सङ्गठनको पहिलो निर्वाचित अध्यक्ष । नेपाल ट्रेड युनियन महासंघको सदस्य, दक्षिण पूर्वी एसियाली नेपाली संघको सचिव, दक्षिण एसियाली गरिबी निवारण मञ्तको सदस्य दक्षिण एसियाली किसान महासंघको अध्यक्ष, एसियाली किसान मञ्चको। अध्यक्ष, खाद्य, सम्प्रभूताका लागि अन्तर्राष्ट्रिय समिति सदस्य,रोनमा फियान नेपालको अध्यक्ष, फियान अन्तर्राष्ट्रिय समितिको उपाध्यक्ष, जर्मनी संयोजक,खाद्य सम्प्रभुता सञ्जाल, दक्षिण एसियाली गरिबी निवारण मञ्च । अध्यक्ष, दक्षिण एसियाली किसान महासंघ, अध्यक्ष, अखिल नेपाल किसान नेकपा(एमाले) नवउदारवाद र सार्वभौम राज्यका विकल्प खाद्य सम्प्रभूता: अवधारणा र चुनौति नेपालको किसान आन्दोलन किसान जागरण समाजवाद उन्मुख अर्थराजनीति",
+  "Additional Information": "-राष्ट्रिय योजना आयोगको सदस्य भई कार्य गरेको । -कार्यकारी उपाध्यक्ष, युवा तथा साना व्यवसायी स्वरोजगार कोष । -अध्यक्ष राष्ट्रिय किसान आयोग । -शाखा अधिकृत, नेपाल सरकार ।"
+ },
+ "terms": [
+  {
+   "years": "2026-02-25–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "नियमित चक्र अनुसार - 2082 · Bagmati Province · Communist Party of Nepal (UML)",
+   "note": "Committee for Legislation Management · Legislative Interrelations Study Recommendation Subcommittee"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "355bad2a-e79b-4e12-a514-298eb74aa74e",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 2)",
+   "scope": "house"
+  },
+  {
+   "meeting": "781a4326-7248-441c-b767-b3a616d5050d",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f7ae9af2-cc37-4c5e-99a4-1bd1a10ce87f",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 May 2026 (meeting - 3)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0e754b6d-68c1-405b-af44-100f6d5efddf",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "National Assembly Meeting - 14 May 2026 (meeting - 4)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6889f511-978a-4f1b-ab8c-1e3fa1fc963b",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 May 2026 (meeting - 5)",
+   "scope": "house"
+  },
+  {
+   "meeting": "76faaccd-8b88-42fa-83a3-8efebdfa9cdb",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 May 2026 (meeting - 6)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0d2caaa9-6dd5-45bc-92d9-8fff5a5b8b12",
+   "date": "2026-05-22",
+   "status": "present",
+   "title": "National Assembly Meeting - 22 May 2026 (meeting - 7)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0a46e963-b5ac-4161-8d0b-5bf0ce0f1e7f",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 8)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e8ce07c6-e45d-461a-99d0-bcf81fb53bb1",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 9)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70693fb3-5619-4b43-bdd4-1c38805505cc",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 May 2026 (meeting - 10)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cd08e75b-6b46-4a8d-98c5-d2eee59579cd",
+   "date": "2026-05-31",
+   "status": "absent",
+   "title": "National Assembly Meeting - 31 May 2026 (meeting - 11)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bde7f356-a3ca-41e5-9a4e-234af5c502e2",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 June 2026 (meeting - 12)",
+   "scope": "house"
+  },
+  {
+   "meeting": "eb4a3fba-8ca6-4d9f-ad8a-b0bd1d392424",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 June 2026 (meeting - 13)",
+   "scope": "house"
+  },
+  {
+   "meeting": "79d1d024-e07f-41b8-a88e-0d9c26214312",
+   "date": "2026-06-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 June 2026 (meeting - 14)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0ab0fd72-a167-4d1c-896b-2357a38bbdea",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 June 2026 (meeting - 15)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2b340ddb-4636-4887-83d4-13da1f78f574",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 June 2026 (meeting - 16)",
+   "scope": "house"
+  },
+  {
+   "meeting": "9415d891-8226-4118-8e91-13c826c68987",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 June 2026 (meeting - 17)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed5546ea-7e70-4a7f-9abd-1d89b63cfd4c",
+   "date": "2026-06-15",
+   "status": "absent",
+   "title": "National Assembly Meeting - 15 June 2026 (meeting - 18)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e468aa74-a5f8-43c5-84e1-1e3c5bbbbacd",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 June 2026 (meeting - 19)",
+   "scope": "house"
+  },
+  {
+   "meeting": "18a91901-a356-4323-a79d-cfc675e42b3f",
+   "date": "2026-06-26",
+   "status": "present",
+   "title": "National Assembly Meeting - 26 June 2026 (meeting - 20)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ba69d1ef-9132-4d16-a771-73fe816de4da",
+   "date": "2026-06-29",
+   "status": "absent",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 22)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d37078a9-899c-42bd-824e-fd65b950eeac",
+   "date": "2026-06-29",
+   "status": "absent",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 21)",
+   "scope": "house"
+  },
+  {
+   "meeting": "25487fc3-3ec1-42cb-9c25-f27a4cdfce5f",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 July 2026 (meeting - 23)",
+   "scope": "house"
+  },
+  {
+   "meeting": "69663f43-5218-46b2-b7e8-36509d125609",
+   "date": "2026-07-02",
+   "status": "absent",
+   "title": "National Assembly Meeting - 2 July 2026 (meeting - 24)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ca327155-822c-4a1e-8bbf-5f9b8063f9cf",
+   "date": "2026-07-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 July 2026 (meeting - 25)",
+   "scope": "house"
+  },
+  {
+   "meeting": "12cea91d-36b3-4254-84d2-02d8cbc41089",
+   "date": "2026-07-04",
+   "status": "present",
+   "title": "National Assembly Meeting - 4 July 2026 (meeting - 26)",
+   "scope": "house"
+  },
+  {
+   "meeting": "96a44541-6342-4c19-a81a-57eb13fc771c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 July 2026 (meeting - 27)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45d95279-6457-4675-9408-3abee3b6523d",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 29)",
+   "scope": "house"
+  },
+  {
+   "meeting": "db2f5a91-a851-4f06-bc50-db95ce7a2fc7",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 28)",
+   "scope": "house"
+  },
+  {
+   "meeting": "154f8ef2-2471-4dd4-ad0b-a9a5f1aecfc9",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 31)",
+   "scope": "house"
+  },
+  {
+   "meeting": "19d3c9a1-97eb-4328-bf39-716ce7dea5d2",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 30)",
+   "scope": "house"
+  },
+  {
+   "meeting": "07850fd1-a44e-4e95-874b-791878177e0c",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 July 2026 (meeting - 32)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bcadcac6-6d83-4049-a6b5-e5cf06d76237",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 July 2026 (meeting - 33)",
+   "scope": "house"
+  },
+  {
+   "meeting": "1661bf03-a5c5-4042-aea4-9283a41c872c",
+   "date": "2026-07-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 July 2026 (meeting - 34)",
+   "scope": "house"
+  },
+  {
+   "meeting": "51e3bc09-e109-4e3d-a21a-20fbbb492767",
+   "date": "2026-08-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 August 2026 (meeting - 35)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffd2887e-139c-4b8a-b076-b8a888a2122a",
+   "date": "2026-08-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 August 2026 (meeting - 36)",
+   "scope": "house"
+  },
+  {
+   "meeting": "144d7edb-afe7-4f7d-bfd3-09ad1e930095",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 August 2026 (meeting - 37)",
+   "scope": "house"
+  },
+  {
+   "meeting": "46b638ef-ccb8-443d-acb6-310d54f059bc",
+   "date": "2026-08-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 August 2026 (meeting - 38)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a2168419-270d-405f-a97c-6866c02de391",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "National Assembly Meeting - 17 August 2026 (meeting - 39)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bf7614ba-9702-4b0d-85d0-8c5677cd4ef6",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 August 2026 (meeting - 40)",
+   "scope": "house"
+  },
+  {
+   "meeting": "7a2ace4e-5de6-4d5e-b11c-adec7998ea2c",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 August 2026 (meeting - 41)",
+   "scope": "house"
+  },
+  {
+   "meeting": "360a4a55-8539-4468-9e07-db9c6937aab4",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfda1afa-b682-44af-b789-21799769cad3",
+   "date": "2026-09-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 September 2026 (meeting - 43)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ab3ec7c6-8938-4991-b080-c23a004c0da7",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 September 2026 (meeting - 44)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6dcd27d8-619d-418c-8478-e88c2768fcca",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 September 2026 (meeting - 45)",
+   "scope": "house"
+  },
+  {
+   "meeting": "8924eb62-f890-42b0-a761-3ccf1e6aaf8c",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "National Assembly Meeting - 16 September 2026 (meeting - 46)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2c2cb199-1d6f-48b3-917e-8ce5884f77cf",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 September 2026 (meeting - 47)",
+   "scope": "house"
+  },
+  {
+   "meeting": "28c0eb2c-fb0a-442d-99d6-c3ff0888bd56",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 September 2026 (meeting - 48)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c8a9eb6-8958-492e-8544-14db02296cf6",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "National Assembly Meeting - 24 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67df4763-29f5-4ab0-9a5b-3e657a8126d0",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "National Assembly Meeting - 28 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0b876761-92e0-4cae-9dad-1a0bbeb86991",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 October 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70c44e42-f9cb-4279-8371-3965645bb492",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 October 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2881315a-6b22-4df9-9e45-f832373b30f2",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint)",
+   "scope": "committee"
+  },
+  {
+   "meeting": "4babfd8c-29f2-44fa-be96-3306e36316d8",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 757",
+   "scope": "committee"
+  },
+  {
+   "meeting": "61cc53da-5149-4e0d-a384-8e1be8c8ab8c",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 755",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e4fba0df-de64-43d5-8342-ff86923ea9f5",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 756",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1eb102bc-78de-4f10-b858-74b0d1187bcb",
+   "date": "2026-07-09",
+   "status": "absent",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 8",
+   "scope": "committee"
+  },
+  {
+   "meeting": "cd5f465c-d571-44a4-bf27-55cfd99ddead",
+   "date": "2026-07-09",
+   "status": "absent",
+   "title": "Committee for Legislation Management - Meeting 759",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e3ac8a70-fbb9-480e-9354-6b551ebc9b9b",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 758",
+   "scope": "committee"
+  },
+  {
+   "meeting": "c808a349-973c-45db-b082-f08298448ab5",
+   "date": "2026-07-20",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 760",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b418199f-e430-4382-bbf8-05695cfff5d6",
+   "date": "2026-07-21",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f11715ff-f92d-422f-ab1d-21fcddb0da04",
+   "date": "2026-07-21",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 9",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d9023e4d-bcfd-4788-accb-6abe14effa2a",
+   "date": "2026-07-24",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 761",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e0456dc3-6eea-4d25-aca7-9e6cef6e143c",
+   "date": "2026-07-27",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 2",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e08a93a2-e76e-40b5-94a4-8838fa8554fd",
+   "date": "2026-07-28",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 10",
+   "scope": "committee"
+  },
+  {
+   "meeting": "773c125e-91e1-433b-afb4-211b618659a9",
+   "date": "2026-07-29",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 13",
+   "scope": "committee"
+  },
+  {
+   "meeting": "81880016-d914-4935-a738-b36e89f37fb2",
+   "date": "2026-07-29",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 11",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e211e977-a7b0-4a09-abf0-06d0a21285c2",
+   "date": "2026-07-29",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 12",
+   "scope": "committee"
+  },
+  {
+   "meeting": "9918a918-59ea-490e-bf3f-12452aec8b73",
+   "date": "2026-07-30",
+   "status": "absent",
+   "title": "Committee for Legislation Management - Meeting 762",
+   "scope": "committee"
+  },
+  {
+   "meeting": "af44c2bb-8a40-46fa-a2d9-df1cfd02cc69",
+   "date": "2026-07-30",
+   "status": "absent",
+   "title": "Committee for Legislation Management - Meeting 763",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d7b08b74-bfe9-4421-858f-2cc619099882",
+   "date": "2026-08-01",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 763",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e45426e0-b304-4a57-877a-7ee8d1d8a37a",
+   "date": "2026-08-01",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 765",
+   "scope": "committee"
+  },
+  {
+   "meeting": "6b443986-53c6-43d0-8c9e-d92c3506e638",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 3",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ddd3b454-64af-4b6a-982d-229e66bae0eb",
+   "date": "2026-08-05",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 4",
+   "scope": "committee"
+  },
+  {
+   "meeting": "25727779-ed09-4137-875d-e8ec62c087fc",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 766",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3c75d68f-33ba-4662-bfb8-2c86dc02ee17",
+   "date": "2026-08-20",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 767",
+   "scope": "committee"
+  },
+  {
+   "meeting": "cb5060c4-2055-4714-9f4b-e52eb4108709",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 14",
+   "scope": "committee"
+  },
+  {
+   "meeting": "9183084a-c884-4c72-a708-ce47d6a59511",
+   "date": "2026-08-24",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 768",
+   "scope": "committee"
+  },
+  {
+   "meeting": "4c9990a5-ba00-42bf-b036-a0be7bf71338",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 769",
+   "scope": "committee"
+  },
+  {
+   "meeting": "6c1e3741-1896-43df-99ac-cdaf53da364f",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 5",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e6c15240-6e52-49e7-b98c-88c3837039df",
+   "date": "2026-08-27",
+   "status": "present",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting ६",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3c0b8225-877e-49b0-ae1b-354f39abcc89",
+   "date": "2026-08-31",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 770",
+   "scope": "committee"
+  },
+  {
+   "meeting": "021c1b25-17bc-4853-866c-13d5647bb5b5",
+   "date": "2026-09-02",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 771",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b1cd4fc8-04b6-4a51-83e9-950c3fbabbe1",
+   "date": "2026-09-03",
+   "status": "absent",
+   "title": "Legislative Interrelations Study Recommendation Subcommittee - Meeting 7",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d9f38656-9db9-4f35-9e4d-bb92a6938045",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 772",
+   "scope": "committee"
+  },
+  {
+   "meeting": "862d5e06-52b4-4aa1-883a-2d32d9f52354",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 773",
+   "scope": "committee"
+  },
+  {
+   "meeting": "af8997d7-a898-40ea-ba2b-161fdd633ae7",
+   "date": "2026-09-13",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 774",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b4bf2429-c84d-406c-928f-0eeafc23539a",
+   "date": "2026-09-13",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 775",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3fec3687-7d77-4103-9f28-2f8bd3585318",
+   "date": "2026-09-14",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 776",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f79e3ad5-b87e-4f08-aa7a-7004efb0ce31",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 778",
+   "scope": "committee"
+  },
+  {
+   "meeting": "fafea7c7-b85f-4401-af9f-e56fd1eaff49",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 777",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1424bf3d-68a2-4fbb-b956-efd18f57f663",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 15",
+   "scope": "committee"
+  },
+  {
+   "meeting": "39daf5c1-d7e4-45be-8d52-8ad9fc2b07f9",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 780",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f6264233-d1bb-4d09-8e3f-71e91d1f9b6e",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 779",
+   "scope": "committee"
+  },
+  {
+   "meeting": "30e55051-15e6-4742-9082-fb838a26dd59",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 781",
+   "scope": "committee"
+  },
+  {
+   "meeting": "702885e2-93ea-4ba3-b301-a21ade00ff22",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 782",
+   "scope": "committee"
+  },
+  {
+   "meeting": "4ecabfa2-427a-4398-8902-d0f3a22da730",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 783",
+   "scope": "committee"
+  },
+  {
+   "meeting": "31b59369-2c82-420f-95c9-904a514836d5",
+   "date": "2026-10-03",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 784",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1e197552-80f7-4eb6-b987-4f8fae8196f2",
+   "date": "2026-10-06",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 16",
+   "scope": "committee"
+  },
+  {
+   "meeting": "cc155678-092e-4a0c-b876-d8c8e59c3644",
+   "date": "2026-10-12",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 18",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ec09d9bc-1ec2-4cf5-b4b2-0f1dc1982ce0",
+   "date": "2026-10-12",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 17",
+   "scope": "committee"
+  },
+  {
+   "meeting": "a3d797ba-65d5-4e73-a611-36e69257450d",
+   "date": "2026-10-13",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 19",
+   "scope": "committee"
+  },
+  {
+   "meeting": "dc13f970-9a75-4673-8e24-02ae18a490f1",
+   "date": "2026-10-13",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 20",
+   "scope": "committee"
+  },
+  {
+   "meeting": "24771de4-2732-4d7e-a21d-cf00b0399b62",
+   "date": "2026-10-14",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 23",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3ad3b817-cf16-4dbc-87d1-2d08ffbc0d02",
+   "date": "2026-10-14",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 21",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8536a0b8-d1bb-446d-9a52-5446fc7383ea",
+   "date": "2026-10-14",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 22",
+   "scope": "committee"
+  },
+  {
+   "meeting": "edfaaf1f-7296-40c0-bb27-ebe2aaaaa2c0",
+   "date": "2026-10-30",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 785",
+   "scope": "committee"
+  },
+  {
+   "meeting": "a88c0561-6dd4-4581-b42b-33b9794e5846",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 786",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e822cbd1-87d6-4ade-92e2-b1b8cf9e58d7",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 24",
+   "scope": "committee"
+  },
+  {
+   "meeting": "86ad6e06-afd1-45f1-8b23-ac219225165e",
+   "date": "2026-11-03",
+   "status": "present",
+   "title": "Committee for Legislation Management - Meeting 787",
+   "scope": "committee"
+  },
+  {
+   "meeting": "214cf87e-0037-4dcf-a2c1-b1f7994b84d3",
+   "date": "2026-11-05",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 25",
+   "scope": "committee"
+  },
+  {
+   "meeting": "a28214b6-6cfd-46c2-a8c1-adb0eabf83c6",
+   "date": "2026-11-06",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 26",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f5006f36-4953-4048-8c35-afdb3e30b15b",
+   "date": "2026-11-06",
+   "status": "present",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 27",
+   "scope": "committee"
+  },
+  {
+   "meeting": "c3e1734c-6e81-40ad-919a-da9d6f0f04e6",
+   "date": "2026-11-07",
+   "status": "absent",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 29",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ee7753fd-7a73-4d0b-9369-8a9bf11938d3",
+   "date": "2026-11-07",
+   "status": "absent",
+   "title": "Parliamentary Hearing Committee (Joint) - Meeting 28",
+   "scope": "committee"
+  }
+ ]
+}

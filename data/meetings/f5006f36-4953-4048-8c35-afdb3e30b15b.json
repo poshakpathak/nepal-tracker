@@ -1,0 +1,78 @@
+{
+ "id": "f5006f36-4953-4048-8c35-afdb3e30b15b",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 27",
+ "date": "2026-11-06",
+ "duration": "4 hr 15 min",
+ "start": "1:45 PM",
+ "end": "6:00 PM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) सर्वोच्च अदालतका प्रस्तावित न्यायाधीश",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "absent"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "absent"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "absent"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "absent"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "absent"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "absent"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 8,
+ "members": 15,
+ "recording": null
+}

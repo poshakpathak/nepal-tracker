@@ -1,0 +1,46 @@
+{
+ "id": "c9c1fdb6-3a9c-4f13-aa1e-d44ee7f9d356",
+ "title": "Public Finance Subcommittee - Meeting 11",
+ "date": "2026-07-13",
+ "duration": "1 hr",
+ "start": "11:00 AM",
+ "end": "12:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "Agenda not available yet",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "sushil-khadka",
+   "status": "present"
+  },
+  {
+   "member": "krishna-kumar-karki",
+   "status": "present"
+  },
+  {
+   "member": "khadak-bahadur-budha",
+   "status": "present"
+  },
+  {
+   "member": "nitima-bhandari-karki",
+   "status": "present"
+  },
+  {
+   "member": "parshuram-tamang",
+   "status": "present"
+  },
+  {
+   "member": "puspa-raj-kadel",
+   "status": "absent"
+  },
+  {
+   "member": "vidushi-rana",
+   "status": "absent"
+  }
+ ],
+ "present": 5,
+ "members": 7,
+ "recording": null
+}

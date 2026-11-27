@@ -1,0 +1,46 @@
+{
+ "id": "20de76b4-b683-40d7-b591-bd03e22dd3fd",
+ "title": "Petition Study and Recommendation Subcommittee, 2026 - Meeting 1",
+ "date": "2026-09-09",
+ "duration": "2 hr",
+ "start": "11:00 AM",
+ "end": "1:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Samikchya Baskota",
+ "agenda": "बैठकको कार्यसूचीः-",
+ "minutes": "आर्थिक वर्ष २०८२/०८३ को दर्ता नम्बर १ र २ मा रहेका उजुरीका सम्बन्धमा छलफल भयो। यस विषयमा उपसमितिको आगामी बैठकमा थप छलफल गर्ने।",
+ "attendance": [
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "balawati-sharma",
+   "status": "present"
+  },
+  {
+   "member": "manmaya-bishowkarma",
+   "status": "present"
+  },
+  {
+   "member": "sajida-khatun-siddqui",
+   "status": "present"
+  },
+  {
+   "member": "saraswoti-lama",
+   "status": "present"
+  },
+  {
+   "member": "susma-swranakar-dimpal",
+   "status": "present"
+  },
+  {
+   "member": "rubina-acharya",
+   "status": "present"
+  }
+ ],
+ "present": 7,
+ "members": 7,
+ "recording": null
+}

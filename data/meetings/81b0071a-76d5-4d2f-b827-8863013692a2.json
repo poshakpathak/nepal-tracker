@@ -1,0 +1,42 @@
+{
+ "id": "81b0071a-76d5-4d2f-b827-8863013692a2",
+ "title": "Fiscal Federalism Study Committee - Meeting 2",
+ "date": "2026-07-10",
+ "duration": "2 hr 30 min",
+ "start": "9:30 AM",
+ "end": "12:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Krishna Hari Budhathoki",
+ "agenda": "संघीय संसद प्रतिनिधि सभा, अर्थ समिति अन्तर्गत गठित वित्तीय संघीयता अध्ययन उपसमितिको बैठक उपसमितिका",
+ "minutes": "आजको बैठकमा वित्तीय संघीयताका सम्बन्धमा छलफल भयो।",
+ "attendance": [
+  {
+   "member": "sushant-vaidik",
+   "status": "present"
+  },
+  {
+   "member": "dev-raj-pathak",
+   "status": "absent"
+  },
+  {
+   "member": "narendra-kumar-kerung",
+   "status": "present"
+  },
+  {
+   "member": "puspa-kumari-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "bharat-giri",
+   "status": "present"
+  },
+  {
+   "member": "rajesh-kumar-chaudhary",
+   "status": "absent"
+  }
+ ],
+ "present": 4,
+ "members": 6,
+ "recording": null
+}

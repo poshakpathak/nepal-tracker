@@ -1,0 +1,38 @@
+{
+ "id": "df252b6f-9707-49d6-804c-752044bb3118",
+ "title": "Education Committee - Meeting 7",
+ "date": "2026-09-10",
+ "duration": "1 hr",
+ "start": "11:00 AM",
+ "end": "12:00 PM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "१. भोटेकोशी नदीमा आएको विनाशकारी बाढीबाट प्रभावित क्षेत्रमा स्वास्थ्य तथा खाद्य स्वच्छता मन्त्रालय अन्तर्गत भएको क्षति, उद्धार, राहत एवम् पुनःस्थापनाका सम्बन्धमा भएका/भइरहेका कार्य, कार्यसम्पादनका क्रममा देखा परेका समस्या/चुनौती र आगामी दिनमा मन्त्रालयले अवलम्बन गर्ने",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ganesh-poudel",
+   "status": "present"
+  },
+  {
+   "member": "guru-prasad-baral",
+   "status": "absent"
+  },
+  {
+   "member": "jagat-prasad-joshi",
+   "status": "present"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "present"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "present"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

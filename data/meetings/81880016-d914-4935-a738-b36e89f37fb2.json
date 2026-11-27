@@ -1,0 +1,78 @@
+{
+ "id": "81880016-d914-4935-a738-b36e89f37fb2",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 11",
+ "date": "2026-07-29",
+ "duration": "35 min",
+ "start": "11:15 AM",
+ "end": "11:50 AM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१. प्रमुख निर्वाचन आयुक्तको पदमा प्रस्तावित व्यक्ति श्री मान बहादुर कार्की, मोरङका सम्बन्धमा उजुरी दिने उजुरीकर्तासँग छलफल गर्ने ।",
+ "minutes": "(१) समितिको आजको बैठकमा संवैधानिक परिषद्को २०८३ असार १९ को निर्णयानुसार निर्वाचन आयोगको प्रमुसख निर्वाचन आयुक्तको पदमा नियुक्तिका लागि प्रस्तावित श्री मान बहादुर कार्की, मोरङका विरुद्धमा समितिमा उजुरी दिने उजुरीकर्ता श्री भेषराज लुइटेललाई समितिसमक्ष आमन्त्रण गरी छलफल गरियो।",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "absent"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 13,
+ "members": 15,
+ "recording": null
+}

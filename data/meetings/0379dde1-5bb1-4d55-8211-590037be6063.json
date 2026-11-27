@@ -1,0 +1,50 @@
+{
+ "id": "0379dde1-5bb1-4d55-8211-590037be6063",
+ "title": "Committee Consultation and Coordination Subcommittee - Meeting 1",
+ "date": "2026-07-08",
+ "duration": "2 hr",
+ "start": "4:00 AM",
+ "end": "6:00 AM",
+ "state": "concluded",
+ "body": "House of Representatives Committee",
+ "chair": "Dr. Ojaswee Sherchan",
+ "agenda": "कार्यसूची",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "ojaswee-sherchan",
+   "status": "absent"
+  },
+  {
+   "member": "pukar-bom",
+   "status": "absent"
+  },
+  {
+   "member": "prabha-dhakal",
+   "status": "absent"
+  },
+  {
+   "member": "ringla-yadav",
+   "status": "absent"
+  },
+  {
+   "member": "ramesh-kumar-malla",
+   "status": "absent"
+  },
+  {
+   "member": "radhika-ramtel",
+   "status": "absent"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "sita-thapaliya",
+   "status": "absent"
+  }
+ ],
+ "present": 0,
+ "members": 8,
+ "recording": null
+}

@@ -1,0 +1,78 @@
+{
+ "id": "2881315a-6b22-4df9-9e45-f832373b30f2",
+ "title": "Parliamentary Hearing Committee (Joint)",
+ "date": "2026-07-01",
+ "duration": "2 hr 10 min",
+ "start": "9:00 AM",
+ "end": "11:10 AM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "आगामी सुनुवाइ सम्बन्धी कार्यहरूमा आन्तरिक तयारी गर्ने सम्बन्धमा ।",
+ "minutes": "(१) संसदीय सुनुवाइसम्बन्धी विभिन्‍न अन्तर्राष्ट्रिय तथा राष्ट्रिय अभ्यास, विद्यमान कानुनी व्यवस्था, संसदीय सुनुवाइ प्रक्रियामा देखिएका चुनौती तथा सुधारका सम्भावित उपायहरूका सम्बन्धमा समिति सचिव श्री तुलबहादुर कँडेलबाट प्रस्तुतीकरण भइ समितिका माननीय सदस्यहरूले उक्त प्रस्तुतीमा प्रतिक्रिया तथा सुझावहरू राख्‍नुभयो।",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "absent"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "present"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "absent"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 11,
+ "members": 15,
+ "recording": null
+}

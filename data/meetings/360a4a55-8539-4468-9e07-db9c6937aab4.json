@@ -1,0 +1,246 @@
+{
+ "id": "360a4a55-8539-4468-9e07-db9c6937aab4",
+ "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+ "date": "2026-08-25",
+ "duration": "25 min",
+ "start": "10:15 AM",
+ "end": "10:40 AM",
+ "state": "concluded",
+ "body": "National Assembly",
+ "chair": null,
+ "agenda": null,
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "anjan-shakya",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "uday-bahadur-bohara",
+   "status": "present"
+  },
+  {
+   "member": "urmila-aryal",
+   "status": "present"
+  },
+  {
+   "member": "kamala-devi-pant",
+   "status": "present"
+  },
+  {
+   "member": "kiran-babu-shrestha",
+   "status": "absent"
+  },
+  {
+   "member": "krishna-prasad-paudel",
+   "status": "present"
+  },
+  {
+   "member": "krishna-prasad-sitaula",
+   "status": "present"
+  },
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "khamma-bahadur-khati",
+   "status": "present"
+  },
+  {
+   "member": "gita-devkota",
+   "status": "present"
+  },
+  {
+   "member": "gopal-kumar-basnet",
+   "status": "absent"
+  },
+  {
+   "member": "goma-devi-timilsina",
+   "status": "absent"
+  },
+  {
+   "member": "ghanashyam-rijal",
+   "status": "present"
+  },
+  {
+   "member": "chandra-bahadur-kc",
+   "status": "present"
+  },
+  {
+   "member": "jagat-timilsina",
+   "status": "present"
+  },
+  {
+   "member": "jagat-bahadur-parki",
+   "status": "absent"
+  },
+  {
+   "member": "jayanti-devi-rai",
+   "status": "present"
+  },
+  {
+   "member": "jit-jung-basnet",
+   "status": "absent"
+  },
+  {
+   "member": "jhakku-prasad-subedi",
+   "status": "absent"
+  },
+  {
+   "member": "tul-prasad-bishwakarma",
+   "status": "present"
+  },
+  {
+   "member": "durga-kumari-gurung",
+   "status": "absent"
+  },
+  {
+   "member": "dharmendra-paswan",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "narayan-datta-bhatta",
+   "status": "absent"
+  },
+  {
+   "member": "narayan-dutta-mishra",
+   "status": "present"
+  },
+  {
+   "member": "narayan-prasad-dahal",
+   "status": "present"
+  },
+  {
+   "member": "padam-bahadur-pariyar",
+   "status": "present"
+  },
+  {
+   "member": "puja-chaudhary",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "bhuban-bahadur-sunar",
+   "status": "present"
+  },
+  {
+   "member": "madan-kumari-shah-garima",
+   "status": "present"
+  },
+  {
+   "member": "manrupa-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "mahanth-thakur",
+   "status": "present"
+  },
+  {
+   "member": "mina-singh-rakhal",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "yuvraj-sharma",
+   "status": "absent"
+  },
+  {
+   "member": "ranjeet-karn",
+   "status": "present"
+  },
+  {
+   "member": "rajendra-laxmi-gaire",
+   "status": "present"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "absent"
+  },
+  {
+   "member": "rukmini-koirala",
+   "status": "present"
+  },
+  {
+   "member": "rekha-kumari-jha",
+   "status": "present"
+  },
+  {
+   "member": "renu-chand",
+   "status": "present"
+  },
+  {
+   "member": "roshani-meche",
+   "status": "present"
+  },
+  {
+   "member": "lalit-jung-shahi",
+   "status": "absent"
+  },
+  {
+   "member": "lila-kumari-bhandari",
+   "status": "present"
+  },
+  {
+   "member": "basu-dev-ghimire",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-kumari-sapkota",
+   "status": "present"
+  },
+  {
+   "member": "shree-krishna-prasad-adhikari",
+   "status": "present"
+  },
+  {
+   "member": "samjhana-devkota",
+   "status": "absent"
+  },
+  {
+   "member": "sabitri-malla",
+   "status": "present"
+  },
+  {
+   "member": "sunil-bahadur-thapa",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "absent"
+  },
+  {
+   "member": "sonam-gyalzen-sherpa",
+   "status": "present"
+  },
+  {
+   "member": "somnath-portel",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-devi-pudasaini",
+   "status": "present"
+  },
+  {
+   "member": "bishnu-bahadur-bishokarma",
+   "status": "absent"
+  }
+ ],
+ "present": 40,
+ "members": 57,
+ "recording": "https://www.youtube.com/watch?v=4qwYByeuriA"
+}

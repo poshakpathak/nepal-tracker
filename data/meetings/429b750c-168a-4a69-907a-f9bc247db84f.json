@@ -1,0 +1,38 @@
+{
+ "id": "429b750c-168a-4a69-907a-f9bc247db84f",
+ "title": "Task Consultation Subcommittee - Meeting 31",
+ "date": "2026-11-04",
+ "duration": "45 min",
+ "start": "3:15 PM",
+ "end": "4:00 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Krishna Bahadur Rokaya",
+ "agenda": "Agenda not available yet",
+ "minutes": "आज यस कार्य परामर्श उपसमितिका संयोजक तथा समितिका मा. सभापति कृष्ण बहादुर रोकायको संयोजकत्वमा बसेको उपसमितिको बैठकमा विधायन व्यवस्थापन समितिको मिति २०८३ कात्तिक १७ गते बसेको बैठकबाट विधायिकी अन्तरसम्बन्ध तथा ऐनको कार्यान्वयन मापन सम्बन्धी अध्ययन अनुगमन गर्नको लागि छनौट भएका मधेश प्रदेश र सुदुरपश्चिम प्रदेशमा तपसिल बमोजिमका विज्ञहरू उपलव्धताको आधारमा छनौट गर्ने निर्णय भयो ।",
+ "attendance": [
+  {
+   "member": "krishna-bahadur-rokaya",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "mohammed-khalid",
+   "status": "absent"
+  },
+  {
+   "member": "ram-kumari-jhakri",
+   "status": "present"
+  },
+  {
+   "member": "suresh-kumar-ale-magar",
+   "status": "present"
+  }
+ ],
+ "present": 4,
+ "members": 5,
+ "recording": null
+}

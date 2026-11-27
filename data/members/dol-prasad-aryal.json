@@ -1,0 +1,1234 @@
+{
+ "slug": "dol-prasad-aryal",
+ "name": "Speaker Dol Prasad Aryal",
+ "name_ne": "सभामुख डोल प्रसाद अर्याल",
+ "chamber": "hor",
+ "party": "Rastriya Swatantra Party",
+ "party_ne": "राष्ट्रिय स्वतन्त्र पार्टी",
+ "party_id": "707d9fcf-505e-45ea-985c-f0c62f037c44",
+ "seat": "Kathmandu-9",
+ "district": null,
+ "election": "direct",
+ "gender": "male",
+ "role": "MP",
+ "education": null,
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/0dGGV5vbQJU6eu4V9moQf8IUu8Bv8EeDi4sIc1MY-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 100,
+   "total": 71,
+   "present": 71,
+   "absent": 0
+  }
+ },
+ "statements": [
+  {
+   "id": "8531ce9c-384c-4587-aced-7b226c51a3d9",
+   "kind": "रामराजा प्रसाद सिंह स्वास्थ्य विज्ञान प्रतिष्ठान विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/iqrujedrf6f1vt88.mp4?central=1&type=hr",
+   "text": "Deliberation on the Ramraja Prasad Singh Institute of Health Sciences Bill, 2083"
+  },
+  {
+   "id": "17d90589-a143-4ac2-a74c-1bce147e4626",
+   "kind": "रामराजा प्रसाद सिंह स्वास्थ्य विज्ञान प्रतिष्ठान विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wx8mnypkgleaxewk.mp4?central=1&type=hr",
+   "text": "Deliberation on the Ramraja Prasad Singh Institute of Health Sciences Bill, 2083"
+  },
+  {
+   "id": "ee3159a0-d83c-4ba6-a223-0c6d7525da9f",
+   "kind": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lngpdaqkviyut2yt.mp4?central=1&type=hr",
+   "text": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083"
+  },
+  {
+   "id": "1ffb12a5-a7d0-4e10-bc55-ec45f6cba08b",
+   "kind": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/q0y6oprlwcyqqbwm.mp4?central=1&type=hr",
+   "text": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083"
+  },
+  {
+   "id": "017414a7-d144-4cc5-a1b5-a4de1e700fdd",
+   "kind": "Discussion on the National Defense University Bill, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/s5hcyvgyjyecwzrh.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "46c6e24c-348b-4772-a7f5-fb12309c58d9",
+   "kind": "Discussion on the 'Healthcare Workers and Health Institutions Safety (Second Amendment) Bill, 2083'",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vhofgs6eiajccwis.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "2ace63b3-727a-4f04-bf10-777097be35f5",
+   "kind": "Deliberation on the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/f3auzdmedzwjruay.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "fd032b90-6815-4872-b3a3-7dbf195a4f1a",
+   "kind": "Discussion on the Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ljxtktflpghcp3ru.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "51d67265-ca93-413a-8b44-84cf6c043a74",
+   "kind": "Discussion on the Bill to Amend Certain Nepal Acts Related to Women, Children, Gender and Sexual Minorities, and Social Security, 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1g64r9p16hz0my1n.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "57e7b8ad-4ad7-4901-aa65-5dab93a3da09",
+   "kind": "Discussion on the \"Waste Management Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/upqbhpuwml69gfay.mp4?central=1&type=hr",
+   "text": "Presented for decision"
+  },
+  {
+   "id": "1825903e-810c-44c2-a94a-399d4c2fc84a",
+   "kind": "\"Free Legal Aid Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5vp82edhdvpjadxh.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "85fc8439-fc86-46d9-a2fa-c05001ca1e77",
+   "kind": "Discussion on the \"Contagious Animal Diseases (Control) Bill, 2083\"",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xffubkzl5ujnlrhu.mp4?central=1&type=hr",
+   "text": "Presentation of the Infectious Animal Disease (Control) Bill, 2083 for discussion/decision."
+  },
+  {
+   "id": "8b238249-20e3-4d7b-bafc-e598bd052629",
+   "kind": "Discussion on the \"Payment and Settlement (First Amendment) Bill, 2083\"",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vjmhy9uffwqdzq0p.mp4?central=1&type=hr",
+   "text": "Discussion on the \"Payment and Settlement (First Amendment) Bill, 2083\""
+  },
+  {
+   "id": "ebe7d8d6-1d83-4b58-a84e-36e698845adc",
+   "kind": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/pktkavjzlrpvdvcq.mp4?central=1&type=hr",
+   "text": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083"
+  },
+  {
+   "id": "4ab11a91-bd15-4c81-86ed-cb77ad4d1166",
+   "kind": "other",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/4wwcaimjaegevpid.mp4?central=1&type=hr",
+   "text": "Formation of special committee"
+  },
+  {
+   "id": "33259a9d-feff-4a74-ae15-584ea5ab2863",
+   "kind": "other",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/gqcd6jp8bxmmv56e.mp4?central=1&type=hr",
+   "text": "Honorable Speaker"
+  },
+  {
+   "id": "1ef4b26e-13bc-44a5-8e6e-dc1f27bef38c",
+   "kind": "other",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ppk6qr6nsse62fyx.mp4?central=1&type=hr",
+   "text": "Letter from the President's Office"
+  },
+  {
+   "id": "5654d7c7-2600-40f1-bd3d-9899c8c39496",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/6mhlkcb2wv7idslu.mp4?central=1&type=hr",
+   "text": "Presentation of the \"National Service Corps Bill, 2083\" for discussion/decision."
+  },
+  {
+   "id": "0e9dd8d8-f715-4c80-9dc4-afce0c4b1981",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dafbyaudy0heedmt.mp4?central=1&type=hr",
+   "text": "Presentation of the \"National Service Corps Bill, 2083\" for discussion/decision."
+  },
+  {
+   "id": "466953c6-7cee-4c17-881e-65689be82a6a",
+   "kind": "Honorable Minister for Women, Children, Gender and Sexual Minorities, and Social Security, Sita Badi, presenting the motion that \"the Bill Relating to Children (First Amendment), 2083, be referred to the concerned committee for clause-by-clause deliberati",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/gz1yagoddj6huw74.mp4?central=1&type=hr",
+   "text": "Honorable Minister for Women, Children, Gender and Sexual Minorities, and Social Security, Sita Badi, presenting the motion that \"the Bill Relating to Children (First Amendment), 2083, be referred to the concerned committee for clause-by-clause deliberation.\" / Submitted for a decision."
+  },
+  {
+   "id": "94744d5d-0f60-47d5-8ee3-92cf8d3558f1",
+   "kind": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nat",
+   "context": "House of Representatives - 17th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/jntnbzowd9dun3yd.mp4?central=1&type=hr",
+   "text": "Presented for decision"
+  },
+  {
+   "id": "4b7358e2-5502-4036-963c-1f69b7fed863",
+   "kind": "other",
+   "context": "House of Representatives - 26th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5cmqve4dtanaldwf.mp4?central=1&type=hr",
+   "text": "Honorable Speaker"
+  },
+  {
+   "id": "9f9ce458-5862-40ce-b181-359db40be1f6",
+   "kind": "other",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wdcwqjta2qfqdqvt.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "7a7f7b46-2d93-4d4c-b078-da6cf2737519",
+   "kind": "other",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7ca675hk5c1oz7cx.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "b6f4e269-1503-4803-9dc4-2a0ddd49f4ac",
+   "kind": "other",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hffbfoh1c8o1xt0e.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "63b204cf-3b8d-49c0-bebe-4385211972e5",
+   "kind": "other",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/gj0xhppoojezr8w5.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "7bc36a0e-fa45-483c-ace5-0ea3d5716300",
+   "kind": "other",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/aqoaunvld3bh5xq9.mp4?central=1&type=hr",
+   "text": "Honorable Speaker"
+  },
+  {
+   "id": "de62194f-fc44-4e9f-b907-5c65aa943e85",
+   "kind": "Discussion on the \"Child Labor (Prohibition and Regularization) Bill, 2083\"",
+   "context": "House of Representatives - 19th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rvxsnp4mik5qtg4g.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "970f8386-ccef-4f1b-8ddc-76ebb5fadb4e",
+   "kind": "Discussion on the Passport First Amendment Bill, 2083",
+   "context": "House of Representatives - 18th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ucee1q3zdpkhrvgk.mp4?central=1&type=hr",
+   "text": "Presented for a decision"
+  },
+  {
+   "id": "87234e40-db15-42cf-9ada-0c65608ffad9",
+   "kind": "Presented for a decision",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/3z7e6odvha5asjzd.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "f4711a00-d117-4c8a-bfe2-a23997ed24be",
+   "kind": "Honorable Speaker",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/8qrcm1h4oiw0ltxy.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "fbf87150-aced-4521-b243-8a96ece67e34",
+   "kind": "Honorable Speaker",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/eqvlchm7pwqcvqsa.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "9bd7a961-661c-4c70-95b8-1837f25b8900",
+   "kind": "Honorable Speaker",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kyxo2xogvm8seguq.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "62b6d122-988f-4521-a495-bf5427b4b9df",
+   "kind": "Zero Hour",
+   "context": "House of Representatives - 11th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1fbeitqdwonju25x.mp4?central=1&type=hr",
+   "text": "Zero Hour"
+  },
+  {
+   "id": "de07a27d-f8af-48d4-bf41-595421da4bac",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/roym0kgzrccjscqk.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "2a7ba702-670c-4b6a-8c97-c15b89aff196",
+   "kind": "Others",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yrqqfnqycoppuas0.mp4?central=1&type=hr",
+   "text": "राष्ट्रपतिको कार्यालयको पत्र"
+  },
+  {
+   "id": "dfa60b48-7982-45af-aed8-7f9824a502cc",
+   "kind": "\"अर्थसम्बन्धी केही नेपाल कानूनलाई संशोधन र खारेज गर्ने बिधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/bi8mtwwf63x2wlbl.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "73dabef2-a6ee-47ce-b65e-218804ba71b1",
+   "kind": "\"अन्तर्राष्ट्रिय श्रम संगठनको बाध्यकारी श्रम महासन्धी, १९३० सम्बन्धी सन् २०१४ को प्रोटोकल नं. २९\" माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/29wyxabfsh2tgfwu.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "e9122c36-3fd5-4104-8b39-8bc138b90033",
+   "kind": "Others",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/pauuy1hmgevfrn4j.mp4?central=1&type=hr",
+   "text": "सम्माननीय सभामुख"
+  },
+  {
+   "id": "21eafae4-317d-4959-b538-586153c13726",
+   "kind": "Others",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/mpsrlsw6ucj1spir.mp4?central=1&type=hr",
+   "text": "सम्माननीय सभामुख"
+  },
+  {
+   "id": "e9e3c5a7-fde4-4eb6-83b7-fd3979c6a70b",
+   "kind": "Others",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/h0w9s6vms4qaxrdn.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "a75606d4-d854-416a-b58c-4e1c0d98abeb",
+   "kind": "श्रम महासन्धी १९३० प्रोटोकल नं. २९ माथिको छलफल",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ffzxi8pitpft0zzi.mp4?central=1&type=hr",
+   "text": "सम्माननीय सभामुख"
+  },
+  {
+   "id": "efdb9258-4e04-4360-a5c1-57f3915b3a2e",
+   "kind": "Others",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xspcdfpym4cd1dwo.mp4?central=1&type=hr",
+   "text": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयको पत्र"
+  },
+  {
+   "id": "b17add97-30c9-46a9-b301-a18314dbd966",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/asrdrixczbieewn8.mp4?central=1&type=hr",
+   "text": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल / निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "e37dce41-d5b9-4525-9558-33bbefe13f53",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xpgeph6pkzyb9vh4.mp4?central=1&type=hr",
+   "text": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि प्राप्त संशोधनहरूलाई निर्णयार्थ प्रस्तुत गर्नुहुँदै"
+  },
+  {
+   "id": "3d432f6e-11d7-4158-932f-1aa753387b70",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/0xnvm837hvzsg4dd.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "bd830a02-1b52-4b8b-8695-ebf31b1e323a",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/8hcg4pjflzgstlsr.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "5e5889a8-c5e2-4bf6-ba92-4801500adfe2",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/7mkl3qmdj2jtilla.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "fefd0a64-231f-4a73-876a-8bec21c9bcff",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5y6tx7w3hhueuem4.mp4?central=1&type=hr",
+   "text": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल / निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "bdb79a70-03ef-474a-9984-d633486eb458",
+   "kind": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rykuaariiiz35gco.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "703cd73c-6506-485b-a669-dee6527a2b0a",
+   "kind": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/a2bly4cogcp1fa6n.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "a15fb1a8-bb1b-47a4-8d2f-c6c6c761bd24",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rrbdsdc90lazcgzj.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "7a69e85b-f4bb-48bd-83d4-eea70c594adc",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/jhxt28ubx1eblnkp.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "3165ce28-73e2-4fcd-a8cf-79945766d1c1",
+   "kind": "Others meeting",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/phdxycotzmesqgo7.mp4?central=1&type=hr",
+   "text": "शोक प्रस्ताव"
+  },
+  {
+   "id": "9afaf169-ad89-4027-aa8f-90940db1c120",
+   "kind": "Others meeting",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/a7ntvkekrg9f8aas.mp4?central=1&type=hr",
+   "text": "सम्माननीय सभामुख"
+  },
+  {
+   "id": "998aed60-a841-464a-8f8f-a408fdf469bb",
+   "kind": "स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/j96b67ymnw0q4ldy.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "0160a1fe-3286-44fe-86c4-72ec30f08233",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/r7szzf4gxysanbz6.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "585ce640-1823-4a6a-83d1-bd76b68bca09",
+   "kind": "Sunday, (Second) / Discussion on the Public Procurement (Second Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rzgjyit3qwjlpirn.mp4?central=1&type=hr",
+   "text": "Discussion on the “Public Procurement (Second Amendment) Bill, 2083 BS” / Honorable Speaker"
+  },
+  {
+   "id": "20eee307-3216-4b9a-a45c-f959bba417b7",
+   "kind": "Sunday, (Second) / Discussion on the Public Procurement (Second Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/a6m0qvoqsy0bxhgz.mp4?central=1&type=hr",
+   "text": "Presentation of the Public Procurement (Second Amendment) Bill, 2083 for discussion/decision."
+  },
+  {
+   "id": "44414a63-967f-4b7e-8870-9aefaf1ee70b",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/u4echqe6xbvzy5ny.mp4?central=1&type=hr",
+   "text": "सम्माननीय सभामुख"
+  },
+  {
+   "id": "9faff628-6db2-4418-8ad5-dbf49c653bc1",
+   "kind": "Others",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/muhm5kxdnhch5ynz.mp4?central=1&type=hr",
+   "text": "राष्ट्रपतिको कार्यालयको पत्र"
+  },
+  {
+   "id": "97bfa371-ccf8-4ee1-8c44-b59e43ecdbf2",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kh7uazcaoc0jcvx4.mp4?central=1&type=hr",
+   "text": "Decision presented"
+  },
+  {
+   "id": "fc15d162-d4b8-456d-aa5a-6f6a808e83fa",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ecaqqcrtxlpaginy.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल / राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि प्राप्त संशोधनहरूलाई निर्णयार्थ प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "75cc40b1-1af1-455e-9243-daa0ec4d5b2d",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ecaqqcrtxlpaginy.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल / राष्ट्र ऋण उठाउने विधेयक, २०८३ माथि प्राप्त संशोधनहरूलाई निर्णयार्थ प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "2788edfd-b32c-49ab-96b7-4d2f00e94b59",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/eru1jnfcrr7ehecd.mp4?central=1&type=hr",
+   "text": "आर्थिक विधेयक, २०८३ माथिको प्राप्त संशोधनसहित छलफल / आर्थिक विधेयक, २०८३ माथि प्राप्त संशोधनहरूलाई निर्णयार्थ प्रस्तुत गर्नुहुँदै।"
+  },
+  {
+   "id": "7e37d37d-bca6-4641-a6c1-db4d2b824874",
+   "kind": "Others",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/c77kzmq0g6z0rfqs.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "e14eb2e0-1f38-4bc3-821a-9dbe14571749",
+   "kind": "Others",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rkbjftu0jkr486ia.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "7a44db97-b65c-498d-8532-5cf77bab04e8",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yjxxulgqd6advthc.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "b30006ba-9a9d-4541-b746-d567f8e891a5",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1itns11auos6brgb.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "3a5b1dc5-c516-4224-94d2-8107e597d1d7",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zgvlw5b8qsmw3mhq.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "1af3f2a1-a070-4b61-ae84-49aa2f3afd0d",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/qfckcgrrj7lovjz8.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "deec0580-fa12-4efc-b02b-bef43e84cdf7",
+   "kind": "अध्यादेशसम्बन्धी कार्य",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/at9yd7dwnldchs27.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "d183316d-1b85-4dda-aa59-9b91f3fcb860",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/67p2b5p3tcxtvnsk.mp4?central=1&type=hr",
+   "text": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल"
+  },
+  {
+   "id": "4fca834f-8081-4cae-be22-f80455aaf6eb",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vkj4ln8s0vmypuac.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तुत"
+  },
+  {
+   "id": "0af09fa4-950c-418d-91b2-61c7163f6dc8",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/9fsixkxvqvjnjxgr.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "3b9ca02e-c0d3-4c52-afa5-eac4f0b00fd3",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wti1qknsbgx0dnza.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "c76cd879-288d-4c1f-8975-55993e2fc0db",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/nsdt9pntsrhawsrc.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "cd5e7177-fefc-44c7-a0cc-76c5955546f5",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/qdtx4zrf0mcafqya.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "7b62efad-40ce-4945-b431-72ec37b2166b",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/6e1plfvtda8mn69y.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "b827a44a-dbb0-4c9b-b62f-9f3f17075711",
+   "kind": "अन्य",
+   "context": "House of Representatives - 17th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vqbydnqp35xhlovr.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "1c4129c2-9410-4edd-a6ca-dd3961996e68",
+   "kind": "अन्य",
+   "context": "House of Representatives - 15th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/tgpim5lvjajaiapn.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "1b725f21-dba0-497c-9337-1099c1c96345",
+   "kind": "अन्य",
+   "context": "House of Representatives - 15th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vh2674h3c2r1p1by.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "c09f7ab1-e95a-40f8-82f7-8f2ecb7f1589",
+   "kind": "अन्य",
+   "context": "House of Representatives - 15th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/rnr9dwyiipqjjj8a.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "adc7b8ed-c2f8-461c-b7c2-92634c0019cb",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 1st Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/oqz75phn58liyrxf.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "344314af-5670-4627-ae09-99641b86e03a",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 1st Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/oqz75phn58liyrxf.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "0df65b1f-93cd-4995-a865-8cad1afd2a6e",
+   "kind": "Others",
+   "context": "House of Representatives - 31st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/d61nesirzuei7tmq.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "32a83595-ca64-45c1-8a20-7f1b53491af6",
+   "kind": "Zero hour",
+   "context": "House of Representatives - 31st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xqfq2gruvsjmmwmb.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "a322d7b6-a7d1-42cd-b5ed-88fec20123ca",
+   "kind": "प्रतिनिधि सभा नियमावली मस्यौदा समितिको प्रतिवेदन, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 31st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/b7ghhxvm1rwx1ewg.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "22bc613e-570a-4aca-bf4e-e1cba5d8443f",
+   "kind": "Zero Hour",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/omcsuzn01nl6mojj.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "9340107a-7926-46f4-bfa9-c7e28d32b6fd",
+   "kind": "Others",
+   "context": "House of Representatives - 20th May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zuhcvmbl6hwe6lkz.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "e0e1995f-1fca-4e0e-91ce-613a6634a943",
+   "kind": "Other",
+   "context": "House of Representatives - 7th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/llvxk6no1quvnniy.mp4?central=1&type=hr",
+   "text": "sandesh table"
+  },
+  {
+   "id": "a821338a-a4a0-497a-b502-590b6a9b51c5",
+   "kind": "Other",
+   "context": "House of Representatives - 7th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/2vcfqj7gkampqc8i.mp4?central=1&type=hr",
+   "text": "sabhamukh"
+  },
+  {
+   "id": "d8f27561-944d-40e7-aaf3-0eb8258abf23",
+   "kind": "Zero Hour",
+   "context": "House of Representatives - 7th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zruqo0xlwubpbtfa.mp4?central=1&type=hr",
+   "text": "zero hour"
+  },
+  {
+   "id": "85279eb9-4af8-42e4-b13c-43f7e0c38cc9",
+   "kind": "Other",
+   "context": "House of Representatives - 6th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/gn4l0t85qcalqrur.mp4?central=1&type=hr",
+   "text": "shok prastab"
+  },
+  {
+   "id": "d3a01b13-758c-49ae-89b5-09c0b8694767",
+   "kind": "Other",
+   "context": "House of Representatives - 6th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hbstwhl3utbjsrma.mp4?central=1&type=hr",
+   "text": "jankari"
+  },
+  {
+   "id": "bbf05c49-7ffb-4bfb-b86c-240c044447c9",
+   "kind": "Other",
+   "context": "House of Representatives - 6th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hvzkrutxtm2evlwe.mp4?central=1&type=hr",
+   "text": "mantabe"
+  },
+  {
+   "id": "298850a1-ed7e-4073-bc0f-d52a728dcc66",
+   "kind": "Other",
+   "context": "House of Representatives - 6th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/xpsmw2qfkiqkan0r.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "58f9501c-1d16-4df9-b9d1-6d188ed02a56",
+   "kind": "samiti gathan",
+   "context": "House of Representatives - 6th Apr 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ppiedpeg8heyjcfp.mp4?central=1&type=hr",
+   "text": "ninrayertha prastut"
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "सम्बत् २०८२ साल फागुन २१ गते सम्पन्न प्रतिनिधि सभा सदस्य निर्वाचनमा काठमाडौंको क्षेत्र नं. ९ बाट अत्याधिक मतान्तरले विजयी । व्यावसायिक पृष्ठभूमिबाट एक कदम माथि उठी, राजनीतिमार्फत् समाजमा सुशासन कायम, भ्रष्टाचार नियन्त्रण र विकास निर्माण गरी समाजको रूपान्तरण हुन्छ भन्ने हुटहुटीका साथ राजनीतिमा प्रवेश ।\nसमाजसेवामा आबद्धता\nदेश विकासको सुरुवात सबैभन्दा कठिन भूगोलबाट गर्नुपर्छ भन्ने अठोटका साथ कालिकोट जिल्लाको रास्कोटमा अस्पतालको स्थापना । कोभिड-१९ महामारीका बेला जनमैत्री अस्पतालमा विशेष शैयाहरू खडा गरी हजारौं नागरिकको जीवन रक्षा । साथै लायन्स क्लब तथा विविध सेवामूलक गतिविधिमा संलग्न ।\nविगतमा नेपाल सरकारको श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालयमा दुई पटक मन्त्री भई जिम्मेवारी निर्वाह । छोटो अवधिमै गरेका कार्यहरूले मन्त्रालय अन्तर्गतका निकायहरूको सेवा प्रवाहमा सुधार भएको । मन्त्रालय अन्तर्गतका कार्यहरूमा ढिलासुस्ती र भ्रष्टाचार न्यूनीकरण गर्न आधुनिक प्रविधियुक्त कम्प्युटर प्रणाली जडान गरी जनताको काम एक घण्टामै सम्पन्न हुने व्यवस्था गरिएको । ‘इच्छाशक्ति भए धेरै गर्न सकिन्छ’ भन्ने निष्कर्ष रहेको ।\nमेरो प्रतिबद्धता\nनेपालको संविधान, लोकतन्त्र र संसदीय पद्धतिको मूलभूत मान्यतालाई आत्मसात गर्दै देशलाई समृद्ध बनाउने दिशामा संसदीय अभ्यासमार्फत जिम्मेवारी निर्वाह गर्नु मेरो कर्तव्य हुनेछ ।\nजेनजी आन्दोलनको माग र विकास निर्माणको बाटोमा राष्ट्रलाई अगाडि बढाउने हुटहुटी बोकेका नागरिकहरूको अभिमतसहित हामी गरिमामय संसद्को एउटै थलोमा आएका छौं ।\nबहुदलीय शासन व्यवस्थामा जनताको अभिमत व्यक्त हुने थलो संसद् भएकाले संसदको गरिमा र प्रभावकारिता बढाउन सभामुखको पद तटस्थ, निष्पक्ष र समन्वयकारी हुने प्रतिबद्धता व्यक्त गर्दछु ।\nसंसदीय व्यवस्थाको सुन्दरता नै नीतिगत बहस, छलफल र निष्कर्ष हो । यसका लागि सबै माननीय सदस्यहरूका लागि संसद् सचिवालय खुला रहनेछ । सुशासन कायम गर्न, भ्रष्टाचार नियन्त्रण गर्न, विकास निर्माण गर्न र रोजगारी सिर्जना गर्न आवश्यक कानून निर्माण गर्ने थलो संसद् भएकाले सबै राजनीतिक दलहरूलाई रचनात्मक सहयोग र सहभागिताका लागि हार्दिक आग्रह गर्दछु ।",
+  "Previous Experience": "शिक्षा स्वास्थ्य वित्तीय क्षेत्रमा लगानी र व्यवसायको अनुभव",
+  "Current Affiliation": "उपसभापति राष्ट्रिय स्वतन्त्र पार्टी"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 2nd Term",
+   "org": "House of Representatives- 2082 · Kathmandu-9 · Rastriya Swatantra Party",
+   "note": null
+  },
+  {
+   "years": "2023-11-23–2025-09-12",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2079 · Kathmandu · Rastriya Swatantra Party",
+   "note": null
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "present",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "present",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "present",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  }
+ ]
+}

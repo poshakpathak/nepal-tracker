@@ -1,0 +1,904 @@
+{
+ "slug": "ganesh-bahadur-bishwakarma",
+ "name": "Ganesh Bahadur Bishwakarma",
+ "name_ne": "गणेश बहादुर विश्वकर्मा",
+ "chamber": "hor",
+ "party": "Nepali Communist Party",
+ "party_ne": "नेपाली कम्युनिष्ट पार्टी",
+ "party_id": "853b0c9e-74d1-4e22-8417-862c25246e16",
+ "seat": "Bajhang",
+ "district": "Bajhang",
+ "election": "proportional",
+ "gender": "male",
+ "role": "MP",
+ "education": "Masters Degree",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/0FQAOsJl2dCYemPwrDLnKmR3bT4SnJn5qe6Zi78e-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [
+  {
+   "id": "81e74ae3-d3c8-4c9d-ac76-10c54b3740bb",
+   "name": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083"
+  },
+  {
+   "id": "0666d534-7f05-401f-8056-efa26e128608",
+   "name": "International Relations and Tourism Committee (IRTC)"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 87,
+   "total": 71,
+   "present": 62,
+   "absent": 9
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 90,
+   "total": 21,
+   "present": 19,
+   "absent": 2
+  }
+ },
+ "statements": [
+  {
+   "id": "ca21ef93-35b2-451e-b13f-09d82e973d0b",
+   "kind": "Discussion",
+   "context": "House of Representatives - 30th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/csxnzxa5o4jpsaof.mp4?central=1&type=hr",
+   "text": "Discussion on the “National Forensic Science Laboratory (Establishment and Operation) Bill, 2083 BS”"
+  },
+  {
+   "id": "ba7aa756-8a7c-4a22-a1b7-7b32d3f7d2c3",
+   "kind": "Discussion on the 'Healthcare Workers and Health Institutions Safety (Second Amendment) Bill, 2083'",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1nqvccedjeepjdex.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "5d538650-2caa-4afe-aa9a-d8d1fd896888",
+   "kind": "Discussion on the Bill to Amend Certain Nepal Acts Related to Women, Children, Gender and Sexual Minorities, and Social Security, 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/bl3jjfed3xmrbmd9.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "17729bdd-47dd-458c-b21c-b71d7eab3638",
+   "kind": "\"Free Legal Aid Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/jdsoeqrcdgfeyvfm.mp4?central=1&type=hr",
+   "text": "\"Free Legal Aid Bill, 2083\""
+  },
+  {
+   "id": "335ef7a9-7583-47f5-887c-834b2d135a75",
+   "kind": "Discussion on the \"Waste Management Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/yhq8bqmzdte4qbp9.mp4?central=1&type=hr",
+   "text": "Discussion on the \"Waste Management Bill, 2083\""
+  },
+  {
+   "id": "27cf6714-2ed3-4c2e-b70b-55fc6953085b",
+   "kind": "Discussion on the \"Contagious Animal Diseases (Control) Bill, 2083\"",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ct75cdgvwbx3zzlf.mp4?central=1&type=hr",
+   "text": "Discussion on the \"Contagious Animal Diseases (Control) Bill, 2083\""
+  },
+  {
+   "id": "2ce7b7bd-5698-4775-8dd5-f543442e1e45",
+   "kind": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/njd1aphvfsq2smaq.mp4?central=1&type=hr",
+   "text": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083"
+  },
+  {
+   "id": "5dfae81a-769c-4390-811b-e1e0c7f2533e",
+   "kind": "Discussion on \"National Service Party Bill, 2083\"",
+   "context": "House of Representatives - 21st Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/eh6do5r6npscjuwn.mp4?central=1&type=hr",
+   "text": "Discussion on \"National Service Party Bill, 2083\""
+  },
+  {
+   "id": "cd066842-8bce-48a9-bde7-b08c98abb3cc",
+   "kind": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nat",
+   "context": "House of Representatives - 17th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/6ztauevuuxihjgps.mp4?central=1&type=hr",
+   "text": "General discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction under the United Nations Convention on the Law of the Sea"
+  },
+  {
+   "id": "20ddbb45-383c-4f1c-84f9-784e9b8501de",
+   "kind": "Discussion on the Children's (First Amendment) Bill, 2083",
+   "context": "House of Representatives - 16th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zawgwxmvup6tfaqj.mp4?central=1&type=hr",
+   "text": "Discussion on the Children's (First Amendment) Bill, 2083"
+  },
+  {
+   "id": "f5b3412e-770a-4e8e-9ede-a1f054a23d42",
+   "kind": "Discussion on the Passport First Amendment Bill, 2083",
+   "context": "House of Representatives - 18th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/usus60glo8fdarpp.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "a418e5bb-242c-4057-8291-72fa646c5c57",
+   "kind": "Discussion on \"Control of Human Trafficking and Trafficking First Amendment Bill, 2083\"",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hupurjfnm0czlsz8.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "1e1a57f0-7944-4baf-af49-aaa50a007a8b",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 11th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dn8goxcbwhlokbdh.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "df0a3e8e-30f4-48aa-bcb8-227725378d7b",
+   "kind": "\"अन्तर्राष्ट्रिय श्रम संगठनको बाध्यकारी श्रम महासन्धी, १९३० सम्बन्धी सन् २०१४ को प्रोटोकल नं. २९\" माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/9snudwjqqxnnv2nx.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "cb4d8883-46f7-4b9e-a14d-2c395554e124",
+   "kind": "Special Hour",
+   "context": "House of Representatives - 14th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/fe2gfvcydzlhdnn3.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "4acc97ba-d0b2-4679-95d1-df3abe08edf9",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 10th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vgmvkfw7ozrvd4b7.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "4fe1bd7b-6320-4eb5-9aef-292fed5bc14b",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 10th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/6adtp5abao6bd3by.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "a2caf06b-7918-4543-8877-6062d8a212fb",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 9th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/kihnbed73mujdppw.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "6cd54c30-90ed-492e-beac-52bc647930cc",
+   "kind": "अन्तर्राष्ट्रिय श्रम संगठनको श्रम निरीक्षण सम्बन्धी महासन्धी, १९४७ (नं. ८१) माथिको छलफल",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/hiuyrbpmujkqpqi4.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "c516adac-f376-4343-8376-89b51b39f071",
+   "kind": "श्रम महासन्धी १९३० प्रोटोकल नं. २९ माथिको छलफल",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/4racwtcf9plxpnjf.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "17b118d9-d2d1-4d59-be19-3d46460d2fd7",
+   "kind": "Others",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vngna9glshginlej.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "cc854a65-d814-4785-ac33-9be3ba59b7e3",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wkhu5hvppejasows.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "7eeaf111-50b6-4a13-9c06-e6e218364c48",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/wm45k9foglvmm2t9.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "c0cd66d6-950a-480e-8b31-95d8a91a3268",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/5nillsz22uzamzq3.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "aeb76340-eb9d-4c24-be3f-ede809432f2a",
+   "kind": "राष्ट्र ऋण उठाउने विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/11k5qc8jztllfht3.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "11e96589-2bec-4fac-8666-a29fc18b0a85",
+   "kind": "Others",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ij0s1c20zgbtlb9h.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "73e1c375-5ecf-40da-9b69-8de364f261bf",
+   "kind": "आर्थिक विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 19th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/idijfm7erp3aajlb.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "09eb48b6-442b-4d28-87d4-1637a362b49b",
+   "kind": "प्रतिनिधि सभा नियमावली मस्यौदा समितिको प्रतिवेदन, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 31st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/lyfyi0vxlt1ragpn.mp4?central=1&type=hr",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "२०५५ देखि अनेरास्ववियू तत्कालीन पाँचौँको जयपृथ्वी क्याम्पस बझाङ्गको प्रारम्भिक कमिटी सचिव तथा जयपृथ्वी क्याम्पस बझाङ्गको स्ववियू सचिव । अनेरास्ववियूको बझाङ्गको संस्थापक सचिव । २०४८ सालमा पोखरामा सम्पन्न तत्कालीन अनेरास्ववियू पाँचौँको एघारौँ राष्ट्रिय सम्मेलनबाट राष्ट्रिय परिषद सदस्यमा लोकप्रिय मतबाट निर्वाचित । तत्कालीन नेकपा (माले) को साधारण सदस्यता प्राप्त २०५६ र सङ्गठित सदस्यता प्राप्त २०४८ साल जेष्ठ । नेकपा मालेको बझाङ्ग जिल्ला कमिटी संस्थापक सदस्य । २०५६ मा पार्टीको राष्ट्रिय परिषद सदस्य । ऐतिहासिक संविधान सभा निर्वाचनमा समानुपातिक तर्फको उम्मेदवार, नेकपा एमालेको केन्द्रीय सामाजिक सेवा विभाग सदस्य हुँदै आठौँ महाधिवेशनबाट नेकपा एमाले केन्द्रीय अनुशासन आयोगको सदस्य निर्वाचित । पुनर्गठित नेकपा (एकीकृत समाजवादी) पोलिटब्यूरो सदस्य तथा स्कूल विभाग सदस्य, । २०८१ असार १६ देखि २० सम्म सम्पन्न नेकपा (एकीकृत समाजवादी) को दशौँ महाधिवेशनबाट केन्द्रीय कमिटी सचिव निर्वाचित । नेकपा (माओवादी केन्द्र) तथा नेकपा (एकीकृत समाजवादी) लगायत २४ बढी दलबीच भएको एकता पश्चात नेपाली कम्युनिष्ट पार्टी केन्द्रीय कमिटी सचिवालय सदस्य ।",
+  "Previous Experience": "विगतका पेशा/रोजगार/व्यवसाय, संघ संस्थामा आबद्धता र अनुभव\n●\t२०४५ देखि २०५५ सम्म प्राथमिक स्तरको शिक्षक हुँदै माविसम्मको शिक्षक,\n●\t२०५६ देखि २०६५ सम्म विभिन्न मानवअधिकारवादी संघसंस्थाहरूको नेतृत्वमा रहेर काम गरेको ।\n●\tपत्रकारिता : जन उत्थान र ऐक्यबद्धता अंग्रेजी पत्रिकाको संवाददाता, मुक्ति यात्रा मासिकको सह सम्पादक, दलित अधिकार मञ्चको प्रधान सम्पादक, समानता पत्रिकाको सह सम्पादक, मुक्ति समाज नेपालको मुखपत्र गणतन्त्रको सम्पादक मण्डल सदस्य, प्रेस चौतारी कैलालीको सचिव २०६१ देखि २०६३ सम्म ।\n●\t२०६० देखि २०६७ सम्म १४ वटा नागरिक तहबाट नमूना दलित संसदकोआयोजना गरेको ।",
+  "Current Affiliation": "२०६० देखि २०७५ सम्म १४ वटा नागरिक तहबाट नमूना दलित संसदको आयोजना गरेको ।\nहाल आबद्ध भएका संघ संस्था र हालको, पेशा/रोजगार/व्यवसाय\n• सुदूरपश्चिम प्रदेश नीति तथा योजना आयोगको उपाध्यक्ष २०८१\n• उच्चस्तरीय भूमिसुधार आयोग : सदस्य २०६७\n• नेपाल सरकार शिक्षा मन्त्रालय अन्तरगत दलित विद्यार्थी सम्बन्धी समस्या समाधान गर्न बनेको कार्यदल २०६८ : सदस्य\n• मुक्त हलिया, कमैया, कम्लरी तथा हरवाचरवा पुनःस्थापना सम्बन्धी अध्ययन सम्बन्धी कार्यदल सदस्य : २०८० ।\n• हलिया पुनःस्थापना सम्बन्धी कार्यदल २०६७ : सदस्य\n• दलित विकास समितिमा सुदूरपश्चिमान्चलका तर्फबाट केन्द्रीय बोर्ड सदस्य : २०७४\n• २०४३ देखि २०८२ सम्म दलित आन्दोलनमा जिल्लादेखि केन्द्रीय स्तरमा महासचिव र अध्यक्षसम्म\n• राष्ट्रिय दलित नेटवर्क नेपाल (२०५७) को संस्थापक अध्यक्ष\n• मानवअधिकार तथा सामाजिक न्याय मञ्च (मानवअधिकार एलाइन्स) को अध्यक्ष २०६४ देखि २०७० ।\n• मानवअधिकार संरक्षण मञ्चको महासचिव हुँदै अध्यक्ष (२०८२)\n• राष्ट्रिय भूमि अधिकार सरोकार समूह र राष्ट्रिय भूमि अधिकार मञ्चको संस्थापक तथा हाल राष्ट्रिय भूमि अधिकार सरोकार समूहको केन्द्रीय सचिव ।\n• कमैया मुक्ति आन्दोलन परिचालन समितिको संस्थापक सदस्य\n• २०५५ देखि २०७५ सम्म शिक्षक आन्दोलनमा सहभागी",
+  "Publications": "कृति/प्रकाशन\n●\tदलित आन्दोलन, मानव अधिकार आन्दोलन तथा समसामयीक राजनीतिक आन्दोलनबारे २०० भन्दा बढी राष्ट्रिय तथा स्थानीय पत्रपत्रिकामा लेख रचनाहरु प्रकाशित ।\n●\tदलित अधिकार तथा मानव अधिकार आन्दोलनसँग सम्बन्धित एक दर्जनभन्दा बढी पुस्तकमा लेखक, सम्पादक, सह-सम्पादक तथा सहयोगीको रुपमा भूमिका निर्वाह गरेको ।\n●\tदलित आन्दोलन, मानव अधिकार आन्दोलन तथा समसामयीक राजनीतिक आन्दोलनबारे ३ दर्जनभन्दा बढी कार्यपत्र प्रस्तुत ।\n●\tजनताको बहुदलीय जनवाद र प्रगतिशील आरक्षणबारे हाते पुस्तिका\n●\tदलित नेतृत्व : संघर्ष र सफलता भाग १ र २\n●\tराज्यको पुनःसंरचना र संविधान निर्माणमा दलित नामक पुस्तक",
+  "Awards and Honors": "पुरस्कार/सम्मान\n●\tसुभाष दर्नाल नागरिक पुरस्कार २०६९\n●\tडा. अम्बेडकर अन्तर्राष्ट्रिय पुरस्कार २०११\n●\tसंयुक्त राजनीतिक दलित संघर्ष समितिद्वारा सम्मानित २०८१\n●\tराष्ट्रिय दलित नेटवर्कद्वारा सम्मानित २०८१\n●\tआठौं राष्ट्रिय मानवअधिकार महाभेलाद्वारा सम्मानित\n●\tमुक्त हलिया समाज महासंघ सम्मानित\n●\tहलिया, कमैया तथा हरवाचरवा आन्दोलनमा योगदान गरे वापत भूमिव्यवस्था, सहकारी तथा गरिबी निवारण मन्त्रालयद्वारा सम्मानित\n●\tविभिन्न संघ संस्थाहरुद्वारा सम्मान प्राप्त .",
+  "Additional Information": "सदस्यले खुलाउन चाहेका अन्य विवरण\nअन्तर्राष्ट्रिय भ्रमण\nसंयुक्त राज्य अमेरिका, चीन, इण्डोनेसिया, इटाली, स्वीजरल्याण्ड, टर्की, फ्रान्स, सिंगापुर, भारत, श्रीलंका, पाकिस्तान, थाइल्याण्ड, बंगलादेश, कतार, फिलिपिन्स ।"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2082 · Bajhang · Nepali Communist Party",
+   "note": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083 · International Relations and Tourism Committee (IRTC)"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "present",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "present",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "present",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d3323cdf-efbf-4896-a00e-acacaabdf92e",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC)",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d02977b3-f7be-44a7-afd1-e5604d181900",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 7",
+   "scope": "committee"
+  },
+  {
+   "meeting": "adc4b9dc-6392-46b2-9e58-747878087541",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 8",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e713c420-8a9c-4d40-bc86-f86cc3b100a6",
+   "date": "2026-07-17",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 9",
+   "scope": "committee"
+  },
+  {
+   "meeting": "07694b66-4847-4ceb-8573-9e063ede02dd",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 10",
+   "scope": "committee"
+  },
+  {
+   "meeting": "69587df4-07f1-481a-96d1-5f4e5f32d507",
+   "date": "2026-08-07",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 11",
+   "scope": "committee"
+  },
+  {
+   "meeting": "87bddef1-a5af-4ea0-b353-330da7378616",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 12",
+   "scope": "committee"
+  },
+  {
+   "meeting": "70ce4d19-eb4c-4783-82d8-3b121bcf6120",
+   "date": "2026-08-13",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 12",
+   "scope": "committee"
+  },
+  {
+   "meeting": "713adcd1-b898-462d-8900-c85f6685d999",
+   "date": "2026-08-14",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 14",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ac7ba1c5-bb96-4915-8bdc-ae6f480f2cfa",
+   "date": "2026-08-20",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 15",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ea88c2bc-0432-4b5a-bf4e-23b0039755a6",
+   "date": "2026-08-24",
+   "status": "absent",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 16",
+   "scope": "committee"
+  },
+  {
+   "meeting": "586538b8-ee44-4bcf-a834-d4cae7591027",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083 - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e7a18f37-5b9f-4066-9bca-61ee56729d88",
+   "date": "2026-09-02",
+   "status": "absent",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 17",
+   "scope": "committee"
+  },
+  {
+   "meeting": "c151f851-9d67-489f-ae37-f860f26e7cad",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 18",
+   "scope": "committee"
+  },
+  {
+   "meeting": "124ce6ef-e302-4528-884f-17907ddb2410",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 19",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0e2b4fc0-f378-4d4c-9f95-1aab7b2e290d",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 20",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ab805cc0-90f0-4f24-88e5-dc2dd862f47c",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083 - Meeting 2",
+   "scope": "committee"
+  },
+  {
+   "meeting": "b17397a7-492d-4031-904f-a03c29ac4392",
+   "date": "2026-09-23",
+   "status": "present",
+   "title": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083 - Meeting 3",
+   "scope": "committee"
+  },
+  {
+   "meeting": "9b60aa01-6be5-499a-85b0-a9d165da3d71",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 21",
+   "scope": "committee"
+  },
+  {
+   "meeting": "365b2a61-12f6-4ef2-83dc-9d2853996d0b",
+   "date": "2026-10-05",
+   "status": "present",
+   "title": "International Relations and Tourism Committee (IRTC) - Meeting 22",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e3d80af8-6600-4317-92bf-cb464c97f7a6",
+   "date": "2026-10-30",
+   "status": "present",
+   "title": "Intangible Cultural Heritage (Protection) Bill Sub-Committee, 2083 - Meeting 4",
+   "scope": "committee"
+  }
+ ]
+}

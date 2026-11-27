@@ -1,0 +1,78 @@
+{
+ "id": "cb5060c4-2055-4714-9f4b-e52eb4108709",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 14",
+ "date": "2026-08-21",
+ "duration": "1 hr 30 min",
+ "start": "9:30 AM",
+ "end": "11:00 AM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१) सूचना माग भएको सम्बन्धमा ।",
+ "minutes": "१. समितिको मिति २०८३/०४/१३ को बैठकबाट श्री मानबहादुर कार्कीलाई प्रमुख निर्वाचन आयुक्तमा समितिले गरेको अनुमोदनका सम्बन्धमा सचिवालयका सूचना अधिकारीमार्फत् सूचना मागकर्ता भेषराज लुइटेलबाट माग भएको सूचनाका सम्बन्धमा देहायबमोजिम लिखित जानकारी उपलब्ध गराउन समिति सचिवालयलाई निर्देश गर्नेः",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "absent"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "absent"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "absent"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 10,
+ "members": 15,
+ "recording": null
+}

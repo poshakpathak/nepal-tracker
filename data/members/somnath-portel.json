@@ -1,0 +1,676 @@
+{
+ "slug": "somnath-portel",
+ "name": "Somnath Portel",
+ "name_ne": "सोमनाथ पोर्तेल",
+ "chamber": "na",
+ "party": "Communist Party of Nepal (UML)",
+ "party_ne": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+ "party_id": "af3e1d79-d78b-4c7e-9e02-6a1359026795",
+ "seat": "Koshi Province",
+ "district": null,
+ "election": null,
+ "gender": "male",
+ "role": "MP",
+ "education": "साधारण लेखपढ",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/s5XEsMSBKgNVM3bZcutvvRbjS5OnPpmRxXiEWvfp-web_medium.webp",
+ "term_start": "2026-02-25",
+ "committees": [
+  {
+   "id": "2551c623-c2cf-4865-bf9a-d304798846ab",
+   "name": "Public Policy and Delegated Legislation Committee"
+  },
+  {
+   "id": "636ed084-16c8-417c-a427-aba2b19feec4",
+   "name": "Subcommittee on the Study of Documents of National Importance, Archives Management, and Historical and Archaeological Heritage"
+  },
+  {
+   "id": "95ab9a5d-b940-4cd9-8162-513e3e35adfc",
+   "name": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 92,
+   "total": 52,
+   "present": 48,
+   "absent": 4
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 92,
+   "total": 26,
+   "present": 24,
+   "absent": 2
+  }
+ },
+ "statements": [
+  {
+   "id": "e411f750-d027-4d07-a125-a2a7bd49bf0f",
+   "kind": "Emergency Time",
+   "context": "National Assembly - 10th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/oau9aav3hnavnula.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "8a7bde17-2b21-4006-838b-174b4a41bb7d",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्' भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/oza8l0dcyqqh7dy1.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "6b12e5df-3cd5-49c3-b137-f63e65200bca",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/hyfwetrzjqhzf6xe.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "1c11a3d2-4f22-4d91-a447-fc12081ec4f1",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त स्वास्थ्य विज्ञान प्रतिष्ठान सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/y8i5co8ufru9vvuh.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "ae70fb42-27db-4750-88a9-931f64efaabd",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त सम्पत्ति शुद्धीकरण (मनी लाउण्डरिङ्ग) निवारण (तेस्रो संशोधन) विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 4th Jul 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/yzkr90lq47msnyr9.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "379042ba-3945-4b80-b45e-3bfc3f44944e",
+   "kind": "Special Hour",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/jougelcrgo3led81.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "8dc6c9b6-27dd-46b5-9b15-3abe16fbf32c",
+   "kind": "“प्रतिनिधि सभाबाट सन्देश सहित प्राप्त विनियोजन विधेयक, २०८३ माथि विचार गरियोस्” भन्ने प्रस्ताव माथि छलफल",
+   "context": "National Assembly - 29th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/a7piyemi36rbo3st.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "ab53fe12-64ed-49ab-a57f-0abf0d96d691",
+   "kind": "प्रादेशिक सरोकार समय",
+   "context": "National Assembly - 19th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ypwyw2va0u1zvrwm.mp4?central=1&type=na",
+   "text": null
+  },
+  {
+   "id": "1313ca7a-c71c-4d58-a6ae-e614a7f128f2",
+   "kind": "आर्थिक वर्ष २०८३/०८४ को राजस्व र व्ययको वार्षिक अनुमानमाथि सामान्य छलफल",
+   "context": "National Assembly - 12th Jun 2026",
+   "video": "https://na.parliament.gov.np/np/get_video/ghfvp0xgqxlykiu1.mp4?central=1&type=na",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "२०४७ फागुनमा  नेकपा एमालेको जनसंगठन अनेरास्ववियूमा संगठित भई राजनीति प्रारम्भ । २०५१ पुष देखि उत्पीडित दलित आन्दोलनको संगठन मुक्ति समाज नेपालमा संगठित। हाल मुक्ति समाज नेपालको केन्द्रीय उपमहासचिव र नेकपा एमाले कोशी प्रदेश कमिटीको सचिवालय सदस्यमा कार्यरत ।",
+  "Previous Experience": "पत्रकारिता, प्रिन्टिङ प्रेस पेशाको रुपमा गरेको । गैर सरकारी संस्था महासंघ झापाको सचिव भई भूमिका निर्वाह गरी सकेको । जिल्ला समन्वय समिति झापाको (२०७४–७९) प्रमुख भई काम गरेको । २०६५ पौष देखि ०६६ असार सम्म दलिग वर्ग उत्थान जिल्ला समन्वय समितिको उपाध्यक्ष भई काम गरेको ।",
+  "Current Affiliation": "उत्पीडित अधिकार मञ्च नेपाल नामक सामाजिक संस्थाको अध्यक्ष  र श्रद्धा गहना गृह विर्तामोडको प्रोपाइटर ।",
+  "Publications": "पत्रपत्रिका र अनलाइन मिडियाहरुमा फुटकर लेख रचनाहरु प्रकाशन ।",
+  "Awards and Honors": "मुक्ति समाज नेपाल कोशीले स्थापना गरेको नवराज शंकर युवा प्रोत्साहन पुरस्कार २०८० प्राप्त ।"
+ },
+ "terms": [
+  {
+   "years": "2026-02-25–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "नियमित चक्र अनुसार - 2082 · Koshi Province · Communist Party of Nepal (UML)",
+   "note": "Public Policy and Delegated Legislation Committee · Subcommittee on the Study of Documents of National Importance, Archives Management, and Historical and Archaeological Heritage"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "355bad2a-e79b-4e12-a514-298eb74aa74e",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 2)",
+   "scope": "house"
+  },
+  {
+   "meeting": "781a4326-7248-441c-b767-b3a616d5050d",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 May 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f7ae9af2-cc37-4c5e-99a4-1bd1a10ce87f",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "National Assembly Meeting - 13 May 2026 (meeting - 3)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0e754b6d-68c1-405b-af44-100f6d5efddf",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "National Assembly Meeting - 14 May 2026 (meeting - 4)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6889f511-978a-4f1b-ab8c-1e3fa1fc963b",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 May 2026 (meeting - 5)",
+   "scope": "house"
+  },
+  {
+   "meeting": "76faaccd-8b88-42fa-83a3-8efebdfa9cdb",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 May 2026 (meeting - 6)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0d2caaa9-6dd5-45bc-92d9-8fff5a5b8b12",
+   "date": "2026-05-22",
+   "status": "present",
+   "title": "National Assembly Meeting - 22 May 2026 (meeting - 7)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0a46e963-b5ac-4161-8d0b-5bf0ce0f1e7f",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 8)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e8ce07c6-e45d-461a-99d0-bcf81fb53bb1",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "National Assembly Meeting - 27 May 2026 (meeting - 9)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70693fb3-5619-4b43-bdd4-1c38805505cc",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 May 2026 (meeting - 10)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cd08e75b-6b46-4a8d-98c5-d2eee59579cd",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 May 2026 (meeting - 11)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bde7f356-a3ca-41e5-9a4e-234af5c502e2",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 June 2026 (meeting - 12)",
+   "scope": "house"
+  },
+  {
+   "meeting": "eb4a3fba-8ca6-4d9f-ad8a-b0bd1d392424",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 June 2026 (meeting - 13)",
+   "scope": "house"
+  },
+  {
+   "meeting": "79d1d024-e07f-41b8-a88e-0d9c26214312",
+   "date": "2026-06-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 June 2026 (meeting - 14)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0ab0fd72-a167-4d1c-896b-2357a38bbdea",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 June 2026 (meeting - 15)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2b340ddb-4636-4887-83d4-13da1f78f574",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "National Assembly Meeting - 11 June 2026 (meeting - 16)",
+   "scope": "house"
+  },
+  {
+   "meeting": "9415d891-8226-4118-8e91-13c826c68987",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "National Assembly Meeting - 12 June 2026 (meeting - 17)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed5546ea-7e70-4a7f-9abd-1d89b63cfd4c",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 June 2026 (meeting - 18)",
+   "scope": "house"
+  },
+  {
+   "meeting": "e468aa74-a5f8-43c5-84e1-1e3c5bbbbacd",
+   "date": "2026-06-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 June 2026 (meeting - 19)",
+   "scope": "house"
+  },
+  {
+   "meeting": "18a91901-a356-4323-a79d-cfc675e42b3f",
+   "date": "2026-06-26",
+   "status": "absent",
+   "title": "National Assembly Meeting - 26 June 2026 (meeting - 20)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ba69d1ef-9132-4d16-a771-73fe816de4da",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 22)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d37078a9-899c-42bd-824e-fd65b950eeac",
+   "date": "2026-06-29",
+   "status": "present",
+   "title": "National Assembly Meeting - 29 June 2026 (meeting - 21)",
+   "scope": "house"
+  },
+  {
+   "meeting": "25487fc3-3ec1-42cb-9c25-f27a4cdfce5f",
+   "date": "2026-07-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 July 2026 (meeting - 23)",
+   "scope": "house"
+  },
+  {
+   "meeting": "69663f43-5218-46b2-b7e8-36509d125609",
+   "date": "2026-07-02",
+   "status": "absent",
+   "title": "National Assembly Meeting - 2 July 2026 (meeting - 24)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ca327155-822c-4a1e-8bbf-5f9b8063f9cf",
+   "date": "2026-07-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 July 2026 (meeting - 25)",
+   "scope": "house"
+  },
+  {
+   "meeting": "12cea91d-36b3-4254-84d2-02d8cbc41089",
+   "date": "2026-07-04",
+   "status": "present",
+   "title": "National Assembly Meeting - 4 July 2026 (meeting - 26)",
+   "scope": "house"
+  },
+  {
+   "meeting": "96a44541-6342-4c19-a81a-57eb13fc771c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 July 2026 (meeting - 27)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45d95279-6457-4675-9408-3abee3b6523d",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 29)",
+   "scope": "house"
+  },
+  {
+   "meeting": "db2f5a91-a851-4f06-bc50-db95ce7a2fc7",
+   "date": "2026-07-07",
+   "status": "present",
+   "title": "National Assembly Meeting - 7 July 2026 (meeting - 28)",
+   "scope": "house"
+  },
+  {
+   "meeting": "154f8ef2-2471-4dd4-ad0b-a9a5f1aecfc9",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 31)",
+   "scope": "house"
+  },
+  {
+   "meeting": "19d3c9a1-97eb-4328-bf39-716ce7dea5d2",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 July 2026 (meeting - 30)",
+   "scope": "house"
+  },
+  {
+   "meeting": "07850fd1-a44e-4e95-874b-791878177e0c",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 July 2026 (meeting - 32)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bcadcac6-6d83-4049-a6b5-e5cf06d76237",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "National Assembly Meeting - 15 July 2026 (meeting - 33)",
+   "scope": "house"
+  },
+  {
+   "meeting": "1661bf03-a5c5-4042-aea4-9283a41c872c",
+   "date": "2026-07-31",
+   "status": "present",
+   "title": "National Assembly Meeting - 31 July 2026 (meeting - 34)",
+   "scope": "house"
+  },
+  {
+   "meeting": "51e3bc09-e109-4e3d-a21a-20fbbb492767",
+   "date": "2026-08-03",
+   "status": "present",
+   "title": "National Assembly Meeting - 3 August 2026 (meeting - 35)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffd2887e-139c-4b8a-b076-b8a888a2122a",
+   "date": "2026-08-06",
+   "status": "present",
+   "title": "National Assembly Meeting - 6 August 2026 (meeting - 36)",
+   "scope": "house"
+  },
+  {
+   "meeting": "144d7edb-afe7-4f7d-bfd3-09ad1e930095",
+   "date": "2026-08-12",
+   "status": "absent",
+   "title": "National Assembly Meeting - 12 August 2026 (meeting - 37)",
+   "scope": "house"
+  },
+  {
+   "meeting": "46b638ef-ccb8-443d-acb6-310d54f059bc",
+   "date": "2026-08-13",
+   "status": "absent",
+   "title": "National Assembly Meeting - 13 August 2026 (meeting - 38)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a2168419-270d-405f-a97c-6866c02de391",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "National Assembly Meeting - 17 August 2026 (meeting - 39)",
+   "scope": "house"
+  },
+  {
+   "meeting": "bf7614ba-9702-4b0d-85d0-8c5677cd4ef6",
+   "date": "2026-08-19",
+   "status": "present",
+   "title": "National Assembly Meeting - 19 August 2026 (meeting - 40)",
+   "scope": "house"
+  },
+  {
+   "meeting": "7a2ace4e-5de6-4d5e-b11c-adec7998ea2c",
+   "date": "2026-08-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 August 2026 (meeting - 41)",
+   "scope": "house"
+  },
+  {
+   "meeting": "360a4a55-8539-4468-9e07-db9c6937aab4",
+   "date": "2026-08-25",
+   "status": "present",
+   "title": "National Assembly Meeting - 25 August 2026 (meeting - 42)",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfda1afa-b682-44af-b789-21799769cad3",
+   "date": "2026-09-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 September 2026 (meeting - 43)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ab3ec7c6-8938-4991-b080-c23a004c0da7",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "National Assembly Meeting - 9 September 2026 (meeting - 44)",
+   "scope": "house"
+  },
+  {
+   "meeting": "6dcd27d8-619d-418c-8478-e88c2768fcca",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "National Assembly Meeting - 10 September 2026 (meeting - 45)",
+   "scope": "house"
+  },
+  {
+   "meeting": "8924eb62-f890-42b0-a761-3ccf1e6aaf8c",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "National Assembly Meeting - 16 September 2026 (meeting - 46)",
+   "scope": "house"
+  },
+  {
+   "meeting": "2c2cb199-1d6f-48b3-917e-8ce5884f77cf",
+   "date": "2026-09-18",
+   "status": "present",
+   "title": "National Assembly Meeting - 18 September 2026 (meeting - 47)",
+   "scope": "house"
+  },
+  {
+   "meeting": "28c0eb2c-fb0a-442d-99d6-c3ff0888bd56",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "National Assembly Meeting - 21 September 2026 (meeting - 48)",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c8a9eb6-8958-492e-8544-14db02296cf6",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "National Assembly Meeting - 24 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67df4763-29f5-4ab0-9a5b-3e657a8126d0",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "National Assembly Meeting - 28 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "0b876761-92e0-4cae-9dad-1a0bbeb86991",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "National Assembly Meeting - 1 October 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70c44e42-f9cb-4279-8371-3965645bb492",
+   "date": "2026-10-02",
+   "status": "present",
+   "title": "National Assembly Meeting - 2 October 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "110d8a46-ac42-4309-8a8f-dd80ce1ca092",
+   "date": "2026-09-09",
+   "status": "absent",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 346",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e4a6bc9a-c0d6-4dd5-abc3-41dc116b80cb",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 347",
+   "scope": "committee"
+  },
+  {
+   "meeting": "f6dae0c9-0164-45af-a708-b7e5373ccadb",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 348",
+   "scope": "committee"
+  },
+  {
+   "meeting": "5da34825-0fe9-42ba-861f-6180e7190faa",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 349",
+   "scope": "committee"
+  },
+  {
+   "meeting": "79fea04a-6475-4a88-9549-f2b5f476cc45",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 350",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0140905d-0f77-4b62-a43e-42fb79b1833b",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "Subcommittee on the Study of Documents of National Importance, Archives Management, and Historical and Archaeological Heritage - Meeting 9",
+   "scope": "committee"
+  },
+  {
+   "meeting": "48089b09-1f59-41dc-ba29-08b1c9fb67bf",
+   "date": "2026-10-05",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8d2f1e06-4e2d-425d-9cec-074c039db3df",
+   "date": "2026-10-05",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 351",
+   "scope": "committee"
+  },
+  {
+   "meeting": "e2e97abe-7079-44c6-aef9-28633ffca318",
+   "date": "2026-10-06",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 352",
+   "scope": "committee"
+  },
+  {
+   "meeting": "63711f43-a0d4-4adf-b78d-60c94acd035f",
+   "date": "2026-10-08",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 3",
+   "scope": "committee"
+  },
+  {
+   "meeting": "86b975cc-11ff-4aae-bc9e-8d115ad2d120",
+   "date": "2026-10-08",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 2",
+   "scope": "committee"
+  },
+  {
+   "meeting": "aab7e7ad-dd95-45a5-b1c9-8235f5ec3ef2",
+   "date": "2026-10-13",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 5",
+   "scope": "committee"
+  },
+  {
+   "meeting": "bc9b7a1a-e019-45f2-adb1-4c207b549b8c",
+   "date": "2026-10-13",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 4",
+   "scope": "committee"
+  },
+  {
+   "meeting": "7aaeb5f9-a789-4d5f-aac3-a568624c99d7",
+   "date": "2026-10-27",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 6",
+   "scope": "committee"
+  },
+  {
+   "meeting": "2d8b35b3-c3ba-4ccb-a1b5-ea4bdc376cfc",
+   "date": "2026-10-28",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 7",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d2983011-11bc-420d-823e-df9dc47caeae",
+   "date": "2026-10-29",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 9",
+   "scope": "committee"
+  },
+  {
+   "meeting": "da5aeeb6-1b29-4cef-a274-f8f64f71789c",
+   "date": "2026-10-29",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 8",
+   "scope": "committee"
+  },
+  {
+   "meeting": "7a0e75fe-2bf6-43ef-a2ab-e6cc9e944cf8",
+   "date": "2026-10-30",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 353",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8c79e4f9-49a5-424d-a840-ff94133c943d",
+   "date": "2026-10-30",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 10",
+   "scope": "committee"
+  },
+  {
+   "meeting": "26969594-34f2-466d-9d8b-897d4d5359d8",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 11",
+   "scope": "committee"
+  },
+  {
+   "meeting": "27916ba8-7f32-4a7f-ac89-25f531e981ac",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 354",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ad4286bf-978a-4edc-8d6f-c566caa8cbb3",
+   "date": "2026-11-03",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 12",
+   "scope": "committee"
+  },
+  {
+   "meeting": "01b42500-1260-4de4-8658-30534a061229",
+   "date": "2026-11-04",
+   "status": "absent",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 14",
+   "scope": "committee"
+  },
+  {
+   "meeting": "35b95122-1e5d-4047-8d5b-35a3588dc381",
+   "date": "2026-11-04",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 13",
+   "scope": "committee"
+  },
+  {
+   "meeting": "497de021-4acc-4c2f-8582-b8ed249328e4",
+   "date": "2026-11-17",
+   "status": "present",
+   "title": "भोटेकोशी एवम् कालीगण्डकी करिडोर विपद् सम्बन्धी अध्ययन तथा अनुगमन संसदीय विशेष समिति - Meeting 15",
+   "scope": "committee"
+  },
+  {
+   "meeting": "20a60fab-0fc5-464e-84fe-6319173d2403",
+   "date": "2026-11-18",
+   "status": "present",
+   "title": "Public Policy and Delegated Legislation Committee - Meeting 355",
+   "scope": "committee"
+  }
+ ]
+}

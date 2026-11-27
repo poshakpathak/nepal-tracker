@@ -1,0 +1,207 @@
+{
+ "id": "73533e17-bc0d-4aeb-a16b-9963e40add0e",
+ "title_ne": "सार्वजनिक खरिद (दोस्रो संशोधन) विधेयक, २०८३",
+ "status": "Completed",
+ "tags": [
+  "Ordinance Replacement Bill",
+  "Ordinary Bill",
+  "Amendment"
+ ],
+ "number": 7,
+ "registered": "2026-06-19",
+ "ministry_ne": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+ "presented_by": "Minister Sobita Gautam",
+ "category": "Ordinance Replacement Bill · Ordinary Bill",
+ "days_in_process": 20,
+ "origin": "House of Representatives",
+ "session_ne": "दोस्रो",
+ "summary": "The Public Procurement (Second Amendment) Bill, 2083 amends the Public Procurement Act, 2063 to modernize procurement procedures, ensure fiscal discipline, and streamline project execution. Originating in the House of Representatives from the Office of the Prime Minister and Council of Ministers, the bill aims to improve accountability, facilitate efficient sourcing, and enforce compulsory pre-procurement preparations.\n\nKey Provisions:\n• Introduces modern procurement methods including reverse auctions, framework agreements, and direct purchasing via a Government e-Marketplace.\n• Mandates strict pre-procurement conditions, forbidding bid notices without secured budgeting, site availability, clear land acquisition/compensation, tree-clearance assurances, and environmental report approvals.\n• Establishes structured one-envelope and two-envelope bidding systems and adopts average-bid evaluation mechanisms while disqualifying bids quoted more than 30% below approved cost estimates.\n• Enforces mandatory worker enrollment in the Social Security Fund and regulates sub-contracting through mandatory written contracts and prior notice to public entities.\n• Formulates specialized procurement procedures for essential items like chemical fertilizers, medicines, information technology, and international conference hostings.\n\nScope / Applicability:\nThis legislation applies to all federal, provincial, and local public entities in Nepal, as well as foreign-based diplomatic missions and entities executing public works, purchasing goods, or hiring consulting and non-consulting services.\n\nDefinitions & Institutions:\n• Definitions: Adds a legal definition for 'Domestic Goods' requiring at least 30% domestic value addition/labor, and updates definitions for 'Goods' and 'Other Services'.\n• Institutions: Creates the Government Procurement Service Office under the Office of the Prime Minister and Council of Ministers and enhances authority for the Public Procurement Monitoring Office (PPMO).\n\nProcedural Requirements & Penalties:\n• Shortens national bidding notice publication deadlines from 30 days to at least 21 days.\n• Authorizes departmental disciplinary proceedings against public officials who fail to fulfill administrative duties, and prescribes criminal prosecution under general law for contractors guilty of fraud, forgery, or willful contract abandonment.",
+ "title": null,
+ "steps": [
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Registration",
+   "state": "completed",
+   "date": "2026-06-19",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/73533e17-bc0d-4aeb-a16b-9963e40add0e/bill_registration/avs0jUJEhEPP1uDYzx3D4C35k5isBtYGdj4GqF3E.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Distribution",
+   "state": "completed",
+   "date": "2026-06-21",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Presentation",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Theoretical Discussion",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-06-28",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/73533e17-bc0d-4aeb-a16b-9963e40add0e/notice_of_amendment/XehTkql8tidZ2e3VdaO5Yog1VjBw5dUJebZXnUdu.pdf"
+   ]
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "completed",
+   "date": "2026-07-02",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-07-02",
+   "docs": []
+  },
+  {
+   "phase": 1,
+   "house": "House of Representatives",
+   "step": "Forwarded to the National Assembly with a Message",
+   "state": "completed",
+   "date": "2026-07-02",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Tabled with Message / Bill Distributed",
+   "state": "completed",
+   "date": "2026-07-03",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "General Discussion on the Bill",
+   "state": "completed",
+   "date": "2026-07-04",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Notice of Amendment",
+   "state": "completed",
+   "date": "2026-07-04",
+   "docs": [
+    "https://digitalsystem.parliament.gov.np/storage/bills/73533e17-bc0d-4aeb-a16b-9963e40add0e/notice_of_amendment_na/DSfvIFIqTqdNfEpgRWdfJ7xKo7f8zONilPQyoC2W.pdf"
+   ]
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in House",
+   "state": "upcoming",
+   "date": null,
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Clause-by-Clause Discussion in Committee",
+   "state": "completed",
+   "date": "2026-07-07",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Committee Report Presentation and Discussion",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Bill Passed",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 2,
+   "house": "National Assembly",
+   "step": "Returned to the House of Representatives with a Message",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Tabled with Message",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Re-passed after Accepting or Rejecting the Amendments",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Bill Authentication By Speaker",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Sent to President Office for Certification",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  },
+  {
+   "phase": 3,
+   "house": "House of Representatives",
+   "step": "Certified By President",
+   "state": "completed",
+   "date": "2026-07-09",
+   "docs": []
+  }
+ ],
+ "current_step": "Certified By President",
+ "last_action": "2026-07-09",
+ "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/73533e17-bc0d-4aeb-a16b-9963e40add0e/bill_registration/avs0jUJEhEPP1uDYzx3D4C35k5isBtYGdj4GqF3E.pdf"
+}

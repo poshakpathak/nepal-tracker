@@ -1,0 +1,78 @@
+{
+ "id": "f11715ff-f92d-422f-ab1d-21fcddb0da04",
+ "title": "Parliamentary Hearing Committee (Joint) - Meeting 9",
+ "date": "2026-07-21",
+ "duration": "35 min",
+ "start": "11:15 AM",
+ "end": "11:50 AM",
+ "state": "concluded",
+ "body": "Joint Parliament Committee",
+ "chair": "Bodha Narayan Shrestha",
+ "agenda": "१.",
+ "minutes": "निर्णयः",
+ "attendance": [
+  {
+   "member": "bodha-narayan-shrestha",
+   "status": "present"
+  },
+  {
+   "member": "arjun-narsingha-kc",
+   "status": "present"
+  },
+  {
+   "member": "ananda-prasad-dhungana",
+   "status": "present"
+  },
+  {
+   "member": "kabindra-burlakoti",
+   "status": "present"
+  },
+  {
+   "member": "gajala-shamim-mikrani",
+   "status": "present"
+  },
+  {
+   "member": "lekhjung-thapa",
+   "status": "absent"
+  },
+  {
+   "member": "deepak-raj-bohara",
+   "status": "absent"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padma-kumari-aryal",
+   "status": "present"
+  },
+  {
+   "member": "poonam-kumari-agrawal",
+   "status": "present"
+  },
+  {
+   "member": "prem-prasad-dangal",
+   "status": "present"
+  },
+  {
+   "member": "vishmaraj-angdembey",
+   "status": "absent"
+  },
+  {
+   "member": "madhu-kumar-chaulagain",
+   "status": "present"
+  },
+  {
+   "member": "rajib-khatry",
+   "status": "present"
+  },
+  {
+   "member": "barshaman-pun",
+   "status": "present"
+  }
+ ],
+ "present": 12,
+ "members": 15,
+ "recording": null
+}

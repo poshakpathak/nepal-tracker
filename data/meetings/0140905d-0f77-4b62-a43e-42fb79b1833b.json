@@ -1,0 +1,38 @@
+{
+ "id": "0140905d-0f77-4b62-a43e-42fb79b1833b",
+ "title": "Subcommittee on the Study of Documents of National Importance, Archives Management, and Historical and Archaeological Heritage - Meeting 9",
+ "date": "2026-09-30",
+ "duration": "1 hr",
+ "start": "12:15 PM",
+ "end": "1:15 PM",
+ "state": "concluded",
+ "body": "National Assembly Committee",
+ "chair": "Puja Chaudhary",
+ "agenda": "समसामायिक विषयमा छलफल।",
+ "minutes": null,
+ "attendance": [
+  {
+   "member": "somnath-portel",
+   "status": "present"
+  },
+  {
+   "member": "gopal-kumar-basnet",
+   "status": "absent"
+  },
+  {
+   "member": "goma-devi-timilsina",
+   "status": "present"
+  },
+  {
+   "member": "nar-bahadur-bista",
+   "status": "present"
+  },
+  {
+   "member": "padam-bahadur-pariyar",
+   "status": "absent"
+  }
+ ],
+ "present": 3,
+ "members": 5,
+ "recording": null
+}

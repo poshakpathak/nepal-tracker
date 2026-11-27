@@ -1,0 +1,890 @@
+{
+ "slug": "balawati-sharma",
+ "name": "Balawati Sharma",
+ "name_ne": "बलावती शर्मा",
+ "chamber": "hor",
+ "party": "Nepali Communist Party",
+ "party_ne": "नेपाली कम्युनिष्ट पार्टी",
+ "party_id": "853b0c9e-74d1-4e22-8417-862c25246e16",
+ "seat": "Baglung",
+ "district": "Baglung",
+ "election": "proportional",
+ "gender": "female",
+ "role": "MP",
+ "education": "Masters",
+ "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/JeyBoXVFxVoBlfaVnjimb58ajTVb2Ogj64RLGeHC-web_medium.webp",
+ "term_start": "2026-03-26",
+ "committees": [
+  {
+   "id": "4303a63b-c3f4-483d-b692-4e62c18b4982",
+   "name": "Law, Justice and Human Rights Committee"
+  },
+  {
+   "id": "5f5da6fa-708a-4e42-a56f-75f06799485a",
+   "name": "Petition Study and Recommendation Subcommittee, 2026"
+  },
+  {
+   "id": "69d180de-f8b6-4c06-9366-9958234cceb4",
+   "name": "Subcommittee on the Study of the Status of the Human Rights of Detainees and Prisoners in Various Prisons and Police Custody"
+  }
+ ],
+ "attendance": {
+  "house": {
+   "scope": "parliament",
+   "percent": 90,
+   "total": 71,
+   "present": 64,
+   "absent": 7
+  },
+  "committee": {
+   "scope": "committee",
+   "percent": 89,
+   "total": 18,
+   "present": 16,
+   "absent": 2
+  }
+ },
+ "statements": [
+  {
+   "id": "567fdf1a-4104-48b8-911b-9959b37ed0f1",
+   "kind": "Special Hour",
+   "context": "House of Representatives - 1st Oct 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/purlxlpugb0xq1gz.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "576fa630-1f4d-4051-b46a-44aab0f842f4",
+   "kind": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ujfso4e1tbamr4tc.mp4?central=1&type=hr",
+   "text": "Discussion on the Bill to Enact Provisions of Certain Nepal Acts, 2083"
+  },
+  {
+   "id": "d8b39691-f95c-4397-abab-44975ed2b24d",
+   "kind": "Discussion on the National Defense University Bill, 2083",
+   "context": "House of Representatives - 29th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/fkrhcehhsqapqj6u.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "da748e4d-9f5f-47e6-ac44-8838baee910a",
+   "kind": "Deliberation on the Safe Motherhood and Reproductive Health Rights (First Amendment) Bill, 2063",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/2ofwuc3sprx4e5qp.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "363d0b2f-86c3-4715-af0f-2738c7e83ca8",
+   "kind": "Discussion on the Bill to Control the Sale and Distribution of Breast-milk Substitutes (First Amendment), 2083",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/mfezvgky0ltup7y7.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "458f5661-7a5c-4db2-b90e-6ca69b8eb338",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 28th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/8grccevapqssntpy.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "2b83cc16-aa7e-4e6a-97e7-89bade558d71",
+   "kind": "\"Free Legal Aid Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/k6h06wesarmzhsmt.mp4?central=1&type=hr",
+   "text": "\"Free Legal Aid Bill, 2083\""
+  },
+  {
+   "id": "ad18512c-0483-4e30-98a7-d0111533d8f6",
+   "kind": "Discussion on the \"Waste Management Bill, 2083\"",
+   "context": "House of Representatives - 24th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/gqtoxdzz9nvskimz.mp4?central=1&type=hr",
+   "text": "Discussion on the \"Waste Management Bill, 2083\""
+  },
+  {
+   "id": "49ee4662-0efd-450d-8fa5-ce76b0b63ac0",
+   "kind": "Law Enforcement",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/d613gs4so9hafv2c.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "b64f1f2a-fb05-4d09-b73d-f20c83b1b9d8",
+   "kind": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083",
+   "context": "House of Representatives - 23rd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/mf6pu3mmwlbqlla0.mp4?central=1&type=hr",
+   "text": "Discussion on the Citizens Investment Fund (Third Amendment) Bill, 2083"
+  },
+  {
+   "id": "59f5bdb6-cec2-4148-83e0-14187beea0a6",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 22nd Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/4uakgfgeesgaiimi.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "970aff1a-76b1-4f47-b071-de8de7f49a7a",
+   "kind": "Honorable Minister of Law, Justice and Parliamentary Affairs Sobita Gautam addressed the \"General Discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity in Areas Beyond National Jurisdiction under the United Nat",
+   "context": "House of Representatives - 17th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1ghecltio1hb3wnr.mp4?central=1&type=hr",
+   "text": "General discussion on the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction under the United Nations Convention on the Law of the Sea"
+  },
+  {
+   "id": "f23712ec-3f3f-4207-8e25-1229625f9c86",
+   "kind": "Discussion on the Children's (First Amendment) Bill, 2083",
+   "context": "House of Representatives - 16th Sept 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/26gl6zh8hrtbrxzv.mp4?central=1&type=hr",
+   "text": "Discussion on the Children's (First Amendment) Bill, 2083"
+  },
+  {
+   "id": "b1c7e0cd-3e91-4ab7-9c28-c1027e00d4f8",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 24th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/f2wvzr6jmvbsomwo.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "2d6e5a00-17e7-4c4e-87ee-ffe91fa197f0",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 17th Aug 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/9jvcmbnqbcwr7cuf.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "865c43a7-94ae-4b72-ba03-f85cc214eb18",
+   "kind": "\"अन्तर्राष्ट्रिय श्रम संगठनको बाध्यकारी श्रम महासन्धी, १९३० सम्बन्धी सन् २०१४ को प्रोटोकल नं. २९\" माथिको छलफल",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/cyn5x1xiusfovrqp.mp4?central=1&type=hr",
+   "text": "निर्णयार्थ प्रस्तु"
+  },
+  {
+   "id": "d6b551d5-840e-4150-8644-018c21e647d5",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 15th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ml00vmclzoxnmmcs.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "b4afe0a9-26d2-4977-a89e-4c273dc8f58a",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 10th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/krki7tcozkbsqtos.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "0416f2e8-1d27-47aa-8b94-5d09f704d326",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 10th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/3imvpwngnua8xtlz.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "c254c1da-8461-4ff3-9675-055c29a2870e",
+   "kind": "Bill Discussion",
+   "context": "House of Representatives - 9th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/vpah09ahrqpqpohz.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "a29156e9-d13f-4b01-85c0-121cdc5270ea",
+   "kind": "Others",
+   "context": "House of Representatives - 6th Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/zd0znuqxtbxxrijm.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "7202a83e-260d-4c09-aff4-810fd6e34c7c",
+   "kind": "सम्पत्ति शुद्धिकरण -मनि लाउन्डरिङ्ग_ निवारण -तेस्रो संशोधन_ विधेयक, २०८३ माथि दफावार छलफल",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/ugxmfsi9ugvb8uqq.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "f4d33374-e6c6-4752-9f37-6e61b7880b9e",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 2nd Jul 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/qt3iuwbjxpaf7qvw.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "4a20568e-f4f0-4cdb-8624-a96db139f492",
+   "kind": "सहकारी (पहिलो संशोधन) विधेयक, २०८३ माथिको छलफल",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/1z7ykr9ogrwl8bwr.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "6654543a-8b4d-4fc1-9b82-76f104ed2e0c",
+   "kind": "Sunday, (Second) / Discussion on the Public Procurement (Second Amendment) Bill, 2083",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/v7fvdcbfu7j6ddxh.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "fbf98ec1-7cf3-4282-a1bc-90110ff67067",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 28th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/es1c2yyii0d0dxdd.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "a616cc13-b209-4efe-a7bb-c1d573e29181",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 15th Jun 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/93dy8usn7fos0hwz.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "d939a978-6042-4adc-9503-e0f86c7cc1a7",
+   "kind": "प्रतिनिधि सभा नियमावली मस्यौदा समितिको प्रतिवेदन, २०८३ माथिको दफावार छलफल",
+   "context": "House of Representatives - 31st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/krsu44cdydbhkp0e.mp4?central=1&type=hr",
+   "text": null
+  },
+  {
+   "id": "0ae4e3e8-24d7-4d54-a827-c3ce67c7851f",
+   "kind": "Emergency Time",
+   "context": "House of Representatives - 21st May 2026",
+   "video": "https://hr.parliament.gov.np/np/get_video/dx4akxd7mmpwz7o2.mp4?central=1&type=hr",
+   "text": null
+  }
+ ],
+ "listed": true,
+ "bio": {
+  "Political Biography": "* २०४२ सालमा अखिल छैठौंमा संगठित\n* २०४५ सालमा पार्टी सदस्यता प्राप्त गरेका तत्कालीन नेकपा मसालबाट\n* २०४५ पञ्चायत विरुद्धको आन्दोलनमा दुई दिन हिरासत बसेको\n* २०५१–२०५५ सालमा अनेमसंघ (क्रान्तिकारी) काठमाडौं जिल्लाको अध्यक्ष\n* २०५३ कात्तिक नेकपा माओवादीको जनयुद्धमा पूर्णकालीन कार्यकर्ता भई काम गरेको\n* २०५३ मा काठमाडौं जिल्ला पार्टीको एरिया समितिमा बसेर काम गरेको\n* २०५५ सालमा पार्टीको बुद्धिजीवि डिओसीको सदस्य भएको\n* २०५२–२०५५ सम्म १० देखि १५ पटकसम्म महेन्द्र पुलिस क्लब र हनुमान ढोकामा बसेको\n* २०५५ सालमा अनेमसंघको केन्द्रीय सदस्य भएको\n* २०५५ सालमा तीन महिनामा काठमाडौं सेन्ट्रल जेल बसेको\n** २०५८ पार्टीको उपब्युरो सदस्य भई काम गरेको\n* २०६० सालमा नेकपा माओवादीको क्षेत्रीय ब्यूरो सदस्य भएको\n* २०६०–२०६२ सम्म रोल्पा जिल्लाको पार्टी सहइन्चार्जको भूमिका रहेर काम गरेको\n* २०६१ रुकुमको खारा कारबाहीमा भाग लिएको\n* २०६२ मा चुनबाङ बैठकपछि उपत्यका रिड ब्यूरोमा रहेर काम गरेको\n* २०६३ सालमा अन्तरिम व्यवस्थापिका संसद सदस्य भएर काम गरेको\n* २०६४ सालमा नेपाल राष्ट्रिय बुद्धिजीवि सङ्गठनको केन्द्रीय उपाध्यक्ष\n* २०६४–२०७१ सम्म भ्यालीस्तरीय बुद्धिजीवि डिओसीको सेक्रेटरी भई काम गरेको\n* २०६८ नेपाल कम्युनिष्ट पार्टी माओवादी आठौँ राष्ट्रिय महाधिवेशनबाट केन्द्रीय सदस्यमा निर्वाचित\n* २०७५ सालमा नेकपा एमाले र माओवादी केन्द्रको एकतापछि केन्द्रीय सदस्य\n* २०७५–२०७७ तत्कालीन नेकपा बागलुङ जिल्ला इन्चार्ज\n* २०७७–२०८१ सम्म नेकपा माओवादी केन्द्रको बागलुङ जिल्ला इन्चार्ज\n* २०८२ सालमा समानुपातिक सांसदमा निर्वाचित",
+  "Additional Information": "विभिन्न देशमा अध्ययन भ्रमण गरेकोः\n- स्विडेन, चीन, अस्ट्रिया, बैङ्कक, चेकोस्लाभिया, जर्मन, अमेरिका, साउथ कोरिया, फिलिपिन्स, भारत"
+ },
+ "terms": [
+  {
+   "years": "2026-03-26–Present",
+   "role": "Member of Parliament — 1st Term",
+   "org": "House of Representatives- 2082 · Baglung · Nepali Communist Party",
+   "note": "Law, Justice and Human Rights Committee · Petition Study and Recommendation Subcommittee, 2026 · Subcommittee on the Study of the Status of the Human Rights of Detainees and Prisoners in Various Prisons and Police Custody"
+  }
+ ],
+ "meetings": [
+  {
+   "meeting": "54463390-8c24-4097-a710-587a21990e42",
+   "date": "2026-04-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4c0dedaf-78b8-44b5-afaf-c16faa20ce4e",
+   "date": "2026-04-05",
+   "status": "present",
+   "title": "House of Representatives Meeting - 5 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "c08a3165-2f6e-453f-8331-b176f089aedf",
+   "date": "2026-04-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "6c31beb0-1f44-43dd-93f2-0fcad454b09a",
+   "date": "2026-04-07",
+   "status": "present",
+   "title": "House of Representatives Meeting - 7 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7930e37f-c26b-4d1e-aee3-bb02d9a458e4",
+   "date": "2026-04-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5010fdff-8fcb-48fe-95b1-0d46fa75fa9d",
+   "date": "2026-04-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 April 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9299842f-dae4-4e47-9b86-ef9ad0257a07",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "aeea7f5d-5495-4d69-b1aa-a7c4bea8dbae",
+   "date": "2026-05-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "df1fef08-c690-4d24-98ef-b900928433f4",
+   "date": "2026-05-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e4fe15f4-e82a-4c15-81ea-a9122aefa3c5",
+   "date": "2026-05-13",
+   "status": "present",
+   "title": "House of Representatives Meeting - 13 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "95a1184f-7626-49d4-8f77-69233585d941",
+   "date": "2026-05-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "398246a3-e6b0-442a-b9b1-aafb8711b07d",
+   "date": "2026-05-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "dadbaae7-65dc-4d94-8c62-944c55d69c80",
+   "date": "2026-05-19",
+   "status": "present",
+   "title": "House of Representatives Meeting - 19 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cb99bbb4-a25a-4359-a974-5ce16bfce864",
+   "date": "2026-05-20",
+   "status": "present",
+   "title": "House of Representatives Meeting - 20 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "364ea918-53e8-4e2f-841b-0b039c1cd56c",
+   "date": "2026-05-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "34e1eed7-b63e-43aa-accf-2156bf1cecd4",
+   "date": "2026-05-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8fdc2ff4-ee70-4ad9-8580-a3966b9b572b",
+   "date": "2026-05-27",
+   "status": "present",
+   "title": "House of Representatives Meeting - 27 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e2f7fc9c-c61f-4916-ac24-d54501fc3c1d",
+   "date": "2026-05-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "599eed22-895d-4c72-abc0-114b9c3556db",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "9a887549-67a2-4cf4-a7c0-54e11c44fb08",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "ed273f83-92b7-4b3e-a2c8-af3bac566376",
+   "date": "2026-05-31",
+   "status": "present",
+   "title": "House of Representatives Meeting - 31 May 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cf45f0c0-597c-46ec-b597-13494debdcbe",
+   "date": "2026-06-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "7b0621a5-0da4-43c3-8e5a-a5c2c60bffde",
+   "date": "2026-06-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4fd366af-aa0d-437a-b4f4-040e488215eb",
+   "date": "2026-06-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "bacbd53d-0080-4178-9e0e-94ed844567b5",
+   "date": "2026-06-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cade1cb3-9eb0-4b3c-bca6-06b6d61b318f",
+   "date": "2026-06-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "642e0fa0-c6c6-49d7-b73d-56756fa3aff3",
+   "date": "2026-06-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d052c56b-da53-4090-9cef-7b22cc8b340b",
+   "date": "2026-06-12",
+   "status": "present",
+   "title": "House of Representatives Meeting - 12 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "e7bafac6-8ad0-4495-9c23-96ccd15e0e6f",
+   "date": "2026-06-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "616375d8-6056-42bb-b17b-1eeedcaf1533",
+   "date": "2026-06-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d524c2a7-a17c-40c3-b0ce-9fd9ce73d85f",
+   "date": "2026-06-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15328a84-aad8-4201-b3d8-9d36511be9e4",
+   "date": "2026-06-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "f293ef06-13d1-41db-8e84-27001eade02d",
+   "date": "2026-06-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "fabddcd7-5181-44af-a0fb-ac7499298b9c",
+   "date": "2026-06-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 June 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "839c546b-309e-4439-8644-9389ee0473c5",
+   "date": "2026-07-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "4bf3126c-8235-40a2-91e2-0c1d02b5ea8c",
+   "date": "2026-07-06",
+   "status": "present",
+   "title": "House of Representatives Meeting - 6 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "67b8db83-4718-4948-9363-779aa3600518",
+   "date": "2026-07-08",
+   "status": "present",
+   "title": "House of Representatives Meeting - 8 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d5a00a81-a609-4f77-b24f-22fea48bdf1d",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "d2502acd-e24f-4302-a886-a141874a7053",
+   "date": "2026-07-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8c060cb9-54a6-4ad8-b240-5d8dd3766d14",
+   "date": "2026-07-14",
+   "status": "present",
+   "title": "House of Representatives Meeting - 14 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "15316585-81e8-4838-9c75-ba157229c55b",
+   "date": "2026-07-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "36fefdfa-d85c-4c82-b36a-9aeffcdf3fa6",
+   "date": "2026-07-30",
+   "status": "present",
+   "title": "House of Representatives Meeting - 30 July 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "248c0630-2381-4953-b109-1fd3c3555a8f",
+   "date": "2026-08-04",
+   "status": "present",
+   "title": "House of Representatives Meeting - 4 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "340fc2c1-c21d-422a-a0b6-b229c2ec6fce",
+   "date": "2026-08-07",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 7 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "89efd907-2947-4859-babe-d1c476b6eeea",
+   "date": "2026-08-10",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 10 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "481fd100-3cc9-45e5-a65b-1b80547c827c",
+   "date": "2026-08-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "cfb7f252-c557-4987-83f5-bff59d28c2bc",
+   "date": "2026-08-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 August 2026 (meeting - 1)",
+   "scope": "house"
+  },
+  {
+   "meeting": "c97caf0c-e128-4dee-a3fe-b1dd3609ee80",
+   "date": "2026-08-18",
+   "status": "present",
+   "title": "House of Representatives Meeting - 18 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "52771cab-e53f-43a9-8aa4-8d032da082ea",
+   "date": "2026-08-19",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 19 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "51716d90-9392-40e8-9351-8853715a86c0",
+   "date": "2026-08-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "5616f025-d17a-48a4-94ed-2c71063ddf54",
+   "date": "2026-08-26",
+   "status": "present",
+   "title": "House of Representatives Meeting - 26 August 2026",
+   "scope": "house"
+  },
+  {
+   "meeting": "8b247c5b-671d-416a-93f1-cb4b8d3984d7",
+   "date": "2026-09-02",
+   "status": "present",
+   "title": "House of Representatives Meeting - 2 September 2026 (meeting - 49)",
+   "scope": "house"
+  },
+  {
+   "meeting": "025656b0-8f63-4ae8-bf7e-e73eff6fadd5",
+   "date": "2026-09-03",
+   "status": "present",
+   "title": "House of Representatives Meeting - 3 September 2026 (meeting - 50)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4ac2d9d-8bde-4401-b0cc-9746ee20c1a9",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "House of Representatives Meeting - 9 September 2026 (meeting - 51)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ff7ae54a-eddb-46a0-a845-dc9b5ef91670",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "House of Representatives Meeting - 10 September 2026 (meeting - 52)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b8ff902c-079c-43da-babb-5727d5c066cd",
+   "date": "2026-09-11",
+   "status": "present",
+   "title": "House of Representatives Meeting - 11 September 2026 (meeting - 53)",
+   "scope": "house"
+  },
+  {
+   "meeting": "035fe984-771d-4034-ac98-a2bcac7d0239",
+   "date": "2026-09-15",
+   "status": "present",
+   "title": "House of Representatives Meeting - 15 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "67606456-6866-4b20-83a3-2a701052b4d3",
+   "date": "2026-09-16",
+   "status": "present",
+   "title": "House of Representatives Meeting - 16 September 2026 (meeting - 55)",
+   "scope": "house"
+  },
+  {
+   "meeting": "3d73a908-d71d-4a25-abb3-64d307c2dbe3",
+   "date": "2026-09-17",
+   "status": "present",
+   "title": "House of Representatives Meeting - 17 September 2026 (meeting - 56)",
+   "scope": "house"
+  },
+  {
+   "meeting": "b7c043b5-ec86-4e03-9aa1-e734d224fd53",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "House of Representatives Meeting - 21 September 2026 (meeting - 57)",
+   "scope": "house"
+  },
+  {
+   "meeting": "70d2b7df-b513-4973-8d6c-ad7d9c6747f8",
+   "date": "2026-09-22",
+   "status": "present",
+   "title": "House of Representatives Meeting - 22 September 2026 (meeting - 58)",
+   "scope": "house"
+  },
+  {
+   "meeting": "45076ca1-6a36-41e2-ba0c-c29a5b9a2ba8",
+   "date": "2026-09-23",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 23 September 2026 (meeting - 59)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a95b6782-42c1-478c-8d2c-41a562c3af8b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 61)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9e0ece7-7c3a-4318-847a-da11d270054b",
+   "date": "2026-09-24",
+   "status": "present",
+   "title": "House of Representatives Meeting - 24 September 2026 (meeting - 60)",
+   "scope": "house"
+  },
+  {
+   "meeting": "f4e094dc-35cb-4d52-8c6d-48c8811768a1",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 63)",
+   "scope": "house"
+  },
+  {
+   "meeting": "ffe31acf-a9d9-4339-9f1b-d87ed5c33f0d",
+   "date": "2026-09-28",
+   "status": "present",
+   "title": "House of Representatives Meeting - 28 September 2026 (meeting - 62)",
+   "scope": "house"
+  },
+  {
+   "meeting": "190396d5-a0a4-47a4-ab7c-cf17a9464543",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 65)",
+   "scope": "house"
+  },
+  {
+   "meeting": "a82ff8a5-526b-478f-b632-c209c8b78c3c",
+   "date": "2026-09-29",
+   "status": "present",
+   "title": "House of Representatives Meeting - 29 September 2026 (meeting - 64)",
+   "scope": "house"
+  },
+  {
+   "meeting": "02d3d4a2-93dc-4681-800b-0d287387550a",
+   "date": "2026-09-30",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 30 September 2026 (meeting - 66)",
+   "scope": "house"
+  },
+  {
+   "meeting": "d9970b12-5041-489d-9931-3c8af420c1ac",
+   "date": "2026-10-01",
+   "status": "present",
+   "title": "House of Representatives Meeting - 1 October 2026 (meeting - 67)",
+   "scope": "house"
+  },
+  {
+   "meeting": "dad53bc8-57e6-4f8a-9197-fd1dc1747fac",
+   "date": "2026-10-02",
+   "status": "absent",
+   "title": "House of Representatives Meeting - 2 October 2026 (meeting - 68)",
+   "scope": "house"
+  },
+  {
+   "meeting": "faa72086-f164-4f33-963e-bd22c8c1dfd2",
+   "date": "2026-04-17",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0030c6b8-9ddf-40aa-8631-0d95239b448a",
+   "date": "2026-07-09",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 7",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0073d3af-0607-41d6-afd6-0f91a48c457b",
+   "date": "2026-07-13",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 8",
+   "scope": "committee"
+  },
+  {
+   "meeting": "8e4b482e-fe0c-45f3-862e-c26056a27bcb",
+   "date": "2026-07-19",
+   "status": "absent",
+   "title": "Law, Justice and Human Rights Committee - Meeting 9",
+   "scope": "committee"
+  },
+  {
+   "meeting": "04064519-1036-4aa8-b038-09ca60875e25",
+   "date": "2026-07-24",
+   "status": "present",
+   "title": "Subcommittee on the Study of the Status of the Human Rights of Detainees and Prisoners in Various Prisons and Police Custody - Meeting 7",
+   "scope": "committee"
+  },
+  {
+   "meeting": "65551926-3ffc-4ec3-a8e4-052a3c190c10",
+   "date": "2026-08-05",
+   "status": "absent",
+   "title": "Law, Justice and Human Rights Committee - Meeting 10",
+   "scope": "committee"
+  },
+  {
+   "meeting": "1b59ee25-cb77-4029-8c48-f38b6fb3207a",
+   "date": "2026-08-12",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 11",
+   "scope": "committee"
+  },
+  {
+   "meeting": "5c837e51-1073-4751-984c-a99feb15fc14",
+   "date": "2026-08-14",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 12",
+   "scope": "committee"
+  },
+  {
+   "meeting": "20de76b4-b683-40d7-b591-bd03e22dd3fd",
+   "date": "2026-09-09",
+   "status": "present",
+   "title": "Petition Study and Recommendation Subcommittee, 2026 - Meeting 1",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3ce85f9b-e598-417d-8b3d-a805ac235494",
+   "date": "2026-09-10",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 13",
+   "scope": "committee"
+  },
+  {
+   "meeting": "560d2a0a-f7bf-4636-866e-f9753e1fc0d7",
+   "date": "2026-09-21",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 14",
+   "scope": "committee"
+  },
+  {
+   "meeting": "78b897aa-7f46-4e69-8232-e8d05b03ecea",
+   "date": "2026-09-30",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 15",
+   "scope": "committee"
+  },
+  {
+   "meeting": "d36602bd-3d3c-4729-ac40-718d5c4d19be",
+   "date": "2026-10-05",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 16",
+   "scope": "committee"
+  },
+  {
+   "meeting": "3f882bd2-9819-423f-8fed-6062916c523e",
+   "date": "2026-11-02",
+   "status": "present",
+   "title": "Petition Study and Recommendation Subcommittee, 2026 - Meeting 2",
+   "scope": "committee"
+  },
+  {
+   "meeting": "ebc5206a-271e-4117-8b19-0a4cd209862e",
+   "date": "2026-11-03",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 17",
+   "scope": "committee"
+  },
+  {
+   "meeting": "0115717d-21d0-47ee-9082-5c921b867fd6",
+   "date": "2026-11-04",
+   "status": "present",
+   "title": "Petition Study and Recommendation Subcommittee, 2026 - Meeting 3",
+   "scope": "committee"
+  },
+  {
+   "meeting": "fdae24a1-c5d9-40dd-8009-9a1b11c6a1ff",
+   "date": "2026-11-04",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 18",
+   "scope": "committee"
+  },
+  {
+   "meeting": "cc3687d7-81e1-47e3-9b6b-acb87eabd013",
+   "date": "2026-11-05",
+   "status": "present",
+   "title": "Law, Justice and Human Rights Committee - Meeting 19",
+   "scope": "committee"
+  }
+ ]
+}
