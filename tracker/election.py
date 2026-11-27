@@ -95,7 +95,7 @@ def _score(a, b):
 
 
 def match(members, rs):
-    """Portal slug -> race, for directly elected members.
+    """(portal slug -> race for directly elected members, English district -> Nepali district).
 
     The portal names seats in English ("Dolakha-1"), the Commission in Nepali
     with a district code. Confident name matches teach us which Nepali district
@@ -115,4 +115,9 @@ def match(members, rs):
         hit = [r for r in rs if r["no"] == no and r["district_ne"] == dmap.get(dist)]
         if len(hit) == 1:
             out[m["slug"]] = hit[0]
-    return out
+    return out, dmap
+
+
+def clean_name_ne(name):
+    """A member's Nepali name without titles or the district the portal sometimes appends."""
+    return _TITLES.sub("", re.sub(r"\s*\(.*?\)", "", name or "").strip()).strip() or None

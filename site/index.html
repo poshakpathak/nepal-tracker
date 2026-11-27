@@ -13,29 +13,29 @@
 </head>
 <body>
 <header class="top">
-  <div class="home"><a href="https://poshakpathak.com/">← poshakpathak.com</a><span>A project by Poshak Pathak</span></div>
+  <div class="home"><a href="https://poshakpathak.com/">← poshakpathak.com</a><span><button type="button" id="lang" lang="ne">नेपालीमा</button><span data-ne="पोशक पाठकको परियोजना">A project by Poshak Pathak</span></span></div>
   <div class="mast">
-    <a class="brand" href="#/">Nepal Parliament <span>Tracker</span></a>
+    <a class="brand" href="#/"><span data-ne="नेपाल संसद" class="b1">Nepal Parliament</span> <span data-ne="ट्र्याकर">Tracker</span></a>
     <span class="dateline" id="dateline"></span>
-    <input type="search" id="find" placeholder="Find an MP" aria-label="Find a member of parliament">
+    <input type="search" id="find" placeholder="Find an MP" data-ne-placeholder="सांसद खोज्नुहोस्" aria-label="Find a member of parliament">
   </div>
   <nav id="nav">
-    <a href="#/">Overview</a>
-    <a href="#/week">This week</a>
-    <a href="#/members">Members</a>
-    <a href="#/attendance">Attendance</a>
-    <a href="#/map">Map</a>
-    <a href="#/bills">Bills</a>
-    <a href="#/meetings">Meetings</a>
-    <a href="#/topics">Topics</a>
-    <a href="#/parties">Parties</a>
-    <a href="#/about">About</a>
+    <a href="#/" data-ne="गृहपृष्ठ">Overview</a>
+    <a href="#/week" data-ne="यो हप्ता">This week</a>
+    <a href="#/members" data-ne="सदस्य">Members</a>
+    <a href="#/attendance" data-ne="उपस्थिति">Attendance</a>
+    <a href="#/map" data-ne="नक्सा">Map</a>
+    <a href="#/bills" data-ne="विधेयक">Bills</a>
+    <a href="#/meetings" data-ne="बैठक">Meetings</a>
+    <a href="#/topics" data-ne="विषय">Topics</a>
+    <a href="#/parties" data-ne="दल">Parties</a>
+    <a href="#/about" data-ne="बारेमा">About</a>
   </nav>
 </header>
 <main id="app"><p class="muted">Loading…</p></main>
 <footer class="foot">
   <span id="updated"></span>
-  <span>Source: Federal Parliament of Nepal, digital.parliament.gov.np. Refreshed nightly.</span>
+  <span data-ne="स्रोत: सङ्घीय संसद, नेपाल, digital.parliament.gov.np। हरेक साँझ अद्यावधिक हुन्छ।">Source: Federal Parliament of Nepal, digital.parliament.gov.np. Refreshed nightly.</span>
 </footer>
 <div id="tip" role="tooltip" hidden></div>
 <script src="app.js"></script>

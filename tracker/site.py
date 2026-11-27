@@ -11,7 +11,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from . import election
-from .topics import LABELS, tag
+from .topics import LABELS, LABELS_NE, tag
 from .translate import DEV, english
 
 # Statement "kinds" that name a slot in the order of business, not a subject.
@@ -48,9 +48,10 @@ def race_summary(r, party_en, tr):
         "total": r["total"], "votes": win["votes"], "n": len(cands),
         "share": round(100 * win["votes"] / r["total"], 1) if r["total"] else None,
         "margin": lead, "margin_pct": round(100 * lead / r["total"], 1) if r["total"] else None,
-        "field": [[c["name_ne"], party_en.get(c["party_ne"]) or english(c["party_ne"], tr) or c["party_ne"], c["votes"], c["elected"]] for c in cands[:6]],
+        "field": [[c["name_ne"], party_en.get(c["party_ne"]) or english(c["party_ne"], tr) or c["party_ne"], c["votes"], c["elected"], c["party_ne"]]
+                  for c in cands[:6]],
         "age": win.get("age"), "born_bs": win.get("born_bs"),
-        "qualification": QUALIFICATIONS.get(q, english(q, tr) or q) if q else None, "institution": win.get("institution"),
+        "qualification": QUALIFICATIONS.get(q, english(q, tr) or q) if q else None, "qualification_ne": q, "institution": win.get("institution"),
         "experience": win.get("experience"), "experience_en": english(win.get("experience"), tr),
     }
 
@@ -88,6 +89,22 @@ DISTRICT_FIX = {
     "Nawalparasi (Bardaghat Susta Paschim)": "Nawalparasi West", "Nawalparasi (Bardaghat Susta Purva)": "Nawalparasi East",
 }
 PROVINCES = {"Koshi": 1, "Madhesh": 2, "Bagmati": 3, "Gandaki": 4, "Lumbini": 5, "Karnali": 6, "Sudurpaschim": 7}
+
+
+PROVINCES_NE = {1: "कोशी प्रदेश", 2: "मधेश प्रदेश", 3: "बागमती प्रदेश", 4: "गण्डकी प्रदेश", 5: "लुम्बिनी प्रदेश", 6: "कर्णाली प्रदेश", 7: "सुदूरपश्चिम प्रदेश"}
+
+
+def seat_ne(m, dist_ne):
+    """The seat in Nepali: "दोलखा-1", a proportional member's home district, or a province."""
+    seat = (m.get("seat") or "").strip()
+    prov = re.match(r"(\w+) Province$", seat)
+    if prov:
+        return PROVINCES_NE.get(PROVINCES.get(prov.group(1)))
+    hit = re.match(r"(.+)-(\d+)$", seat)
+    if m.get("election") == "direct" and hit:
+        return f"{dist_ne[hit.group(1)]}-{hit.group(2)}" if hit.group(1) in dist_ne else None
+    home = (m.get("district") or seat).strip()
+    return dist_ne.get(home)
 
 
 def place(m):
@@ -211,14 +228,16 @@ def build(out=ROOT / "dist"):
     # 2082 election results, matched to directly elected members.
     party_en = {m.get("party_ne"): m.get("party") for m in members if m.get("party_ne") and m.get("party")}
     party_en.update(EC_PARTIES)
-    races = {k: race_summary(v, party_en, tr) for k, v in election.match(members, read(DATA / "election.json", [])).items()}
+    matched, dist_ne = election.match(members, read(DATA / "election.json", []))
+    races = {k: race_summary(v, party_en, tr) for k, v in matched.items()}
     for m in members:
         full = read(DATA / "members" / f"{m['slug']}.json", {})
         rows.append({
-            "id": m["slug"], "name": m["name"], "ne": m.get("name_ne"), "ch": m.get("chamber"),
+            "id": m["slug"], "name": m["name"], "ne": election.clean_name_ne(m.get("name_ne")), "ch": m.get("chamber"),
             "party": m.get("party") or "No party", "seat": m.get("seat"), "el": m.get("election"), "g": m.get("gender"),
             "role": m.get("role"), "office": m.get("office"), "photo": m.get("photo"),
             "dist": place(m)[0], "prov": place(m)[1],
+            "pne": m.get("party_ne"), "seat_ne": seat_ne(m, dist_ne),
             "won": {k: races[m["slug"]][k] for k in ("share", "margin", "margin_pct")} if m["slug"] in races else None,
             "house": short_att(m["attendance"].get("house")),
             "cmte": short_att(m["attendance"].get("committee")),
@@ -300,9 +319,10 @@ def build(out=ROOT / "dist"):
         tb = [b["id"] for b in bills if slug in b["topics"]]
         tm = sorted((m for m in meetings if slug in m["topics"]), key=lambda m: m.get("date") or "", reverse=True)
         speakers = sorted(talk[slug].items(), key=lambda kv: -kv[1])
-        topics.append({"id": slug, "label": label, "bills": tb, "meetings": len(tm), "recent": [m["id"] for m in tm[:25]],
+        topics.append({"id": slug, "label": label, "ne": LABELS_NE[slug], "bills": tb, "meetings": len(tm), "recent": [m["id"] for m in tm[:25]],
                        "statements": sum(talk[slug].values()), "speakers": speakers[:15], "speakers_n": len(speakers)})
     write(d / "topics.json", topics)
+    write(d / "places.json", {DISTRICT_FIX.get(k, k): v for k, v in dist_ne.items()})
     write(d / "meetings.json", meetings)
     for mt in meetings:
         src = DATA / "meetings" / f"{mt['id']}.json"

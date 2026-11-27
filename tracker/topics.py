@@ -50,6 +50,13 @@ TOPICS = {
                    ["नियमावली", "संसदीय", "सभामुख"]),
 }
 LABELS = {k: v[0] for k, v in TOPICS.items()}
+LABELS_NE = {
+    "health": "स्वास्थ्य", "education": "शिक्षा", "economy": "अर्थतन्त्र र बजेट", "agriculture": "कृषि र खाद्य",
+    "justice": "कानुन र न्याय", "security": "सुरक्षा र रक्षा", "foreign": "परराष्ट्र र सन्धि", "labour": "रोजगार र वैदेशिक रोजगारी",
+    "social": "महिला, बालबालिका र समावेशिता", "environment": "वातावरण र जलवायु", "infrastructure": "सडक, यातायात र भवन",
+    "energy": "ऊर्जा र खानेपानी", "governance": "सुशासन र भ्रष्टाचार", "federalism": "प्रदेश र स्थानीय तह",
+    "technology": "प्रविधि र सञ्चार", "tourism": "पर्यटन र संस्कृति", "elections": "निर्वाचन", "parliament": "संसद सञ्चालन",
+}
 
 # English keywords may carry a little regex (\\b, a lookbehind); everything else is literal.
 _EN = {k: re.compile(r"\b(?:" + "|".join(w if "\\" in w or "(?" in w else re.escape(w) for w in en) + ")", re.I)

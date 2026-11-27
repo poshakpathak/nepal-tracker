@@ -22,4 +22,6 @@ def test_match_handles_titles_and_spelling():
     rs = races(RAW)
     winner = rs[0]["candidates"][0]["name_ne"]
     members = [{"slug": "x", "election": "direct", "seat": "Taplejung-1", "name_ne": "मन्त्री " + winner + " (ताप्लेजुङ)"}]
-    assert match(members, rs)["x"] is rs[0]
+    out, dmap = match(members, rs)
+    assert out["x"] is rs[0]
+    assert dmap == {"Taplejung": rs[0]["district_ne"]}
