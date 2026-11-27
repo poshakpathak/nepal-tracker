@@ -131,6 +131,23 @@ td > a:first-child { font-weight: 700; }
 
 #tip { position: fixed; z-index: 20; pointer-events: none; background: var(--ink); color: var(--bg); font: 700 12px var(--sans); padding: 5px 8px; max-width: 300px; }
 
+/* District map */
+.mapwrap { margin: 8px 0 10px; }
+.map { width: 100%; height: auto; display: block; }
+.map path { stroke: var(--bg); stroke-width: 1.2; stroke-linejoin: round; cursor: pointer; }
+.map a:hover { background: none; }
+.map a:hover path { stroke: var(--ink); stroke-width: 2.4; }
+.map .selo { fill: none; stroke: var(--pop); stroke-width: 4; pointer-events: none; }
+.b0 { fill: var(--none); }
+.b1 { fill: var(--out); }
+.b2 { fill: color-mix(in srgb, var(--in) 35%, var(--bg)); }
+.b3 { fill: color-mix(in srgb, var(--in) 65%, var(--bg)); }
+.b4 { fill: var(--in); }
+.maplegend i { display: inline-block; width: 14px; height: 14px; vertical-align: -2px; margin-right: 6px; }
+.maplegend i.b1 { background: var(--out); } .maplegend i.b2 { background: color-mix(in srgb, var(--in) 35%, var(--bg)); }
+.maplegend i.b3 { background: color-mix(in srgb, var(--in) 65%, var(--bg)); } .maplegend i.b4 { background: var(--in); } .maplegend i.b0 { background: var(--none); }
+h2.big { font-size: clamp(28px, 4vw, 44px); }
+
 @media (max-width: 640px) {
   .tiles { grid-template-columns: 1fr 1fr; }
   .tile:nth-child(odd) { border-left: 0; }

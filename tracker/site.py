@@ -5,6 +5,7 @@ Run with: python -m tracker.site
 """
 import datetime as dt
 import json
+import re
 import shutil
 from collections import defaultdict
 from pathlib import Path
@@ -23,6 +24,31 @@ def read(path, default=None):
 def write(path, obj):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
+# Portal spellings that differ from the map's district names.
+DISTRICT_FIX = {
+    "Aachham": "Achham", "Chitwan": "Chitawan", "Dhanakuta": "Dhankuta", "Kapilvastu": "Kapilbastu",
+    "Kavrepalanchok": "Kabhrepalanchok", "Makwanpur": "Makawanpur", "Tanahun": "Tanahu", "Tehrathum": "Terhathum",
+    "Nawalparasi (Bardaghat Susta Paschim)": "Nawalparasi West", "Nawalparasi (Bardaghat Susta Purva)": "Nawalparasi East",
+}
+PROVINCES = {"Koshi": 1, "Madhesh": 2, "Bagmati": 3, "Gandaki": 4, "Lumbini": 5, "Karnali": 6, "Sudurpaschim": 7}
+
+
+def place(m):
+    """(district, province number) a member represents or comes from.
+
+    Directly elected members: the district of their constituency ("Dolakha-1").
+    Proportional members: the home district the portal lists.
+    National Assembly members: their province only.
+    """
+    seat = (m.get("seat") or "").strip()
+    prov = re.match(r"(\w+) Province$", seat)
+    if prov:
+        return None, PROVINCES.get(prov.group(1))
+    raw = re.sub(r"-\d+$", "", seat) if m.get("election") == "direct" else (m.get("district") or seat)
+    raw = raw.strip()
+    return (DISTRICT_FIX.get(raw, raw) or None), None
 
 
 def short_att(a):
@@ -124,12 +150,14 @@ def build(out=ROOT / "dist"):
 
     rows = []
     sittings = {}  # plenary sitting id -> {date, title, chamber, in, out}
+    members = [m for m in members if m.get("chamber")]  # drop stray listing pages
     for m in members:
         full = read(DATA / "members" / f"{m['slug']}.json", {})
         rows.append({
             "id": m["slug"], "name": m["name"], "ne": m.get("name_ne"), "ch": m.get("chamber"),
             "party": m.get("party") or "No party", "seat": m.get("seat"), "el": m.get("election"), "g": m.get("gender"),
             "role": m.get("role"), "office": m.get("office"), "photo": m.get("photo"),
+            "dist": place(m)[0], "prov": place(m)[1],
             "house": short_att(m["attendance"].get("house")),
             "cmte": short_att(m["attendance"].get("committee")),
             "cm": [c["name"] for c in m.get("committees", [])],
