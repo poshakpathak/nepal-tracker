@@ -137,6 +137,20 @@ details.orig { margin-top: 8px; }
 details.orig summary { cursor: pointer; font-size: 12px; font-weight: 700; color: var(--muted); }
 details.orig .ne { margin-top: 6px; }
 
+/* Topics */
+.chips { display: inline-flex; flex-wrap: wrap; gap: 6px; vertical-align: middle; }
+.chip { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; text-decoration: none; border: 1.5px solid var(--deep); color: var(--deep); padding: 1px 7px; margin: 0 6px 6px 0; }
+.chips .chip { margin: 0; }
+.chip:hover { background: var(--deep); color: var(--deep-ink); }
+.topicgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 0; border-top: 4px solid var(--ink); }
+.topiccard { display: block; padding: 16px 16px 18px 0; border-bottom: 2px solid var(--ink); text-decoration: none; }
+.topiccard b { display: block; font: 900 20px/1.1 var(--sans); font-stretch: 110%; text-transform: uppercase; }
+.topiccard .track { display: block; height: 10px; background: var(--soft); margin: 12px 16px 8px 0; }
+.topiccard .track i { display: block; height: 100%; background: var(--deep); }
+.topiccard small { color: var(--muted); font-weight: 600; }
+.topiccard:hover { background: none; color: inherit; }
+.topiccard:hover b { color: var(--pop); }
+
 /* District map */
 .mapwrap { margin: 8px 0 10px; }
 .map { width: 100%; height: auto; display: block; }

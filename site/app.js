@@ -32,6 +32,7 @@ const nl = (t) => esc(t).replace(/\n/g, "<br>");
 const bilingual = (en, ne, cls = "") => (en
   ? `<div class="${cls}">${nl(en)}</div><details class="orig"><summary>${mtTag} · Nepali original</summary><div class="ne">${nl(ne)}</div></details>`
   : `<div class="ne ${cls}">${nl(ne)}</div>`);
+const plural = (n, w) => `${num(n)} ${w}${n === 1 ? "" : "s"}`;
 const clip = (t, n) => (t.length > n ? `${t.slice(0, n)}…` : t);
 
 const meter = (a) => (a && a.n ? `<span class="meter${a.pct < LOW ? " low" : ""}"><i style="width:${a.pct}%"></i></span>${a.pct}%` : `<span class="muted">no sittings</span>`);
@@ -104,6 +105,10 @@ function monthBars(months) {
   }).join("")}</div><div style="display:flex;gap:6px;margin-top:6px">${months.map(([k]) => `<span class="small" style="flex:1;text-align:center;font-weight:700">${MONTHS[+k.slice(5) - 1]}</span>`).join("")}</div>`;
 }
 const streakText = (m) => (m.streak >= 2 ? `Has missed the last <b>${m.streak}</b> sittings in a row, since ${day(m.streak_from)}.` : "");
+
+/* Topic chips; labels come from topics.json, loaded once. */
+let TOPIC = {};
+const chips = (ids) => (ids?.length ? `<span class="chips">${ids.map((t) => `<a class="chip" href="#/topic/${t}">${esc(TOPIC[t] || t)}</a>`).join("")}</span>` : "");
 
 /* ------------------------------------------------------------ pages */
 
@@ -219,7 +224,7 @@ async function memberPage(id) {
         ${(m.terms || []).length > 1 ? `<h3>Earlier terms</h3><p class="small">${m.terms.slice(1).map((t) => `${esc(t.years)}: ${esc(t.org)}`).join("<br>")}</p>` : ""}
       </section>
     </div>
-    <section class="sec"><h2>Floor statements</h2>
+    <section class="sec"><h2>Floor statements</h2>${m.topics?.length ? `<p class="small"><b>Spoke on:</b> ${m.topics.map(([t, n]) => `<a class="chip" href="#/topic/${t}">${esc(TOPIC[t] || t)} <b>${n}</b></a>`).join("")}</p>` : ""}
       ${m.statements.length ? `<div class="tablewrap"><table><thead><tr><th>Occasion</th><th>When</th><th></th></tr></thead><tbody>${m.statements.map((s) =>
         `<tr><td>${s.kind_en ? `${esc(s.kind_en)} <span class="mt" data-tip="${MT_TIP}">MT</span>` : `<span class="${/[\u0900-\u097f]/.test(s.kind || "") ? "ne" : ""}">${esc(s.kind)}</span>`}${s.text ? (s.text_en ? `<div class="small">${esc(clip(s.text_en, 400))} ${mtTag}</div><details class="orig small"><summary>Nepali original</summary><div class="ne">${nl(s.text)}</div></details>` : `<div class="small ne">${esc(clip(s.text, 400))}</div>`) : ""}</td><td>${esc(s.context)}</td><td class="nw">${s.video ? `<a href="${esc(s.video)}" target="_blank" rel="noopener">Watch</a>` : ""}</td></tr>`).join("")}</tbody></table></div>`
         : `<p class="muted">None recorded yet.</p>`}
@@ -286,7 +291,7 @@ async function billPage(id) {
   }).join("");
   app.innerHTML = `<p class="kicker">Bill no. ${num(b.number)} · ${esc(b.origin || "")}</p>
     <h1 class="long">${b.title ? esc(b.title) : b.title_mt ? esc(b.title_mt) : ""}<span class="ne">${esc(b.title_ne)}</span></h1>${!b.title && b.title_mt ? `<p>${mtTag}</p>` : ""}
-    <p>${[b.status, ...(b.tags || [])].map((t, i) => `<span class="tag${i ? " line" : " red"}">${esc(t)}</span>`).join(" ")}</p>
+    <p>${[b.status, ...(b.tags || [])].map((t, i) => `<span class="tag${i ? " line" : " red"}">${esc(t)}</span>`).join(" ")} ${chips((await load("bills")).find((x) => x.id === b.id)?.topics)}</p>
     <div class="grid" style="margin-top:24px">
       <section class="sec"><h2>Where it stands</h2>
         <dl class="facts"><dt>Presented by</dt><dd>${esc(b.presented_by || "–")}</dd><dt>Ministry</dt><dd class="ne">${esc(b.ministry_ne || "–")}</dd>
@@ -323,7 +328,7 @@ async function meetingPage(id) {
   const by = Object.fromEntries(members.map((m) => [m.id, m]));
   const absent = g.attendance.filter((a) => a.status !== "present");
   const person = (a) => { const m = by[a.member]; return `<span class="${a.status === "present" ? "p" : "a"}">${m ? mlink(m) : esc(a.member)} <span class="muted small">${esc(short(m?.party))}</span></span>`; };
-  app.innerHTML = `<p class="kicker">${esc(g.body || "Meeting")} · ${day(g.date)}</p><h1 class="long">${esc(g.title)}</h1>
+  app.innerHTML = `<p class="kicker">${esc(g.body || "Meeting")} · ${day(g.date)}</p><h1 class="long">${esc(g.title)}</h1>${g.topics?.length ? `<p>${chips(g.topics)}</p>` : ""}
     <div class="tiles"><div class="tile"><b>${g.members ? Math.round((100 * g.present) / g.members) : "–"}%</b><span>Present</span><small>${num(g.present)} of ${num(g.members)}</small></div>
     <div class="tile${absent.length ? " hot" : ""}"><b>${num(absent.length)}</b><span>Absent</span></div>
     <div class="tile"><b>${esc(g.duration || "–")}</b><span>Length</span><small>${esc(g.start || "")}${g.end ? ` to ${esc(g.end)}` : ""}</small></div></div>
@@ -430,6 +435,36 @@ async function mapPage(sel) {
     <section class="sec"><h2>National Assembly, ${esc(PROV[d.province])}</h2><p class="small muted">Elected by the province as a whole.</p><ol class="rank">${na.map((m) => li(m, esc(short(m.party)))).join("") || `<li class="muted">None listed.</li>`}</ol></section>`;
 }
 
+async function topicsPage() {
+  const topics = await load("topics");
+  const max = Math.max(...topics.map((t) => t.statements), 1);
+  app.innerHTML = `<p class="kicker">What they talk about</p><h1>Topics</h1>
+    <p class="lede">Bills, meeting agendas and floor statements sorted into policy areas by keyword. Most statements are published only as video, so a statement is counted only when its occasion or transcript says what it was about.</p>
+    <div class="topicgrid">${[...topics].sort((a, b) => b.statements + b.meetings - a.statements - a.meetings).map((t) => `
+      <a class="topiccard" href="#/topic/${t.id}"><b>${esc(t.label)}</b>
+        <span class="track"><i style="width:${(100 * t.statements) / max}%"></i></span>
+        <small>${plural(t.statements, "statement")} · ${plural(t.meetings, "meeting")} · ${plural(t.bills.length, "bill")}</small></a>`).join("")}</div>`;
+}
+
+async function topicPage(id) {
+  const [topics, members, bills, meetings] = await Promise.all([load("topics"), load("members"), load("bills"), load("meetings")]);
+  const t = topics.find((x) => x.id === id);
+  if (!t) { app.innerHTML = `<h1>Not found</h1>`; return; }
+  const by = Object.fromEntries(members.map((m) => [m.id, m]));
+  const bb = Object.fromEntries(bills.map((b) => [b.id, b]));
+  const gm = Object.fromEntries(meetings.map((m) => [m.id, m]));
+  app.innerHTML = `<p class="kicker"><a href="#/topics" style="color:inherit">Topics</a></p><h1>${esc(t.label)}</h1>
+    <div class="tiles"><div class="tile"><b>${num(t.statements)}</b><span>Floor statements</span><small>by ${num(t.speakers_n)} members</small></div>
+      <div class="tile"><b>${num(t.meetings)}</b><span>Meetings</span></div><div class="tile"><b>${num(t.bills.length)}</b><span>Bills</span></div></div>
+    <div class="grid">
+      <section class="sec"><h2>Who speaks on it most</h2>${t.speakers.length ? `<ol class="rank">${t.speakers.map(([mid, n]) => { const m = by[mid]; return m ? `<li><span>${mlink(m)}<span class="sub">${m.office ? `<b>${esc(m.office)}</b> · ` : ""}${esc(short(m.party))}</span></span><span class="v">${n}</span></li>` : ""; }).join("")}</ol>
+        <p class="small muted">Ministers speak when presenting their bills, so they lead most topics.</p>` : `<p class="muted">No statements tagged yet.</p>`}</section>
+      <section class="sec"><h2>Bills</h2>${t.bills.length ? `<ol class="rank">${t.bills.map((bid) => { const b = bb[bid]; return b ? `<li><span><a href="#/bill/${b.id}">${billName(b)}</a><span class="sub">${esc(b.current_step || b.status || "")}</span></span><span class="v">${billProgress(b)}</span></li>` : ""; }).join("")}</ol>` : `<p class="muted">None.</p>`}</section>
+    </div>
+    <section class="sec"><h2>Recent meetings</h2>${t.recent.length ? `<div class="tablewrap"><table><tbody>${t.recent.map((gid) => { const m = gm[gid]; return m ? `<tr><td class="nw">${day(m.date)}</td><td><a href="#/meeting/${m.id}">${esc(m.title)}</a>${m.agenda_en ? `<div class="small">${esc(clip(m.agenda_en, 200))}</div>` : m.agenda ? `<div class="small ne">${esc(clip(m.agenda, 200))}</div>` : ""}</td></tr>` : ""; }).join("")}</tbody></table></div>` : `<p class="muted">None.</p>`}</section>
+    <p class="small muted">Topics are assigned by keyword, from the English text where there is one. Some items will be in the wrong place or missing.</p>`;
+}
+
 function about() {
   app.innerHTML = `<p class="kicker">Method</p><h1>About this tracker</h1><div class="prose">
     <p>This site follows what members of Nepal's Federal Parliament do: whether they attend sittings and committee meetings, what they say on the floor, and how bills move through both houses.</p>
@@ -446,12 +481,13 @@ function about() {
 const routes = [
   [/^#?\/?$/, overview], [/^#\/members(?:\?q=(.*))?$/, (q) => membersPage(q && decodeURIComponent(q))], [/^#\/member\/([\w-]+)$/, memberPage],
   [/^#\/attendance$/, attendance], [/^#\/bills$/, billsPage], [/^#\/bill\/([\w-]+)$/, billPage],
-  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/map(?:\/(.+))?$/, mapPage], [/^#\/about$/, about],
+  [/^#\/meetings$/, meetingsPage], [/^#\/meeting\/([\w-]+)$/, meetingPage], [/^#\/parties$/, partiesPage], [/^#\/week(?:\/(\d{4}-\d{2}-\d{2}))?$/, weekPage], [/^#\/map(?:\/(.+))?$/, mapPage], [/^#\/topics$/, topicsPage], [/^#\/topic\/([\w-]+)$/, topicPage], [/^#\/about$/, about],
 ];
 async function route() {
+  if (!Object.keys(TOPIC).length) TOPIC = Object.fromEntries(((await tryLoad("topics")) || []).map((t) => [t.id, t.label]));
   const h = location.hash || "#/";
   const sect = h.split("/")[1] || "";
-  const alias = { member: "members", bill: "bills", meeting: "meetings" };
+  const alias = { member: "members", bill: "bills", meeting: "meetings", topic: "topics" };
   document.querySelectorAll("#nav a").forEach((a) => a.classList.toggle("on", (a.getAttribute("href").split("/")[1] || "") === (alias[sect] || sect)));
   for (const [re, fn] of routes) {
     const m = re.exec(h);
