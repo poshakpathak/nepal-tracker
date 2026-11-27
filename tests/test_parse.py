@@ -57,3 +57,20 @@ def test_meeting_page():
     assert m["present"] == 10 and m["members"] == 12
     assert len(m["attendance"]) == 12
     assert m["chair"] == "Jayanti Devi Rai"
+
+
+def test_english_title_phrasings():
+    t = parse.english_title
+    assert t('The name of this bill is the "Passport (First Amendment) Bill, 2083" (Section 1)') == "Passport (First Amendment) Bill, 2083"
+    assert t("The title of the proposed bill is the Human Trafficking and Transportation (Control) (First Amendment) Bill, 2083 (Section 1") == \
+        "Human Trafficking and Transportation (Control) (First Amendment) Bill, 2083"
+    assert t("The main purpose of the Air Services Authority of Nepal Bill, 2083 is to develop") == "Air Services Authority of Nepal Bill, 2083"
+    assert t("It amends the Social Welfare Act, 2049.") == "Social Welfare Act, 2049"
+    assert t("No name here.") is None
+
+
+def test_offices_split_from_names():
+    from tracker.text import split_office
+    assert split_office("Hon. Minister Sasmit Pokharel") == ("Sasmit Pokharel", "Minister")
+    assert split_office("Rt. Hon. Prime Minister Balendra Shah") == ("Balendra Shah", "Prime Minister")
+    assert split_office("Hon. Dr. Ram Sharma") == ("Dr. Ram Sharma", None)

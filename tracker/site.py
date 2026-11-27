@@ -44,8 +44,8 @@ def build(out=ROOT / "dist"):
         full = read(DATA / "members" / f"{m['slug']}.json", {})
         rows.append({
             "id": m["slug"], "name": m["name"], "ne": m.get("name_ne"), "ch": m.get("chamber"),
-            "party": m.get("party"), "seat": m.get("seat"), "el": m.get("election"), "g": m.get("gender"),
-            "role": m.get("role"), "photo": m.get("photo"),
+            "party": m.get("party") or "No party", "seat": m.get("seat"), "el": m.get("election"), "g": m.get("gender"),
+            "role": m.get("role"), "office": m.get("office"), "photo": m.get("photo"),
             "house": short_att(m["attendance"].get("house")),
             "cmte": short_att(m["attendance"].get("committee")),
             "cm": [c["name"] for c in m.get("committees", [])],

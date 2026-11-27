@@ -25,3 +25,15 @@ def strip_honorific(name: str) -> str:
     name = re.sub(r"^(Rt\.\s*)?Hon(ourable|\.)?\s*", "", name)
     name = re.sub(r"^(सम्माननीय|मा\.)\s*", "", name)
     return name
+
+
+OFFICE = re.compile(r"^((?:Rt\.\s*)?(?:Deputy\s+)?Prime Minister|(?:State\s+)?Minister(?: of State)?|(?:Deputy\s+)?Speaker|(?:Vice[- ])?Chair(?:man|person)?)\s+", re.I)
+
+
+def split_office(name: str):
+    """'Minister Sasmit Pokharel' -> ('Sasmit Pokharel', 'Minister')."""
+    name = strip_honorific(name)
+    m = OFFICE.match(name)
+    if not m:
+        return name, None
+    return name[m.end():], m.group(1)

@@ -112,8 +112,8 @@ async function overview() {
     </div>
     <div class="grid">
       <section class="sec"><h2>Missing the most sittings</h2>
-        <ol class="rank">${worst.map((m) => `<li><span>${mlink(m)}<span class="sub">${esc(short(m.party))} · ${seatOf(m)}${m.role && m.role !== "MP" ? ` · ${esc(m.role)}` : ""}</span></span><span class="v">${m.house.pct}%</span></li>`).join("")}</ol>
-        <p class="small muted">Ministers are only required in the chamber when their portfolio is on the agenda. <a href="#/attendance">Full attendance ranking →</a></p>
+        <ol class="rank">${worst.map((m) => `<li><span>${mlink(m)}<span class="sub">${m.office ? `<b>${esc(m.office)}</b> · ` : ""}${esc(short(m.party))} · ${seatOf(m)}</span></span><span class="v">${m.house.pct}%</span></li>`).join("")}</ol>
+        <p class="small muted">${worst.filter((m) => m.office).length} of these ${worst.length} hold a government office. Ministers are only required in the chamber when their portfolio is on the agenda. <a href="#/attendance">Full attendance ranking →</a></p>
       </section>
       <section class="sec"><h2>Bills that moved last</h2>
         <div class="tablewrap"><table><thead><tr><th>Bill</th><th>Stage</th><th class="num">Last step</th></tr></thead><tbody>
@@ -148,7 +148,7 @@ async function membersPage(q) {
       <select id="pa"><option value="">All parties</option>${parties.map((p) => `<option>${esc(p)}</option>`).join("")}</select>
     </div><div id="t"></div>`;
   const t = table(document.getElementById("t"), members, [
-    { h: "Member", v: (m) => `${mlink(m)}<div class="small ne muted">${esc(m.ne || "")}</div>`, s: (m) => m.name },
+    { h: "Member", v: (m) => `${mlink(m)}${m.office ? ` <span class="tag red">${esc(m.office)}</span>` : ""}<div class="small ne muted">${esc(m.ne || "")}</div>`, s: (m) => m.name },
     { h: "Party", v: (m) => esc(short(m.party)), s: (m) => m.party, nw: true },
     { h: "House", v: (m) => CHS[m.ch] || "", s: (m) => m.ch, nw: true },
     { h: "Seat", v: seatOf, s: (m) => m.seat },
@@ -173,8 +173,8 @@ async function memberPage(id) {
   const missed = sit.filter((r) => r[2] === "a");
   const bio = Object.entries(m.bio || {}).filter(([, v]) => v);
   app.innerHTML = `
-    <div class="profile">${m.photo ? `<img src="${esc(m.photo)}" alt="">` : ""}
-      <div><p class="kicker">${esc(CH[m.ch] || "")}${m.role && m.role !== "MP" ? ` · ${esc(m.role)}` : ""}</p>
+    <div class="profile">${m.photo ? `<img src="${esc(m.photo)}" alt="" onerror="this.remove()">` : ""}
+      <div><p class="kicker">${m.office ? `${esc(m.office)} · ` : ""}${esc(CH[m.ch] || "")}</p>
       <h1 class="long">${esc(m.name)}<span class="ne">${esc(m.ne || "")}</span></h1>
       <p><span class="tag">${esc(m.party || "")}</span> <span class="tag line">${m.el === "proportional" ? "Proportional list" : "Elected directly"}</span></p></div>
     </div>
@@ -218,7 +218,7 @@ async function attendance() {
     <section class="sec"><h2>Turnout by sitting</h2><div id="tu"></div></section>`;
   const draw = (ch) => {
     const rows = members.filter((m) => m.ch === ch && m.house?.n).sort((a, b) => a.house.pct - b.house.pct || a.house.in - b.house.in);
-    const li = (m) => `<li><span>${mlink(m)}<span class="sub">${esc(short(m.party))} · ${m.house.in} of ${m.house.n} sittings</span></span><span class="v">${m.house.pct}%</span></li>`;
+    const li = (m) => `<li><span>${mlink(m)}<span class="sub">${m.office ? `<b>${esc(m.office)}</b> · ` : ""}${esc(short(m.party))} · ${m.house.in} of ${m.house.n} sittings</span></span><span class="v">${m.house.pct}%</span></li>`;
     document.getElementById("lo").innerHTML = rows.slice(0, 15).map(li).join("");
     document.getElementById("hi").innerHTML = [...rows].reverse().slice(0, 15).map(li).join("");
     document.getElementById("tu").innerHTML = turnout(sittings.filter((s) => s.ch === ch));
@@ -247,6 +247,12 @@ async function billsPage() {
   });
 }
 
+function summaryHtml(text) {
+  const paras = esc(text || "").split("\n").filter(Boolean);
+  const p = (x) => x.map((t) => `<p>${t}</p>`).join("");
+  return `<div class="prose small">${p(paras.slice(0, 2))}${paras.length > 2 ? `<details><summary>Read the full summary</summary>${p(paras.slice(2))}</details>` : ""}</div>`;
+}
+
 async function billPage(id) {
   const b = await tryLoad(`b/${id}`);
   if (!b) { app.innerHTML = `<h1>Not found</h1>`; return; }
@@ -264,7 +270,7 @@ async function billPage(id) {
         <dl class="facts"><dt>Presented by</dt><dd>${esc(b.presented_by || "–")}</dd><dt>Ministry</dt><dd class="ne">${esc(b.ministry_ne || "–")}</dd>
         <dt>Registered</dt><dd>${day(b.registered)}</dd><dt>Current step</dt><dd>${esc(b.current_step || "–")}</dd><dt>In process</dt><dd>${num(b.days_in_process)} days</dd></dl>
         <ul class="journey">${steps}</ul></section>
-      <section class="sec"><h2>What it does</h2><div class="prose small">${esc(b.summary).split("\n").map((p) => `<p>${p}</p>`).join("")}</div>
+      <section class="sec"><h2>What it does</h2>${summaryHtml(b.summary)}
         <p class="small muted">Summary from the parliament portal. ${b.pdf ? `<a href="${esc(b.pdf)}" target="_blank" rel="noopener">Read the bill (PDF, Nepali)</a>.` : ""}</p></section>
     </div>`;
 }

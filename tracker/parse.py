@@ -10,7 +10,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from .text import ascii_digits, clean, strip_honorific, to_int
+from .text import ascii_digits, clean, split_office, strip_honorific, to_int
 
 BASE = "https://digital.parliament.gov.np"
 UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
@@ -57,9 +57,11 @@ def member_list(html):
     for card in s.select("article.mp-card"):
         a = card.select_one("a.mp-card__hit")
         img = card.select_one(".mp-card__avatar img")
+        name, office = split_office(_text(card.select_one(".mp-card__name")))
         rows.append({
             "slug": _slug(a["href"]) if a else None,
-            "name": strip_honorific(_text(card.select_one(".mp-card__name"))),
+            "name": name,
+            "office": office,
             "chamber": CHAMBERS.get(card.get("data-chamber"), card.get("data-chamber")),
             "party": _text(card.select_one(".mp-card__party")),
             "party_id": card.get("data-party-uuid") or None,
@@ -201,6 +203,26 @@ def _parse_en_date(s, year_hint=None):
     return None
 
 
+_W = r"(?:[A-Z][\w'’\-]*|\([^)]*\))"
+_C = r"(?:of|and|to|for|the|on|in|by|with|Relating)"
+_TITLE = re.compile(rf"({_W}(?:\s+(?:{_W}|{_C}))*),\s*(20\d\d)")
+
+
+def english_title(summary):
+    """The portal's English summary names the bill in several phrasings; find the name."""
+    m = re.search(r'name of (?:this|the) (?:bill|act) is (?:the )?"([^"]+)"', summary, re.I)
+    if m:
+        return m.group(1)
+    cands = []
+    for m in _TITLE.finditer(summary):
+        t = re.sub(r"^The\s+", "", m.group(1))
+        if re.search(r"\b(Bill|Act)\b", t):
+            cands.append((t, int(m.group(2))))
+    recent = [c for c in cands if c[1] >= 2080 or 2024 <= c[1] <= 2030]
+    best = (recent or cands or [None])[0]
+    return f"{best[0]}, {best[1]}" if best else None
+
+
 def bill_page(html, bill_id=None):
     """English bill page. Title stays in Nepali on the portal; the English name is in the summary."""
     s = soup(html)
@@ -226,8 +248,7 @@ def bill_page(html, bill_id=None):
     body = s.find(class_="bills-demo-bill-detail-body")
     summary = body.get_text("\n", strip=True) if body else ""
     out["summary"] = summary[:6000]
-    m = re.search(r'name of this bill is (?:the )?"([^"]+)"', summary)
-    out["title"] = m.group(1) if m else None
+    out["title"] = english_title(summary)
     # Journey: phases (one per house pass) -> stages -> steps.
     steps = []
     year = reg.year if reg else None
@@ -243,7 +264,9 @@ def bill_page(html, bill_id=None):
             if raw_date and year:
                 date = _parse_en_date(raw_date, year)
                 if date and last and date < last - dt.timedelta(days=60):
-                    date = date.replace(year=date.year + 1)  # rolled into the next year
+                    later = date.replace(year=date.year + 1)  # rolled into the next year
+                    if later <= dt.date.today():
+                        date = later
                 if date:
                     last = date
             docs = [a["href"] for a in step.select("a.bills-demo-step-doc[href]")]

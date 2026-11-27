@@ -66,6 +66,7 @@ def run(limit=None, refetch_meetings=False):
             "election": card.get("election"),
             "gender": card.get("gender"),
             "role": card.get("role"),
+            "office": card.get("office"),
             "education": page.get("education"),
             "photo": page.get("photo") or card.get("photo"),
             "term_start": page.get("term_start"),
