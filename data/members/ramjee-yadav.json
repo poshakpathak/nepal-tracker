@@ -1,6 +1,6 @@
 {
  "slug": "ramjee-yadav",
- "name": "Minister Ramjee Yadav",
+ "name": "Ramjee Yadav",
  "name_ne": "मन्त्री रामजी यादव",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/Q97Mz2hsAt7MmzFYQbAqz9rCN1PWQxn4asAqIwM3-web_medium.webp",
  "term_start": "2026-03-26",

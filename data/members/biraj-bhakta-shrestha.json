@@ -1,6 +1,6 @@
 {
  "slug": "biraj-bhakta-shrestha",
- "name": "Minister Biraj Bhakta Shrestha",
+ "name": "Biraj Bhakta Shrestha",
  "name_ne": "मन्त्री विराज भक्त श्रेष्ठ",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/GIq17Y4XRdaeQtHuTnmsWmzPLCR9qlf8OshJelgX-web_medium.webp",
  "term_start": "2026-03-26",

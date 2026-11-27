@@ -1,6 +1,6 @@
 {
  "slug": "balendra-shah",
- "name": "Prime Minister Balendra Shah",
+ "name": "Balendra Shah",
  "name_ne": "प्रधानमन्त्री वालेन्द्र शाह",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Prime Minister",
  "education": "PhD Scholar",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/PqVG6wguny3ldUplJM250ekzSLf5W8PEuK21lflK-web_medium.webp",
  "term_start": "2026-03-26",

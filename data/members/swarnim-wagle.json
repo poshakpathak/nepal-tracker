@@ -1,6 +1,6 @@
 {
  "slug": "swarnim-wagle",
- "name": "Minister Swarnim Wagle",
+ "name": "Swarnim Wagle",
  "name_ne": "मन्त्री स्वर्णिम वाग्ले",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "PHD",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/Cb8Tw1DNHfbrBCjRKx0Dkui2q8coDgiRRSdqMnVa-web_medium.webp",
  "term_start": "2026-03-26",

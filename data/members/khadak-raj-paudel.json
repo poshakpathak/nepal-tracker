@@ -1,6 +1,6 @@
 {
  "slug": "khadak-raj-paudel",
- "name": "Minister Khadak Raj Paudel",
+ "name": "Khadak Raj Paudel",
  "name_ne": "मन्त्री खडक राज पौडेल",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Masters",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/F4tfihfQ9iyZGF0X0ShQ7339VTreOO2w46bqMiAc-web_medium.webp",
  "term_start": "2026-03-26",

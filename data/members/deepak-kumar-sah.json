@@ -1,6 +1,6 @@
 {
  "slug": "deepak-kumar-sah",
- "name": "Minister Er. Deepak Kumar Sah",
+ "name": "Er. Deepak Kumar Sah",
  "name_ne": "मन्त्री इ. दीपक कुमार साह (सुनसरी)",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Master's",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/f2VQjLlAdrpN3Npzi3KRLDw3OpQDPEAQ3kY5G7ij-web_medium.webp",
  "term_start": "2026-03-26",

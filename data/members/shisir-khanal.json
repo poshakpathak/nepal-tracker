@@ -1,6 +1,6 @@
 {
  "slug": "shisir-khanal",
- "name": "Minister Shisir Khanal",
+ "name": "Shisir Khanal",
  "name_ne": "मन्त्री शिशिर खनाल",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Master Degree",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/nbJDUFj6mGbHyHgGI0eW8xb6gbM1rZk0KXUbUpzc-web_medium.webp",
  "term_start": "2026-03-26",

@@ -1,6 +1,6 @@
 {
  "slug": "sita-badi",
- "name": "Minister Sita Badi",
+ "name": "Sita Badi",
  "name_ne": "मन्त्री सिता बादी",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": "Minister",
  "education": "Masters",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/ioyDVaIxpa8JbV9gbhB61j3fjRnRabaMliHeVAlo-web_medium.webp",
  "term_start": "2026-03-26",

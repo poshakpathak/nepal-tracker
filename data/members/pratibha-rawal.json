@@ -1,6 +1,6 @@
 {
  "slug": "pratibha-rawal",
- "name": "Minister Pratibha Rawal",
+ "name": "Pratibha Rawal",
  "name_ne": "मन्त्री प्रतिभा रावल",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": "Minister",
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/7deDlxwugB43OtFt2O6JD5nLcqErQzqINzkLLneR-web_medium.webp",
  "term_start": "2026-03-26",

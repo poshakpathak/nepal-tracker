@@ -16,7 +16,7 @@
  "origin": "House of Representatives",
  "session_ne": "दोस्रो",
  "summary": "The Cooperatives (First Amendment) Bill, 2083 amends the Cooperatives Act, 2074 to enhance financial governance, supervision, and stability across Nepal's cooperative sector. Its primary objective is to safeguard small depositors, expedite loan recovery, streamline asset management for troubled cooperatives, and clarify regulatory jurisdictions. This replacement bill formally incorporates and supersedes the Cooperatives (First Amendment) Ordinance, 2083.\n\nKey Provisions:\n- Mandates operating licenses from the National Cooperative Regulation Authority for all main savings and credit cooperatives, subject to annual renewal.\n- Prohibits cooperative unions and federations from conducting savings and credit business, providing a transition period to shut down such operations.\n- Establishes a Revolving Relief Fund under the Management Committee to enable prompt deposit refunds to affected members of troubled cooperatives.\n- Requires cooperatives engaging in savings and credit activities to obtain mandatory membership in the Deposit and Credit Guarantee Fund.\n- Empowers regulatory bodies to freeze bank accounts, attach moveable and immoveable assets, and impose foreign travel bans on directors, management, and relatives involved in asset misuse or loan defaults.\n- Caps late payment penalties at a maximum of five percent of unpaid interest.\n\nScope and Applicability:\nThe bill applies to all registered cooperatives across federal, provincial, and local levels, focusing specifically on entities where savings collected or loans disbursed exceed 50 percent of total assets/liabilities or NPR 250 million.\n\nKey Institutions and Definitions:\n- National Cooperative Regulation Authority: Designated as the chief regulatory and supervisory authority for savings and credit cooperatives.\n- Management Committee: Responsible for managing assets and settling liabilities of troubled cooperatives.\n- Expanded Definitions: Redefines 'Family', 'Relatives', and 'Main Savings and Credit Cooperatives' to broaden financial accountability and trace misappropriated assets.\n\nProcedural Requirements, Timelines, and Penalties:\n- Existing savings and credit cooperatives must obtain an operating license within one year of enactment.\n- Cooperative unions currently running savings and credit operations must cease them within three years.\n- Administrative fines up to NPR 500,000 may be levied for regulatory non-compliance, following a mandatory 15-day explanation procedure.",
- "title": null,
+ "title": "Cooperatives (First Amendment) Bill, 2083",
  "steps": [
   {
    "phase": 1,
@@ -141,7 +141,7 @@
    "house": "National Assembly",
    "step": "Committee Report Presentation and Discussion",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -149,7 +149,7 @@
    "house": "National Assembly",
    "step": "Bill Passed",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -157,7 +157,7 @@
    "house": "National Assembly",
    "step": "Returned to the House of Representatives with a Message",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -165,7 +165,7 @@
    "house": "House of Representatives",
    "step": "Bill Tabled with Message",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -173,7 +173,7 @@
    "house": "House of Representatives",
    "step": "Re-passed after Accepting or Rejecting the Amendments",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -181,7 +181,7 @@
    "house": "House of Representatives",
    "step": "Bill Authentication By Speaker",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -189,7 +189,7 @@
    "house": "House of Representatives",
    "step": "Sent to President Office for Certification",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   },
   {
@@ -197,11 +197,11 @@
    "house": "House of Representatives",
    "step": "Certified By President",
    "state": "completed",
-   "date": "2027-07-09",
+   "date": "2026-07-09",
    "docs": []
   }
  ],
  "current_step": "Certified By President",
- "last_action": "2027-07-09",
+ "last_action": "2026-09-08",
  "pdf": "https://digitalsystem.parliament.gov.np/storage/bills/8fa7e76c-72fa-496e-b249-a115a4148e08/bill_registration/C0PX0A0xm92HjNzeiXOd7AAUiYSxKxBBRX8g0c8u.pdf"
 }

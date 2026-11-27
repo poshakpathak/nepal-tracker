@@ -1,6 +1,6 @@
 {
  "slug": "sasmit-pokhrel",
- "name": "Minister Sasmit Pokharel",
+ "name": "Sasmit Pokharel",
  "name_ne": "मन्त्री सस्मित पोखरेल",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/85Wg9g9WQuNMiUFn7thtBv1JcIBsMVNXFV43kvx6-web_medium.webp",
  "term_start": "2026-03-26",

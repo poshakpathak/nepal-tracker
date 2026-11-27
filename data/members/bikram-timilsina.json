@@ -1,6 +1,6 @@
 {
  "slug": "bikram-timilsina",
- "name": "Minister Bikram Timilsina",
+ "name": "Bikram Timilsina",
  "name_ne": "मन्त्री विक्रम तिमिल्सिना",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "PHD",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/3XH92Y3al3dP8ci4Pn5EBNQsZNYAhU7c5tHYVUVJ-web_medium.webp",
  "term_start": "2026-03-26",

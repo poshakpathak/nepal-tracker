@@ -1,6 +1,6 @@
 {
  "slug": "rubi-kumari",
- "name": "Deputy Speaker Rubi Kumari",
+ "name": "Rubi Kumari",
  "name_ne": "उपसभामुख रुवी कुमारी",
  "chamber": "hor",
  "party": "Shram Sanskriti Party",
@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": "Deputy Speaker",
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/x5xEZhfFfJfSMPTg9F7LUBNRWhRjtrVgRMI2ScjO-web_medium.webp",
  "term_start": "2026-03-26",

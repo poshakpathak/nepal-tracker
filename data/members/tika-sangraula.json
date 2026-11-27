@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": null,
  "education": "Bachelor's",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/rwRuYZLWDLxnwEnRghpAynI0uXKbsph98bBY0iiL-web_medium.webp",
  "term_start": "2026-03-26",

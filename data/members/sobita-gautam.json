@@ -1,6 +1,6 @@
 {
  "slug": "sobita-gautam",
- "name": "Minister Sobita Gautam",
+ "name": "Sobita Gautam",
  "name_ne": "मन्त्री सोविता गौतम",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "female",
  "role": "MP",
+ "office": "Minister",
  "education": "B.A. LLB",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/XaZ2EpSFeSLOiZdY2A3FDqR7ahekL7HY5K0rBGlT-web_medium.webp",
  "term_start": "2026-03-26",

@@ -1,6 +1,6 @@
 {
  "slug": "sunil-lamsal",
- "name": "Minister Sunil Lamsal",
+ "name": "Sunil Lamsal",
  "name_ne": "मन्त्री सुनिल लम्साल",
  "chamber": "hor",
  "party": "Rastriya Swatantra Party",
@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": "Minister",
  "education": "Masters",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/GZcIEts7qSTXLoQyEwJNBxcUgiTTp9kqLNEnKhWo-web_medium.webp",
  "term_start": "2026-03-26",

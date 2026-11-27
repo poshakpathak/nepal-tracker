@@ -11,6 +11,7 @@
  "election": "direct",
  "gender": "male",
  "role": "MP",
+ "office": null,
  "education": "Bachelor",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/Tns7FMmU7XI0LVAKBWV3FLkv1uYogV7QyL9IdWBI-web_medium.webp",
  "term_start": "2026-03-26",

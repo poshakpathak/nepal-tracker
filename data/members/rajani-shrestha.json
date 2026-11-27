@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": null,
  "education": "स्नातक",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/f5K4zHfo7evNxPG7RCc5BtQf4CqfOvdLVZnMyPt7-web_medium.webp",
  "term_start": "2026-03-26",

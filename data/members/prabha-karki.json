@@ -11,6 +11,7 @@
  "election": "proportional",
  "gender": "female",
  "role": "MP",
+ "office": null,
  "education": "S. L. C.",
  "photo": "https://digital.parliament.gov.np/storage/parliamentarians-profiles/LqN2nX9PCcXDnLXIdYlrJs0S9gahSI6auCSxtMie-web_medium.webp",
  "term_start": "2026-03-26",
